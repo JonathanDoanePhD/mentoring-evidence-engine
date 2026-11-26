@@ -1,0 +1,642 @@
+[
+ {
+  "id": "ED573430",
+  "design": "other",
+  "rigor": 1,
+  "n_youth": null,
+  "country": "US",
+  "setting": "school_based",
+  "format": "one_to_one",
+  "mentor_type": "adult_volunteer",
+  "targets": [
+   "low_income",
+   "urban"
+  ],
+  "grade_band": "high",
+  "program_name": "iMentor College Ready",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "yes",
+  "outcomes": {},
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Implementation report on relationship development in an online-plus-curriculum program; no impact results stated."
+ },
+ {
+  "id": "ED574428",
+  "design": "review",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "other",
+  "setting": "unclear",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "low_income"
+  ],
+  "grade_band": "unclear",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "yes",
+  "outcomes": {
+   "college_access_enrollment": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": {
+   "n_studies": null,
+   "pooled_metric": null,
+   "pooled_value": null
+  },
+  "notes": "Narrative review of university access programmes in US and UK; mentoring among promising methods, evidence thin."
+ },
+ {
+  "id": "ED577210",
+  "design": "correlational",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "US",
+  "setting": "school_based",
+  "format": "unclear",
+  "mentor_type": "teacher_school_staff",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "high",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {
+   "academic_achievement": "null",
+   "mental_health": "positive",
+   "psychosocial_other": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Dissertation on teacher-mentor training at a girls school; mentor self-efficacy and authenticity linked to anxiety."
+ },
+ {
+  "id": "ED577906",
+  "design": "quasi_experimental",
+  "rigor": 3,
+  "n_youth": 201,
+  "country": "US",
+  "setting": "school_based",
+  "format": "peer_cross_age",
+  "mentor_type": "older_peer",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "high",
+  "program_name": null,
+  "duration_months": 9,
+  "frequency": "weekly_or_more",
+  "bridging": "no",
+  "outcomes": {},
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Senior mentors in freshman advisory versus prior-year cohort; outcome directions not given in abstract."
+ },
+ {
+  "id": "ED578154",
+  "design": "correlational",
+  "rigor": 3,
+  "n_youth": 205,
+  "country": "US",
+  "setting": "online",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "high",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {
+   "academic_achievement": "mixed"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Online alternative-education students; modelling of course completion; mentor meetings helped girls only; mentoring minor factor."
+ },
+ {
+  "id": "ED578235",
+  "design": "correlational",
+  "rigor": 4,
+  "n_youth": 416,
+  "country": "US",
+  "setting": "college_campus",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "first_generation"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {
+   "graduation_persistence": "null",
+   "academic_achievement": "null",
+   "psychosocial_other": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Regression with controls: mentoring support predicted thriving but not graduation intent or GPA."
+ },
+ {
+  "id": "ED578371",
+  "design": "quasi_experimental",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "US",
+  "setting": "school_based",
+  "format": "peer_cross_age",
+  "mentor_type": "older_peer",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "high",
+  "program_name": "Peer Mentoring Program",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "engagement_attendance": "positive",
+   "academic_achievement": "null",
+   "behavior_delinquency": "null"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Participants versus nonparticipants from archival data; attendance improved, grades and referrals did not."
+ },
+ {
+  "id": "ED579020",
+  "design": "quasi_experimental",
+  "rigor": 3,
+  "n_youth": 70,
+  "country": "US",
+  "setting": "college_campus",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "racial_ethnic_minority"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {
+   "graduation_persistence": "positive",
+   "academic_achievement": "null",
+   "career_employment": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Treatment versus control Black male undergraduates; persistence higher; alumni survey linked mentoring to career readiness."
+ },
+ {
+  "id": "ED580079",
+  "design": "other",
+  "rigor": 1,
+  "n_youth": null,
+  "country": "US",
+  "setting": "unclear",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "out_of_school",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {},
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Adult-education graduate transition mentoring evaluated with records, surveys, interviews; no findings stated."
+ },
+ {
+  "id": "ED581210",
+  "design": "quasi_experimental",
+  "rigor": 4,
+  "n_youth": 45,
+  "country": "US",
+  "setting": "college_campus",
+  "format": "mixed",
+  "mentor_type": "mixed",
+  "targets": [
+   "low_income",
+   "stem_general"
+  ],
+  "grade_band": "college",
+  "program_name": "UC S-STEM",
+  "duration_months": 24,
+  "frequency": "not_reported",
+  "bridging": "yes",
+  "outcomes": {
+   "graduation_persistence": "positive",
+   "academic_achievement": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Multi-component scholarship program with faculty and industry mentoring; matched comparison showed higher success and GPA."
+ },
+ {
+  "id": "ED584161",
+  "design": "quasi_experimental",
+  "rigor": 4,
+  "n_youth": null,
+  "country": "US",
+  "setting": "workplace_career",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "at_risk_behavior",
+   "stem_general"
+  ],
+  "grade_band": "high",
+  "program_name": "12 for Life",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "yes",
+  "outcomes": {
+   "academic_achievement": "null",
+   "behavior_delinquency": "null",
+   "graduation_persistence": "null"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Matched comparison of dropout-risk students in work-based STEM program; no significant impacts after three years."
+ },
+ {
+  "id": "ED585124",
+  "design": "other",
+  "rigor": 1,
+  "n_youth": null,
+  "country": "US",
+  "setting": "mixed",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "racial_ethnic_minority",
+   "urban"
+  ],
+  "grade_band": "high",
+  "program_name": "Black Male Leadership Academy",
+  "duration_months": null,
+  "frequency": "other",
+  "bridging": "yes",
+  "outcomes": {
+   "self_efficacy_confidence": "positive",
+   "psychosocial_other": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Survey and focus groups of residential youth program; self-reported gains, mentoring one component among several."
+ },
+ {
+  "id": "ED587839",
+  "design": "correlational",
+  "rigor": 3,
+  "n_youth": 93,
+  "country": "US",
+  "setting": "college_campus",
+  "format": "unclear",
+  "mentor_type": "teacher_school_staff",
+  "targets": [
+   "first_generation"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {
+   "psychosocial_other": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Regression: faculty mentoring and online self-efficacy predicted motivation in hybrid-course adult first-generation students."
+ },
+ {
+  "id": "ED587990",
+  "design": "correlational",
+  "rigor": 3,
+  "n_youth": 62,
+  "country": "US",
+  "setting": "school_based",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "low_income"
+  ],
+  "grade_band": "elementary",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {
+   "self_efficacy_confidence": "null"
+  },
+  "effect_sizes": [
+   {
+    "domain": "self_efficacy_confidence",
+    "metric": "other",
+    "value": -0.024,
+    "note": "Kendall tau-b, participation frequency vs self-esteem"
+   },
+   {
+    "domain": "self_efficacy_confidence",
+    "metric": "other",
+    "value": -0.137,
+    "note": "Kendall tau-b, session duration vs self-esteem"
+   }
+  ],
+  "review_details": null,
+  "notes": "Small volunteer sample; mentoring dose unrelated to self-esteem in Title I elementary schools."
+ },
+ {
+  "id": "ED591554",
+  "design": "quasi_experimental",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "US",
+  "setting": "school_based",
+  "format": "one_to_one",
+  "mentor_type": "adult_volunteer",
+  "targets": [
+   "low_income"
+  ],
+  "grade_band": "high",
+  "program_name": "iMentor College Ready",
+  "duration_months": 24,
+  "frequency": "other",
+  "bridging": "yes",
+  "outcomes": {
+   "academic_achievement": "null",
+   "college_access_enrollment": "null",
+   "psychosocial_other": "mixed",
+   "career_employment": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Impact findings after two years: mostly null, small gains in critical thinking, resilience and career activities; design not detailed."
+ },
+ {
+  "id": "ED591564",
+  "design": "quasi_experimental",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "unclear",
+  "setting": "school_based",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "low_income"
+  ],
+  "grade_band": "high",
+  "program_name": "iMentor College Ready",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {},
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Technical appendices on baseline equivalence and effect estimation methods; no results in abstract; design inferred."
+ },
+ {
+  "id": "ED593039",
+  "design": "other",
+  "rigor": 1,
+  "n_youth": 24,
+  "country": "US",
+  "setting": "college_campus",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "racial_ethnic_minority"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": 9,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {
+   "engagement_attendance": "positive",
+   "graduation_persistence": "positive",
+   "academic_achievement": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Small pilot with trained mentors for Black male undergraduates; preliminary improvements reported, no comparison described."
+ },
+ {
+  "id": "ED593189",
+  "design": "correlational",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "US",
+  "setting": "college_campus",
+  "format": "unclear",
+  "mentor_type": "teacher_school_staff",
+  "targets": [
+   "first_generation"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {
+   "psychosocial_other": "null"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Mixed-methods faculty mentoring study; relationship quality did not predict outcomes quantitatively."
+ },
+ {
+  "id": "ED593732",
+  "design": "quasi_experimental",
+  "rigor": 4,
+  "n_youth": null,
+  "country": "US",
+  "setting": "school_based",
+  "format": "mixed",
+  "mentor_type": "mixed",
+  "targets": [
+   "rural",
+   "urban"
+  ],
+  "grade_band": "high",
+  "program_name": "UNISON",
+  "duration_months": 36,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {
+   "graduation_persistence": "positive"
+  },
+  "effect_sizes": [
+   {
+    "domain": "graduation_persistence",
+    "metric": "pct_points",
+    "value": 8.33,
+    "note": "final rates 91.73 treatment vs 83.40 comparison"
+   }
+  ],
+  "review_details": null,
+  "notes": "Whole-school mentoring approach in three Florida schools; interrupted time series versus comparison schools showed graduation gains."
+ },
+ {
+  "id": "ED594577",
+  "design": "review",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "US",
+  "setting": "unclear",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "low_income"
+  ],
+  "grade_band": "k12_mixed",
+  "program_name": "FLIGHT / Take Stock in Children",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "yes",
+  "outcomes": {},
+  "effect_sizes": [],
+  "review_details": {
+   "n_studies": 6,
+   "pooled_metric": null,
+   "pooled_value": null
+  },
+  "notes": "Clearinghouse intervention brief on a mentoring-plus-scholarship program; six studies found, one met standards; no results stated."
+ },
+ {
+  "id": "ED596552",
+  "design": "correlational",
+  "rigor": 1,
+  "n_youth": null,
+  "country": "unclear",
+  "setting": "college_campus",
+  "format": "peer_cross_age",
+  "mentor_type": "older_peer",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {},
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Survey of first-year students perceptions of peer mentoring support; descriptive, differences by gender and background."
+ },
+ {
+  "id": "ED597004",
+  "design": "quasi_experimental",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "US",
+  "setting": "college_campus",
+  "format": "peer_cross_age",
+  "mentor_type": "older_peer",
+  "targets": [
+   "racial_ethnic_minority"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "academic_achievement": "null",
+   "self_efficacy_confidence": "null"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Cluster comparison of writing classes with and without peer mentors; no benefit for writing or self-efficacy."
+ },
+ {
+  "id": "ED597030",
+  "design": "quasi_experimental",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "US",
+  "setting": "college_campus",
+  "format": "peer_cross_age",
+  "mentor_type": "older_peer",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "college",
+  "program_name": "BounceBack Mentoring",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "academic_achievement": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Dissertation chapter on peer mentoring for students on probation; promising grade gains; design not detailed."
+ },
+ {
+  "id": "ED597616",
+  "design": "correlational",
+  "rigor": 2,
+  "n_youth": 2640,
+  "country": "US",
+  "setting": "school_based",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "high",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {
+   "engagement_attendance": "null",
+   "behavior_delinquency": "null"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "District-wide correlational look at participants attendance and suspension over two years; no desired impact."
+ },
+ {
+  "id": "ED597624",
+  "design": "pre_post",
+  "rigor": 2,
+  "n_youth": null,
+  "country": "US",
+  "setting": "college_campus",
+  "format": "unclear",
+  "mentor_type": "teacher_school_staff",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {
+   "self_efficacy_confidence": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Pre-post action research with faculty mentors for high-risk public health undergraduates; self-efficacy improved."
+ }
+]

@@ -1,0 +1,131 @@
+[
+ {
+  "id": "ED601369",
+  "design": "correlational",
+  "rigor": 2,
+  "n_youth": null,
+  "country": "US",
+  "setting": "college_campus",
+  "format": "natural_mentor",
+  "mentor_type": "teacher_school_staff",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "psychosocial_other": "null",
+   "career_employment": "null",
+   "self_efficacy_confidence": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Survey of former college athletes on coach gender; satisfaction and salary unrelated, female coaches linked to self-efficacy."
+ },
+ {
+  "id": "ED602984",
+  "design": "pre_post",
+  "rigor": 2,
+  "n_youth": null,
+  "country": "US",
+  "setting": "community_based",
+  "format": "mixed",
+  "mentor_type": "unclear",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "out_of_school",
+  "program_name": "Chicago Young Parents Program",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "yes",
+  "outcomes": {
+   "graduation_persistence": "positive",
+   "career_employment": "positive",
+   "self_efficacy_confidence": "positive",
+   "psychosocial_other": "positive",
+   "mental_health": "positive",
+   "relationships_social": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Two-generation pilot for young parents; mentors via home visits and group sessions; gains in education, parenting, distress."
+ },
+ {
+  "id": "ED603940",
+  "design": "pre_post",
+  "rigor": 2,
+  "n_youth": null,
+  "country": "US",
+  "setting": "school_based",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "at_risk_behavior",
+   "urban"
+  ],
+  "grade_band": "middle",
+  "program_name": "Law Enforcement Mentoring Program",
+  "duration_months": 12,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "academic_achievement": "mixed",
+   "engagement_attendance": "negative",
+   "behavior_delinquency": "negative"
+  },
+  "effect_sizes": [
+   {
+    "domain": "engagement_attendance",
+    "metric": "other",
+    "value": -44.2,
+    "note": "days missed rose 44.2 percent vs prior year"
+   }
+  ],
+  "review_details": null,
+  "notes": "Police mentors for at-risk middle schoolers vs prior year; some test gains, more absences and suspensions."
+ },
+ {
+  "id": "ED608529",
+  "design": "rct",
+  "rigor": 5,
+  "n_youth": null,
+  "country": "US",
+  "setting": "school_based",
+  "format": "one_to_one",
+  "mentor_type": "unclear",
+  "targets": [
+   "at_risk_behavior",
+   "urban",
+   "low_income"
+  ],
+  "grade_band": "k12_mixed",
+  "program_name": "Check & Connect",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "engagement_attendance": "mixed",
+   "academic_achievement": "null"
+  },
+  "effect_sizes": [
+   {
+    "domain": "engagement_attendance",
+    "metric": "other",
+    "value": 4.2,
+    "note": "4.2 fewer absence days, grades 5-7"
+   },
+   {
+    "domain": "engagement_attendance",
+    "metric": "other",
+    "value": 22.9,
+    "note": "22.9 percent fewer absences, grades 5-7"
+   }
+  ],
+  "review_details": null,
+  "notes": "Chicago randomized trial, grades 1-8; absences fell in grades 5-7 only; no test or GPA effects."
+ }
+]

@@ -1,0 +1,640 @@
+[
+ {
+  "id": "EJ1396133",
+  "design": "correlational",
+  "rigor": 3,
+  "n_youth": 2352,
+  "country": "US",
+  "setting": "college_campus",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "stem_general",
+   "low_income",
+   "racial_ethnic_minority",
+   "disability",
+   "girls_women_stem"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {
+   "mental_health": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "National survey of STEM undergraduates in pandemic; mentoring satisfaction linked to fewer depression and anxiety symptoms."
+ },
+ {
+  "id": "EJ1397833",
+  "design": "quasi_experimental",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "unclear",
+  "setting": "college_campus",
+  "format": "unclear",
+  "mentor_type": "teacher_school_staff",
+  "targets": [
+   "first_generation"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {
+   "psychosocial_other": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Compared mentored and nonmentored first-generation students; higher faculty mentoring quality tied to purpose and well-being."
+ },
+ {
+  "id": "EJ1399059",
+  "design": "quasi_experimental",
+  "rigor": 4,
+  "n_youth": null,
+  "country": "US",
+  "setting": "workplace_career",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "high",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "yes",
+  "outcomes": {
+   "career_employment": "positive"
+  },
+  "effect_sizes": [
+   {
+    "domain": "career_employment",
+    "metric": "other",
+    "value": 7,
+    "note": "percent higher early income for any work-based learning"
+   }
+  ],
+  "review_details": null,
+  "notes": "National longitudinal data with matching; work-based learning including mentoring predicted higher early career income."
+ },
+ {
+  "id": "EJ1400361",
+  "design": "other",
+  "rigor": 2,
+  "n_youth": null,
+  "country": "unclear",
+  "setting": "school_based",
+  "format": "one_to_one",
+  "mentor_type": "unclear",
+  "targets": [
+   "disability"
+  ],
+  "grade_band": "high",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "academic_achievement": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Single-case study; peer mentors delivered math problem-solving instruction to students with intellectual disability, with gains."
+ },
+ {
+  "id": "EJ1402873",
+  "design": "rct",
+  "rigor": 5,
+  "n_youth": null,
+  "country": "US",
+  "setting": "mixed",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "general",
+   "stem_general"
+  ],
+  "grade_band": "high",
+  "program_name": "PlantingScience",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "yes",
+  "outcomes": {
+   "academic_achievement": "positive",
+   "psychosocial_other": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Cluster randomized trial of online scientist mentoring plus curriculum; improved science knowledge and attitudes toward scientists."
+ },
+ {
+  "id": "EJ343591",
+  "design": "other",
+  "rigor": 1,
+  "n_youth": null,
+  "country": "US",
+  "setting": "school_based",
+  "format": "peer_cross_age",
+  "mentor_type": "unclear",
+  "targets": [
+   "at_risk_behavior"
+  ],
+  "grade_band": "high",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {},
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Descriptive account of a peer tutoring and mentoring dropout-prevention pilot; no specific outcome direction stated."
+ },
+ {
+  "id": "EJ392218",
+  "design": "other",
+  "rigor": 1,
+  "n_youth": 103,
+  "country": "unclear",
+  "setting": "school_based",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "gifted"
+  ],
+  "grade_band": "high",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {
+   "psychosocial_other": "positive",
+   "academic_achievement": "positive",
+   "career_employment": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Survey of former gifted students reporting personal, academic and career benefits of a mentorship course."
+ },
+ {
+  "id": "EJ395192",
+  "design": "review",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "unclear",
+  "setting": "unclear",
+  "format": "unclear",
+  "mentor_type": "mixed",
+  "targets": [
+   "gifted"
+  ],
+  "grade_band": "unclear",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {},
+  "effect_sizes": [],
+  "review_details": {
+   "n_studies": null,
+   "pooled_metric": null,
+   "pooled_value": null
+  },
+  "notes": "Narrative literature review on mentoring creative and gifted children, stressing early identification and parents."
+ },
+ {
+  "id": "EJ413424",
+  "design": "other",
+  "rigor": 1,
+  "n_youth": null,
+  "country": "US",
+  "setting": "unclear",
+  "format": "unclear",
+  "mentor_type": "adult_volunteer",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "k12_mixed",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {
+   "graduation_persistence": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Government study of tuition-guarantee programs; mentor-using programs most effective at keeping students in school."
+ },
+ {
+  "id": "EJ435206",
+  "design": "other",
+  "rigor": 1,
+  "n_youth": null,
+  "country": "US",
+  "setting": "school_based",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "urban"
+  ],
+  "grade_band": "high",
+  "program_name": "National Academy Foundation academies",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "yes",
+  "outcomes": {
+   "engagement_attendance": "positive",
+   "graduation_persistence": "positive",
+   "career_employment": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Descriptive account of career academies combining coursework, mentoring and internships, with attendance, graduation and job benefits."
+ },
+ {
+  "id": "EJ436975",
+  "design": "quasi_experimental",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "US",
+  "setting": "mixed",
+  "format": "unclear",
+  "mentor_type": "adult_volunteer",
+  "targets": [
+   "at_risk_behavior",
+   "urban"
+  ],
+  "grade_band": "middle",
+  "program_name": "Project RAISE",
+  "duration_months": 24,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "engagement_attendance": "positive",
+   "academic_achievement": "mixed"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Two-year evaluation of community adult advocates; attendance and some grades improved, promotion and test scores did not."
+ },
+ {
+  "id": "EJ460870",
+  "design": "quasi_experimental",
+  "rigor": 4,
+  "n_youth": 64,
+  "country": "unclear",
+  "setting": "school_based",
+  "format": "one_to_one",
+  "mentor_type": "unclear",
+  "targets": [
+   "at_risk_behavior"
+  ],
+  "grade_band": "high",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "graduation_persistence": "null",
+   "self_efficacy_confidence": "null",
+   "academic_achievement": "null"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Matched comparison of mentored at-risk tenth graders; no gains in dropout, self-concept or achievement."
+ },
+ {
+  "id": "EJ469941",
+  "design": "other",
+  "rigor": 1,
+  "n_youth": 54,
+  "country": "unclear",
+  "setting": "community_based",
+  "format": "unclear",
+  "mentor_type": "adult_volunteer",
+  "targets": [
+   "racial_ethnic_minority",
+   "urban",
+   "low_income"
+  ],
+  "grade_band": "unclear",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {
+   "psychosocial_other": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Perception study of fraternity-run mentoring programs for Black adolescent boys; participants viewed them positively."
+ },
+ {
+  "id": "EJ505050",
+  "design": "other",
+  "rigor": 1,
+  "n_youth": 61,
+  "country": "unclear",
+  "setting": "school_based",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "gifted"
+  ],
+  "grade_band": "high",
+  "program_name": "Mentor Connection",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "yes",
+  "outcomes": {},
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Alumni attitude survey on mentor influence, confidence, networking and goals; directions not stated in abstract."
+ },
+ {
+  "id": "EJ506162",
+  "design": "quasi_experimental",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "unclear",
+  "setting": "college_campus",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "racial_ethnic_minority"
+  ],
+  "grade_band": "college",
+  "program_name": "Ethnic Mentor Undergraduate Program",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {
+   "academic_achievement": "positive",
+   "graduation_persistence": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Program protegees outperformed university average and dropped out less; no controls described."
+ },
+ {
+  "id": "EJ507668",
+  "design": "correlational",
+  "rigor": 2,
+  "n_youth": 27,
+  "country": "unclear",
+  "setting": "school_based",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "low_income",
+   "racial_ethnic_minority",
+   "urban"
+  ],
+  "grade_band": "high",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {
+   "psychosocial_other": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Small study; youth seeing mentors as role models showed stronger achievement motivation."
+ },
+ {
+  "id": "EJ519647",
+  "design": "pre_post",
+  "rigor": 2,
+  "n_youth": null,
+  "country": "US",
+  "setting": "online",
+  "format": "one_to_one",
+  "mentor_type": "college_student",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "middle",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "psychosocial_other": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "College students paired online with junior high students to read together; reading attitudes and tech comfort rose."
+ },
+ {
+  "id": "EJ527479",
+  "design": "review",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "unclear",
+  "setting": "unclear",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "at_risk_behavior"
+  ],
+  "grade_band": "k12_mixed",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {},
+  "effect_sizes": [],
+  "review_details": {
+   "n_studies": null,
+   "pooled_metric": null,
+   "pooled_value": null
+  },
+  "notes": "Narrative review of mentoring at-risk students covering history, goals, effectiveness and planning challenges."
+ },
+ {
+  "id": "EJ527608",
+  "design": "correlational",
+  "rigor": 4,
+  "n_youth": 211,
+  "country": "unclear",
+  "setting": "unclear",
+  "format": "natural_mentor",
+  "mentor_type": "natural_informal",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "unclear",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {
+   "career_employment": "positive"
+  },
+  "effect_sizes": [
+   {
+    "domain": "career_employment",
+    "metric": "other",
+    "value": 49,
+    "note": "percent variance explained by four predictors incl. mentor"
+   }
+  ],
+  "review_details": null,
+  "notes": "Regression on longitudinal creativity data; having a mentor was among predictors of adult creative achievement."
+ },
+ {
+  "id": "EJ529558",
+  "design": "correlational",
+  "rigor": 4,
+  "n_youth": null,
+  "country": "US",
+  "setting": "college_campus",
+  "format": "natural_mentor",
+  "mentor_type": "teacher_school_staff",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {
+   "graduation_persistence": "mixed"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Persistence study; faculty mentoring outside class helped women's persistence, other groups not noted."
+ },
+ {
+  "id": "EJ550588",
+  "design": "other",
+  "rigor": 1,
+  "n_youth": 90,
+  "country": "unclear",
+  "setting": "school_based",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "gifted"
+  ],
+  "grade_band": "high",
+  "program_name": null,
+  "duration_months": 12,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {
+   "self_efficacy_confidence": "positive",
+   "career_employment": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Follow-up self-reports from gifted alumni of a year-long mentored research course; perceived esteem and career benefits."
+ },
+ {
+  "id": "EJ558379",
+  "design": "quasi_experimental",
+  "rigor": 4,
+  "n_youth": 339,
+  "country": "unclear",
+  "setting": "college_campus",
+  "format": "unclear",
+  "mentor_type": "teacher_school_staff",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {
+   "academic_achievement": "positive",
+   "graduation_persistence": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Mentored undergraduates matched to nonmentored peers; higher GPA, more units, lower dropout."
+ },
+ {
+  "id": "EJ561413",
+  "design": "quasi_experimental",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "unclear",
+  "setting": "online",
+  "format": "one_to_one",
+  "mentor_type": "adult_volunteer",
+  "targets": [
+   "at_risk_behavior"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {
+   "graduation_persistence": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Alumni mentored struggling programming students remotely; course attrition fell overall and among at-risk students."
+ },
+ {
+  "id": "EJ562322",
+  "design": "other",
+  "rigor": 1,
+  "n_youth": 584,
+  "country": "unclear",
+  "setting": "community_based",
+  "format": "peer_cross_age",
+  "mentor_type": "older_peer",
+  "targets": [
+   "at_risk_behavior",
+   "urban"
+  ],
+  "grade_band": "k12_mixed",
+  "program_name": null,
+  "duration_months": 24,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "psychosocial_other": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Descriptive evaluation of youth mentors running after-school small groups; reported benefits for children and mentors."
+ },
+ {
+  "id": "EJ569657",
+  "design": "other",
+  "rigor": 1,
+  "n_youth": null,
+  "country": "US",
+  "setting": "school_based",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "at_risk_behavior"
+  ],
+  "grade_band": "middle",
+  "program_name": "Big Brothers Big Sisters",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "engagement_attendance": "positive",
+   "behavior_delinquency": "positive",
+   "academic_achievement": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Summary tables of Georgia middle school and BBBS programs; better attendance, conduct and (Georgia) grades."
+ }
+]

@@ -1,0 +1,250 @@
+[
+ {
+  "id": "EJ1320667",
+  "design": "pre_post",
+  "rigor": 2,
+  "n_youth": null,
+  "country": "US",
+  "setting": "mixed",
+  "format": "peer_cross_age",
+  "mentor_type": "college_student",
+  "targets": [
+   "low_income",
+   "racial_ethnic_minority",
+   "stem_general"
+  ],
+  "grade_band": "k12_mixed",
+  "program_name": "GEMS",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {
+   "psychosocial_other": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Near-peer summer STEM program moved online; student STEM attitude shifts similar to prior in-person year."
+ },
+ {
+  "id": "EJ1324330",
+  "design": "correlational",
+  "rigor": 3,
+  "n_youth": 1425,
+  "country": "unclear",
+  "setting": "school_based",
+  "format": "natural_mentor",
+  "mentor_type": "teacher_school_staff",
+  "targets": [
+   "girls_women_stem",
+   "stem_general"
+  ],
+  "grade_band": "high",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "graduation_persistence": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Retrospective survey of selective-school female graduates; STEM teacher mentors associated with STEM degree completion."
+ },
+ {
+  "id": "EJ1324818",
+  "design": "quasi_experimental",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "unclear",
+  "setting": "unclear",
+  "format": "one_to_one",
+  "mentor_type": "unclear",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "unclear",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "psychosocial_other": "positive",
+   "relationships_social": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Lab study: mentee empathy, cognition and prosocial behavior better with mentor present than absent."
+ },
+ {
+  "id": "EJ1325673",
+  "design": "other",
+  "rigor": 1,
+  "n_youth": 3021,
+  "country": "US",
+  "setting": "community_based",
+  "format": "group",
+  "mentor_type": "mixed",
+  "targets": [
+   "racial_ethnic_minority",
+   "low_income",
+   "first_generation",
+   "rural",
+   "stem_general"
+  ],
+  "grade_band": "high",
+  "program_name": "HSTA",
+  "duration_months": 48,
+  "frequency": "not_reported",
+  "bridging": "yes",
+  "outcomes": {
+   "college_access_enrollment": "positive",
+   "graduation_persistence": "positive"
+  },
+  "effect_sizes": [
+   {
+    "domain": "college_access_enrollment",
+    "metric": "pct_points",
+    "value": 43,
+    "note": "99% HSTA vs 56% state graduates"
+   },
+   {
+    "domain": "graduation_persistence",
+    "metric": "pct_points",
+    "value": 35,
+    "note": "about 85% vs under 50%; approximate"
+   }
+  ],
+  "review_details": null,
+  "notes": "Descriptive program summary; unadjusted comparisons with state figures on college attendance and degree completion."
+ },
+ {
+  "id": "EJ1327460",
+  "design": "correlational",
+  "rigor": 1,
+  "n_youth": null,
+  "country": "US",
+  "setting": "college_campus",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "racial_ethnic_minority"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "academic_achievement": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Web survey of Black male undergraduates at a PWI; GPA correlates reported, mentoring link unclear."
+ },
+ {
+  "id": "EJ1335255",
+  "design": "pre_post",
+  "rigor": 2,
+  "n_youth": 52,
+  "country": "US",
+  "setting": "school_based",
+  "format": "peer_cross_age",
+  "mentor_type": "older_peer",
+  "targets": [
+   "rural"
+  ],
+  "grade_band": "middle",
+  "program_name": "Mentoring to Be Active",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "psychosocial_other": "positive"
+  },
+  "effect_sizes": [
+   {
+    "domain": "psychosocial_other",
+    "metric": "g",
+    "value": 0.798,
+    "note": "sedentary activity fell 36.7%; ES type d/g unclear"
+   },
+   {
+    "domain": "psychosocial_other",
+    "metric": "g",
+    "value": 0.359,
+    "note": "moderate activity rose 16.5%; ES type unclear"
+   },
+   {
+    "domain": "psychosocial_other",
+    "metric": "g",
+    "value": 0.359,
+    "note": "vigorous activity rose 88%; ES type unclear"
+   }
+  ],
+  "review_details": null,
+  "notes": "Pilot: tenth graders mentored seventh graders; sedentary time and sugar intake fell, activity rose."
+ },
+ {
+  "id": "EJ1335509",
+  "design": "quasi_experimental",
+  "rigor": 3,
+  "n_youth": 356,
+  "country": "US",
+  "setting": "college_campus",
+  "format": "unclear",
+  "mentor_type": "teacher_school_staff",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "academic_achievement": "positive",
+   "engagement_attendance": "positive"
+  },
+  "effect_sizes": [
+   {
+    "domain": "academic_achievement",
+    "metric": "other",
+    "value": 0.13,
+    "note": "GPA points higher than general undergraduates"
+   },
+   {
+    "domain": "engagement_attendance",
+    "metric": "other",
+    "value": 42,
+    "note": "percent higher campus engagement, relative"
+   }
+  ],
+  "review_details": null,
+  "notes": "Faculty-mentored undergraduate research participants versus general students; higher first-year GPA and engagement."
+ },
+ {
+  "id": "EJ1337413",
+  "design": "other",
+  "rigor": 2,
+  "n_youth": null,
+  "country": "US",
+  "setting": "community_based",
+  "format": "group",
+  "mentor_type": "adult_volunteer",
+  "targets": [
+   "rural",
+   "stem_general"
+  ],
+  "grade_band": "high",
+  "program_name": "Teen Science Cafe",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "yes",
+  "outcomes": {
+   "psychosocial_other": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Rural Teen Science Cafe on first response; multiple attendance linked to better STEM career views."
+ }
+]

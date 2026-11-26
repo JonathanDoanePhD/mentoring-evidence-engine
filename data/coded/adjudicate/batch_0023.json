@@ -1,0 +1,227 @@
+[
+ {
+  "id": "EJ1240630",
+  "design": "correlational",
+  "rigor": 4,
+  "n_youth": 347,
+  "country": "US",
+  "setting": "unclear",
+  "format": "natural_mentor",
+  "mentor_type": "natural_informal",
+  "targets": [
+   "racial_ethnic_minority",
+   "urban"
+  ],
+  "grade_band": "high",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "academic_achievement": "null",
+   "psychosocial_other": "mixed"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Mentor presence unrelated to GPA change; quality linked to ethnic identity, which mediated educational value change."
+ },
+ {
+  "id": "EJ1245799",
+  "design": "other",
+  "rigor": 1,
+  "n_youth": 4,
+  "country": "unclear",
+  "setting": "school_based",
+  "format": "one_to_one",
+  "mentor_type": "college_student",
+  "targets": [
+   "disability"
+  ],
+  "grade_band": "middle",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "academic_achievement": "positive",
+   "psychosocial_other": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Mixed-methods case study of four pairs, no comparison or stated pre-post; reported academic, social-emotional gains."
+ },
+ {
+  "id": "EJ1248904",
+  "design": "pre_post",
+  "rigor": 2,
+  "n_youth": 18,
+  "country": "other",
+  "setting": "community_based",
+  "format": "one_to_one",
+  "mentor_type": "adult_volunteer",
+  "targets": [
+   "disability"
+  ],
+  "grade_band": "out_of_school",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "yes",
+  "outcomes": {
+   "psychosocial_other": "mixed",
+   "mental_health": "null",
+   "career_employment": "null"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Men's Shed mentors for young men with ID; only community quality-of-life domain improved."
+ },
+ {
+  "id": "EJ1256100",
+  "design": "pre_post",
+  "rigor": 2,
+  "n_youth": 63,
+  "country": "unclear",
+  "setting": "college_campus",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "racial_ethnic_minority"
+  ],
+  "grade_band": "college",
+  "program_name": "SCOPE",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {
+   "college_access_enrollment": "positive",
+   "self_efficacy_confidence": "positive",
+   "mental_health": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Minority undergraduates gained graduate application knowledge and confidence, lower stress; no comparison group."
+ },
+ {
+  "id": "EJ1259112",
+  "design": "other",
+  "rigor": 1,
+  "n_youth": 41,
+  "country": "US",
+  "setting": "workplace_career",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "racial_ethnic_minority",
+   "stem_general"
+  ],
+  "grade_band": "college",
+  "program_name": "NINDS summer internship",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "yes",
+  "outcomes": {
+   "graduation_persistence": "positive"
+  },
+  "effect_sizes": [
+   {
+    "domain": "graduation_persistence",
+    "metric": "other",
+    "value": 85,
+    "note": "35 of 41 interns remained in STEMM; no comparison"
+   }
+  ],
+  "review_details": null,
+  "notes": "Descriptive design case of summer biomedical internship for AIAN students; most remained in STEMM."
+ },
+ {
+  "id": "EJ1260197",
+  "design": "correlational",
+  "rigor": 3,
+  "n_youth": 205,
+  "country": "unclear",
+  "setting": "unclear",
+  "format": "one_to_one",
+  "mentor_type": "college_student",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "middle",
+  "program_name": "Young Women Leaders Program",
+  "duration_months": 9,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "relationships_social": "mixed"
+  },
+  "effect_sizes": [
+   {
+    "domain": "relationships_social",
+    "metric": "other",
+    "value": 0.258,
+    "note": "beta, maternal communication/trust with mentoring quality"
+   },
+   {
+    "domain": "relationships_social",
+    "metric": "other",
+    "value": 0.241,
+    "note": "beta, maternal alienation with mentoring quality"
+   }
+  ],
+  "review_details": null,
+  "notes": "Mentees' maternal relationship characteristics predicted mentoring relationship quality; regression, no youth outcome effects."
+ },
+ {
+  "id": "EJ1262440",
+  "design": "quasi_experimental",
+  "rigor": 3,
+  "n_youth": 35,
+  "country": "unclear",
+  "setting": "school_based",
+  "format": "group",
+  "mentor_type": "college_student",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "middle",
+  "program_name": "Group-AMPED",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "academic_achievement": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Group mentoring by undergraduates or graduate students; mentees had higher grades than small control group."
+ },
+ {
+  "id": "EJ1262726",
+  "design": "review",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "US",
+  "setting": "unclear",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "low_income"
+  ],
+  "grade_band": "k12_mixed",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {
+   "academic_achievement": "positive",
+   "behavior_delinquency": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": {
+   "n_studies": null,
+   "pooled_metric": null,
+   "pooled_value": null
+  },
+  "notes": "Narrative review; formal mentoring linked to better school performance and less criminal justice involvement."
+ }
+]

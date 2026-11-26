@@ -1,0 +1,205 @@
+[
+ {
+  "id": "EJ1144295",
+  "design": "correlational",
+  "rigor": 1,
+  "n_youth": 63,
+  "country": "unclear",
+  "setting": "online",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "racial_ethnic_minority"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "academic_achievement": "null"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Survey of online mentoring among Hispanic pre-service teachers; only marginal links to course performance."
+ },
+ {
+  "id": "EJ1145695",
+  "design": "correlational",
+  "rigor": 4,
+  "n_youth": null,
+  "country": "unclear",
+  "setting": "college_campus",
+  "format": "unclear",
+  "mentor_type": "mixed",
+  "targets": [
+   "racial_ethnic_minority",
+   "girls_women_stem",
+   "stem_general"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "psychosocial_other": "mixed",
+   "career_employment": "mixed",
+   "academic_achievement": "mixed"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "National survey of undergraduate research mentoring structures; science identity, PhD intentions, productivity differ by gender, race."
+ },
+ {
+  "id": "EJ1146327",
+  "design": "correlational",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "US",
+  "setting": "college_campus",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "racial_ethnic_minority"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "academic_achievement": "positive",
+   "engagement_attendance": "positive",
+   "belonging_connectedness": "positive",
+   "relationships_social": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "NSSE data at Hispanic-serving institution; undergraduate research predicted GPA, satisfaction, support, faculty interaction."
+ },
+ {
+  "id": "EJ1146455",
+  "design": "pre_post",
+  "rigor": 2,
+  "n_youth": 5,
+  "country": "UK",
+  "setting": "school_based",
+  "format": "one_to_one",
+  "mentor_type": "older_peer",
+  "targets": [
+   "girls_women_stem"
+  ],
+  "grade_band": "k12_mixed",
+  "program_name": null,
+  "duration_months": 1.5,
+  "frequency": "other",
+  "bridging": "no",
+  "outcomes": {
+   "psychosocial_other": "mixed"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Five maths-anxious girls paired with older female peers; three reported less anxiety, resilience inconsistent."
+ },
+ {
+  "id": "EJ1146621",
+  "design": "quasi_experimental",
+  "rigor": 3,
+  "n_youth": 20,
+  "country": "UK",
+  "setting": "school_based",
+  "format": "peer_cross_age",
+  "mentor_type": "college_student",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "high",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "yes",
+  "outcomes": {
+   "self_efficacy_confidence": "null",
+   "college_access_enrollment": "null"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Psychology undergraduates mentored 20 A-level pupils; mentees no better than comparison pupils on attitudes, self-efficacy."
+ },
+ {
+  "id": "EJ1155678",
+  "design": "quasi_experimental",
+  "rigor": 3,
+  "n_youth": 34,
+  "country": "unclear",
+  "setting": "school_based",
+  "format": "unclear",
+  "mentor_type": "older_peer",
+  "targets": [
+   "at_risk_behavior",
+   "urban"
+  ],
+  "grade_band": "high",
+  "program_name": "SMARTS",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "engagement_attendance": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "SMARTS peer mentoring plus executive function instruction; engaged mentees showed more effort and strategy use."
+ },
+ {
+  "id": "EJ1158187",
+  "design": "pre_post",
+  "rigor": 2,
+  "n_youth": 189,
+  "country": "unclear",
+  "setting": "online",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "disability",
+   "stem_general"
+  ],
+  "grade_band": "k12_mixed",
+  "program_name": null,
+  "duration_months": 48,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {
+   "psychosocial_other": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Four-year virtual mentoring for STEM students with disabilities; biggest gains in self-determination, self-advocacy."
+ },
+ {
+  "id": "EJ1161342",
+  "design": "correlational",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "unclear",
+  "setting": "college_campus",
+  "format": "unclear",
+  "mentor_type": "older_peer",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "academic_achievement": "positive",
+   "graduation_persistence": "null"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "First-year peer mentor contact associated with higher academic performance; retention link unclear."
+ }
+]

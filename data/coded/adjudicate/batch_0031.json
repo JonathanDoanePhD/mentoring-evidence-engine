@@ -1,0 +1,176 @@
+[
+ {
+  "id": "EJ573513",
+  "design": "pre_post",
+  "rigor": 2,
+  "n_youth": null,
+  "country": "US",
+  "setting": "school_based",
+  "format": "one_to_one",
+  "mentor_type": "adult_volunteer",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "high",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "yes",
+  "outcomes": {
+   "academic_achievement": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Career-academy program description; student survey reports improved work-habit and cooperation grades; no comparison."
+ },
+ {
+  "id": "EJ612597",
+  "design": "quasi_experimental",
+  "rigor": 3,
+  "n_youth": 62,
+  "country": "unclear",
+  "setting": "unclear",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "at_risk_behavior"
+  ],
+  "grade_band": "elementary",
+  "program_name": "PrimeTime",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "behavior_delinquency": "mixed"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Therapeutic mentoring package vs standard mentoring for aggressive children; small gains both; partial support."
+ },
+ {
+  "id": "EJ634943",
+  "design": "correlational",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "unclear",
+  "setting": "unclear",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "unclear",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "psychosocial_other": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "1601 family-program participants followed 1.6 years; mentoring-approach programs had fewer maltreatment events."
+ },
+ {
+  "id": "EJ638642",
+  "design": "correlational",
+  "rigor": 3,
+  "n_youth": 202,
+  "country": "unclear",
+  "setting": "workplace_career",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "racial_ethnic_minority"
+  ],
+  "grade_band": "high",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "yes",
+  "outcomes": {
+   "academic_achievement": "positive",
+   "engagement_attendance": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Over half-year work-based mentoring participation linked to better grades and attendance."
+ },
+ {
+  "id": "EJ661645",
+  "design": "pre_post",
+  "rigor": 2,
+  "n_youth": null,
+  "country": "Canada",
+  "setting": "school_based",
+  "format": "one_to_one",
+  "mentor_type": "adult_volunteer",
+  "targets": [
+   "at_risk_behavior",
+   "low_income"
+  ],
+  "grade_band": "elementary",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "weekly_or_more",
+  "bridging": "no",
+  "outcomes": {
+   "engagement_attendance": "positive",
+   "academic_achievement": "positive",
+   "relationships_social": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Evaluation of five Canadian school programs; better school attitudes, grades, relationships; no comparison described."
+ },
+ {
+  "id": "EJ661670",
+  "design": "pre_post",
+  "rigor": 2,
+  "n_youth": null,
+  "country": "US",
+  "setting": "school_based",
+  "format": "unclear",
+  "mentor_type": "adult_volunteer",
+  "targets": [
+   "rural"
+  ],
+  "grade_band": "unclear",
+  "program_name": "TeamMates",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "behavior_delinquency": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Nebraska statewide program; surveys show similar positive behavior change in rural and nonrural schools."
+ },
+ {
+  "id": "EJ669137",
+  "design": "pre_post",
+  "rigor": 2,
+  "n_youth": 62,
+  "country": "other",
+  "setting": "unclear",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "gifted"
+  ],
+  "grade_band": "high",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "yes",
+  "outcomes": {
+   "academic_achievement": "null",
+   "self_efficacy_confidence": "positive",
+   "relationships_social": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Six-year New Zealand study; no entrance-exam impact; surveys report confidence, study skills, adult contacts."
+ }
+]

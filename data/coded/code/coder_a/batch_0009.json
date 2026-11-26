@@ -1,0 +1,629 @@
+[
+ {
+  "id": "ED564920",
+  "design": "quasi_experimental",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "unclear",
+  "setting": "unclear",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "girls_women_stem"
+  ],
+  "grade_band": "middle",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "self_efficacy_confidence": "null"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Compares science attitudes of girls in science-focused versus traditional mentoring; no group difference found."
+ },
+ {
+  "id": "ED565557",
+  "design": "quasi_experimental",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "US",
+  "setting": "school_based",
+  "format": "mixed",
+  "mentor_type": "mixed",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "high",
+  "program_name": null,
+  "duration_months": 12,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "belonging_connectedness": "null",
+   "engagement_attendance": "null"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Freshman peer and adult school mentoring versus no-mentoring control; pre-post connectedness changes not significant."
+ },
+ {
+  "id": "ED565974",
+  "design": "correlational",
+  "rigor": 1,
+  "n_youth": 138,
+  "country": "US",
+  "setting": "college_campus",
+  "format": "peer_cross_age",
+  "mentor_type": "older_peer",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "academic_achievement": "positive",
+   "relationships_social": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Survey of first-year students in peer mentoring; perceived success and engagement associated with experience."
+ },
+ {
+  "id": "ED566085",
+  "design": "correlational",
+  "rigor": 1,
+  "n_youth": 283,
+  "country": "US",
+  "setting": "college_campus",
+  "format": "natural_mentor",
+  "mentor_type": "natural_informal",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "other",
+  "bridging": "no",
+  "outcomes": {
+   "graduation_persistence": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Cross-sectional survey of nursing students; mentoring domains related to perceived persistence, mentors often family."
+ },
+ {
+  "id": "ED566769",
+  "design": "pre_post",
+  "rigor": 2,
+  "n_youth": 46,
+  "country": "US",
+  "setting": "college_campus",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "at_risk_behavior"
+  ],
+  "grade_band": "college",
+  "program_name": "Just One Mentoring Program",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "graduation_persistence": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Descriptive mixed-methods study of suspended community college students in mentoring program showing persistence."
+ },
+ {
+  "id": "ED566814",
+  "design": "pre_post",
+  "rigor": 2,
+  "n_youth": null,
+  "country": "US",
+  "setting": "school_based",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "at_risk_behavior",
+   "urban"
+  ],
+  "grade_band": "k12_mixed",
+  "program_name": "I Believe I Achieve",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "behavior_delinquency": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Mixed-methods evaluation of school program for at-risk students; discipline referrals significantly improved."
+ },
+ {
+  "id": "ED567085",
+  "design": "pre_post",
+  "rigor": 2,
+  "n_youth": null,
+  "country": "other",
+  "setting": "college_campus",
+  "format": "peer_cross_age",
+  "mentor_type": "older_peer",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "academic_achievement": "positive",
+   "graduation_persistence": "positive",
+   "relationships_social": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Action research on light-touch peer mentoring in Pakistani universities; feedback reported better results and retention."
+ },
+ {
+  "id": "ED568185",
+  "design": "correlational",
+  "rigor": 1,
+  "n_youth": null,
+  "country": "US",
+  "setting": "college_campus",
+  "format": "mixed",
+  "mentor_type": "mixed",
+  "targets": [
+   "racial_ethnic_minority"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "graduation_persistence": "mixed"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Survey of college administrators on interventions; mentorship among several correlated with completion, mostly nonsignificant."
+ },
+ {
+  "id": "ED568233",
+  "design": "correlational",
+  "rigor": 2,
+  "n_youth": 237,
+  "country": "US",
+  "setting": "college_campus",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "graduation_persistence": "positive",
+   "academic_achievement": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Survey of freshmen; perceived mentorship predicted persistence intentions and first-semester GPA."
+ },
+ {
+  "id": "ED568333",
+  "design": "review",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "US",
+  "setting": "college_campus",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "racial_ethnic_minority",
+   "first_generation"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "graduation_persistence": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": {
+   "n_studies": null,
+   "pooled_metric": null,
+   "pooled_value": null
+  },
+  "notes": "Literature review on mentoring, faith and affordability for Latino college persistence; no pooled estimate."
+ },
+ {
+  "id": "ED568667",
+  "design": "correlational",
+  "rigor": 1,
+  "n_youth": null,
+  "country": "other",
+  "setting": "college_campus",
+  "format": "unclear",
+  "mentor_type": "teacher_school_staff",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "academic_achievement": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Survey comparing tutoring modalities at two Mexican universities; tutoring positively correlated with academic paths."
+ },
+ {
+  "id": "ED569074",
+  "design": "correlational",
+  "rigor": 2,
+  "n_youth": 168,
+  "country": "US",
+  "setting": "college_campus",
+  "format": "unclear",
+  "mentor_type": "paid_staff",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "graduation_persistence": "positive",
+   "academic_achievement": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Nursing students using retention specialist for tutoring and mentoring were more often retained; correlational."
+ },
+ {
+  "id": "ED569099",
+  "design": "pre_post",
+  "rigor": 2,
+  "n_youth": null,
+  "country": "US",
+  "setting": "college_campus",
+  "format": "one_to_one",
+  "mentor_type": "teacher_school_staff",
+  "targets": [
+   "racial_ethnic_minority"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "graduation_persistence": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Action research on faculty reciprocal mentoring of minority male community college students; persistence results qualitative."
+ },
+ {
+  "id": "ED570478",
+  "design": "rct",
+  "rigor": 5,
+  "n_youth": null,
+  "country": "US",
+  "setting": "workplace_career",
+  "format": "mixed",
+  "mentor_type": "adult_volunteer",
+  "targets": [
+   "at_risk_behavior",
+   "urban",
+   "low_income"
+  ],
+  "grade_band": "high",
+  "program_name": "Urban Alliance",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "yes",
+  "outcomes": {
+   "college_access_enrollment": "positive",
+   "career_employment": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Randomized trial of internship program with mentoring; abstract names college attendance and job preparation outcomes without direction details."
+ },
+ {
+  "id": "ED570631",
+  "design": "quasi_experimental",
+  "rigor": 3,
+  "n_youth": 134,
+  "country": "US",
+  "setting": "school_based",
+  "format": "unclear",
+  "mentor_type": "teacher_school_staff",
+  "targets": [
+   "at_risk_behavior",
+   "racial_ethnic_minority"
+  ],
+  "grade_band": "high",
+  "program_name": "AVID/AAMI",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "academic_achievement": "null",
+   "college_access_enrollment": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Comparison of AVID program students with non-participants; reading gain null, honors enrollment higher."
+ },
+ {
+  "id": "ED570725",
+  "design": "correlational",
+  "rigor": 2,
+  "n_youth": 4368,
+  "country": "US",
+  "setting": "school_based",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "low_income",
+   "first_generation"
+  ],
+  "grade_band": "high",
+  "program_name": "GEAR UP",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "academic_achievement": "mixed"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Ex post facto regression of GEAR UP services; academic mentoring unrelated to math, tutoring related to English."
+ },
+ {
+  "id": "ED570759",
+  "design": "pre_post",
+  "rigor": 2,
+  "n_youth": 287,
+  "country": "US",
+  "setting": "school_based",
+  "format": "peer_cross_age",
+  "mentor_type": "older_peer",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "middle",
+  "program_name": "Overcoming Obstacles Life Skills Program",
+  "duration_months": 9,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "mental_health": "mixed",
+   "psychosocial_other": "mixed",
+   "engagement_attendance": "null"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Student-mentor transition program; anxiety fell, resilience scale unchanged, inconsistent results."
+ },
+ {
+  "id": "ED570974",
+  "design": "correlational",
+  "rigor": 3,
+  "n_youth": 663,
+  "country": "US",
+  "setting": "community_based",
+  "format": "natural_mentor",
+  "mentor_type": "natural_informal",
+  "targets": [
+   "racial_ethnic_minority"
+  ],
+  "grade_band": "middle",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "engagement_attendance": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Survey of Black youth with natural mentors; closeness countered discrimination effects on engagement, via racial pride."
+ },
+ {
+  "id": "ED571161",
+  "design": "pre_post",
+  "rigor": 2,
+  "n_youth": 40,
+  "country": "US",
+  "setting": "school_based",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "racial_ethnic_minority",
+   "urban"
+  ],
+  "grade_band": "high",
+  "program_name": null,
+  "duration_months": 3,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "academic_achievement": "null",
+   "engagement_attendance": "null"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Mixed-methods evaluation of mentoring initiative; abstract lists measures but states no findings."
+ },
+ {
+  "id": "ED571791",
+  "design": "review",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "US",
+  "setting": "school_based",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "disability"
+  ],
+  "grade_band": "k12_mixed",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "graduation_persistence": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": {
+   "n_studies": 19,
+   "pooled_metric": null,
+   "pooled_value": null
+  },
+  "notes": "Literature map of dropout prevention for students with disabilities; mentoring most common intervention, no pooling."
+ },
+ {
+  "id": "ED572060",
+  "design": "correlational",
+  "rigor": 2,
+  "n_youth": 348,
+  "country": "US",
+  "setting": "college_campus",
+  "format": "peer_cross_age",
+  "mentor_type": "older_peer",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "graduation_persistence": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Survey of veteran students; peer mentoring among predictors of intent to persist."
+ },
+ {
+  "id": "ED572173",
+  "design": "pre_post",
+  "rigor": 2,
+  "n_youth": null,
+  "country": "other",
+  "setting": "college_campus",
+  "format": "peer_cross_age",
+  "mentor_type": "college_student",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "self_efficacy_confidence": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Senior-made videos for freshmen English learners in Japan; pre-post attitudes and assignments improved."
+ },
+ {
+  "id": "ED573227",
+  "design": "review",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "Australia",
+  "setting": "community_based",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "racial_ethnic_minority",
+   "at_risk_behavior"
+  ],
+  "grade_band": "unclear",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {},
+  "effect_sizes": [],
+  "review_details": {
+   "n_studies": 45,
+   "pooled_metric": null,
+   "pooled_value": null
+  },
+  "notes": "Narrative synthesis of Indigenous youth mentoring evidence; stresses community involvement and long-term relationships."
+ },
+ {
+  "id": "ED573422",
+  "design": "quasi_experimental",
+  "rigor": 4,
+  "n_youth": null,
+  "country": "US",
+  "setting": "school_based",
+  "format": "one_to_one",
+  "mentor_type": "adult_volunteer",
+  "targets": [
+   "low_income",
+   "urban"
+  ],
+  "grade_band": "high",
+  "program_name": "iMentor College Ready",
+  "duration_months": null,
+  "frequency": "weekly_or_more",
+  "bridging": "yes",
+  "outcomes": {},
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Implementation and early impact report on iMentor in New York high schools; effect results not stated."
+ },
+ {
+  "id": "ED573424",
+  "design": "quasi_experimental",
+  "rigor": 4,
+  "n_youth": 1600,
+  "country": "US",
+  "setting": "school_based",
+  "format": "one_to_one",
+  "mentor_type": "adult_volunteer",
+  "targets": [
+   "low_income",
+   "urban"
+  ],
+  "grade_band": "high",
+  "program_name": "iMentor College Ready",
+  "duration_months": null,
+  "frequency": "weekly_or_more",
+  "bridging": "yes",
+  "outcomes": {},
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Technical appendices for iMentor evaluation; methods only, no results stated."
+ }
+]

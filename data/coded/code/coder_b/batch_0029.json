@@ -1,0 +1,635 @@
+[
+ {
+  "id": "EJ1380392",
+  "design": "correlational",
+  "rigor": 4,
+  "n_youth": 15701,
+  "country": "unclear",
+  "setting": "unclear",
+  "format": "natural_mentor",
+  "mentor_type": "natural_informal",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "unclear",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "academic_achievement": "positive",
+   "psychosocial_other": "null"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Longitudinal national data; academic mentors predicted attainment, athletic and religious mentors did not affect their domains."
+ },
+ {
+  "id": "EJ1380529",
+  "design": "pre_post",
+  "rigor": 2,
+  "n_youth": 126,
+  "country": "unclear",
+  "setting": "college_campus",
+  "format": "unclear",
+  "mentor_type": "mixed",
+  "targets": [
+   "stem_general"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {
+   "career_employment": "mixed",
+   "psychosocial_other": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Summer engineering research program; pre-post surveys on expectations, mentors and career plans, domestic versus international students."
+ },
+ {
+  "id": "EJ1380684",
+  "design": "quasi_experimental",
+  "rigor": 4,
+  "n_youth": 170,
+  "country": "unclear",
+  "setting": "college_campus",
+  "format": "one_to_one",
+  "mentor_type": "teacher_school_staff",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "relationships_social": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Matched control comparison over two semesters; program raised similarity and mentoring relationship quality with faculty."
+ },
+ {
+  "id": "EJ1381293",
+  "design": "other",
+  "rigor": 1,
+  "n_youth": 39,
+  "country": "US",
+  "setting": "college_campus",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "racial_ethnic_minority",
+   "low_income"
+  ],
+  "grade_band": "college",
+  "program_name": "Summer Undergraduate Research Program",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "yes",
+  "outcomes": {
+   "career_employment": "positive",
+   "relationships_social": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Post-program descriptive survey of alumni with modest response rate; reported career influence and lasting mentor contact."
+ },
+ {
+  "id": "EJ1381490",
+  "design": "pre_post",
+  "rigor": 2,
+  "n_youth": null,
+  "country": "unclear",
+  "setting": "online",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "stem_general"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "engagement_attendance": "positive",
+   "self_efficacy_confidence": "positive",
+   "belonging_connectedness": "mixed"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Online research course evaluated by mixed methods; comparison group not described; students reported gains and some isolation."
+ },
+ {
+  "id": "EJ1381616",
+  "design": "pre_post",
+  "rigor": 2,
+  "n_youth": null,
+  "country": "US",
+  "setting": "college_campus",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "stem_general"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "yes",
+  "outcomes": {
+   "career_employment": "positive",
+   "psychosocial_other": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Museum collections course with pre and post surveys on science understanding and career plans."
+ },
+ {
+  "id": "EJ1382339",
+  "design": "quasi_experimental",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "Australia",
+  "setting": "college_campus",
+  "format": "unclear",
+  "mentor_type": "teacher_school_staff",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "college",
+  "program_name": "Staff Student Buddy System",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "academic_achievement": "positive",
+   "psychosocial_other": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Staff buddies for first-year students; participants versus non-participants on grades, plus student feedback."
+ },
+ {
+  "id": "EJ1383376",
+  "design": "correlational",
+  "rigor": 4,
+  "n_youth": 43999,
+  "country": "US",
+  "setting": "unclear",
+  "format": "natural_mentor",
+  "mentor_type": "natural_informal",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "k12_mixed",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "behavior_delinquency": "null"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Cross-sectional national survey; having a mentor was not among the factors linked to lower bullying odds."
+ },
+ {
+  "id": "EJ1384349",
+  "design": "quasi_experimental",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "US",
+  "setting": "college_campus",
+  "format": "mixed",
+  "mentor_type": "college_student",
+  "targets": [
+   "first_generation",
+   "racial_ethnic_minority"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "graduation_persistence": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Freshman cohorts on probation; retention linked to combined peer mentoring, coaching and advising sessions."
+ },
+ {
+  "id": "EJ1387303",
+  "design": "correlational",
+  "rigor": 3,
+  "n_youth": 466,
+  "country": "US",
+  "setting": "college_campus",
+  "format": "unclear",
+  "mentor_type": "teacher_school_staff",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "engagement_attendance": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Online survey; having a faculty mentor associated with less academic apathy."
+ },
+ {
+  "id": "EJ1388901",
+  "design": "other",
+  "rigor": 1,
+  "n_youth": null,
+  "country": "US",
+  "setting": "college_campus",
+  "format": "mixed",
+  "mentor_type": "older_peer",
+  "targets": [
+   "racial_ethnic_minority"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "academic_achievement": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Descriptive account of learning community with peer mentoring; faculty reflections and grade distributions only."
+ },
+ {
+  "id": "EJ1389444",
+  "design": "correlational",
+  "rigor": 3,
+  "n_youth": 407,
+  "country": "US",
+  "setting": "college_campus",
+  "format": "group",
+  "mentor_type": "teacher_school_staff",
+  "targets": [
+   "stem_general",
+   "racial_ethnic_minority"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "weekly_or_more",
+  "bridging": "no",
+  "outcomes": {
+   "career_employment": "mixed"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Survey of student research teams; career goal change predicted by team factors, mixed for Hispanic students."
+ },
+ {
+  "id": "EJ1389839",
+  "design": "correlational",
+  "rigor": 3,
+  "n_youth": 315,
+  "country": "unclear",
+  "setting": "college_campus",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "racial_ethnic_minority",
+   "lgbtq"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "mental_health": "positive",
+   "self_efficacy_confidence": "positive"
+  },
+  "effect_sizes": [
+   {
+    "domain": "mental_health",
+    "metric": "other",
+    "value": 0.29,
+    "note": "unstandardized B, mentoring support to mental health"
+   }
+  ],
+  "review_details": null,
+  "notes": "Cross-sectional survey; mentoring support and academic self-concept mediated discrimination and mental health link."
+ },
+ {
+  "id": "EJ1389945",
+  "design": "correlational",
+  "rigor": 3,
+  "n_youth": 327,
+  "country": "unclear",
+  "setting": "online",
+  "format": "mixed",
+  "mentor_type": "unclear",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": 3.7,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "academic_achievement": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Social-network e-mentoring in a large online course linked to computational thinking gains; gender differences."
+ },
+ {
+  "id": "EJ1390338",
+  "design": "correlational",
+  "rigor": 3,
+  "n_youth": 177,
+  "country": "unclear",
+  "setting": "college_campus",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {
+   "career_employment": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Survey of course students; mentoring and networks predicted social entrepreneurship intention."
+ },
+ {
+  "id": "EJ1390780",
+  "design": "other",
+  "rigor": 1,
+  "n_youth": null,
+  "country": "US",
+  "setting": "college_campus",
+  "format": "mixed",
+  "mentor_type": "unclear",
+  "targets": [
+   "first_generation",
+   "low_income",
+   "racial_ethnic_minority"
+  ],
+  "grade_band": "college",
+  "program_name": "STAR Scholars Program",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "yes",
+  "outcomes": {
+   "self_efficacy_confidence": "positive",
+   "career_employment": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Outreach program for underrepresented students; self-reported benefits including networking and confidence."
+ },
+ {
+  "id": "EJ1390948",
+  "design": "quasi_experimental",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "unclear",
+  "setting": "college_campus",
+  "format": "mixed",
+  "mentor_type": "mixed",
+  "targets": [
+   "girls_women_stem"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "yes",
+  "outcomes": {
+   "graduation_persistence": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "First-year class for women with peer mentors and role models; retention compared with other female students."
+ },
+ {
+  "id": "EJ1391892",
+  "design": "correlational",
+  "rigor": 3,
+  "n_youth": 559,
+  "country": "US",
+  "setting": "unclear",
+  "format": "mixed",
+  "mentor_type": "college_student",
+  "targets": [
+   "racial_ethnic_minority",
+   "stem_general"
+  ],
+  "grade_band": "high",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "yes",
+  "outcomes": {
+   "psychosocial_other": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Near-peer college mentors with math shows and internship; associations between math attitudes and identity."
+ },
+ {
+  "id": "EJ1392703",
+  "design": "pre_post",
+  "rigor": 2,
+  "n_youth": 10,
+  "country": "US",
+  "setting": "college_campus",
+  "format": "one_to_one",
+  "mentor_type": "college_student",
+  "targets": [
+   "first_generation",
+   "racial_ethnic_minority"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": 12,
+  "frequency": "not_reported",
+  "bridging": "yes",
+  "outcomes": {
+   "career_employment": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Medical student mentors paired with community college students; small survey showed increased healthcare interest."
+ },
+ {
+  "id": "EJ1393457",
+  "design": "other",
+  "rigor": 1,
+  "n_youth": null,
+  "country": "unclear",
+  "setting": "college_campus",
+  "format": "group",
+  "mentor_type": "adult_volunteer",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "yes",
+  "outcomes": {
+   "career_employment": "positive",
+   "self_efficacy_confidence": "positive",
+   "belonging_connectedness": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "One-event career conference with industry mentors; early assessment of career knowledge and connection."
+ },
+ {
+  "id": "EJ1393827",
+  "design": "review",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "unclear",
+  "setting": "workplace_career",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "unclear",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {},
+  "effect_sizes": [],
+  "review_details": {
+   "n_studies": 47,
+   "pooled_metric": null,
+   "pooled_value": null
+  },
+  "notes": "Qualitative literature review of supervisor teaching practices in workplace learning."
+ },
+ {
+  "id": "EJ1394454",
+  "design": "correlational",
+  "rigor": 3,
+  "n_youth": 253,
+  "country": "US",
+  "setting": "college_campus",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "girls_women_stem"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": 12,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {
+   "belonging_connectedness": "positive",
+   "psychosocial_other": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Longitudinal mediation; diverse mentor networks linked to geoscience interest via university belonging."
+ },
+ {
+  "id": "EJ1394661",
+  "design": "quasi_experimental",
+  "rigor": 4,
+  "n_youth": 1858,
+  "country": "US",
+  "setting": "college_campus",
+  "format": "unclear",
+  "mentor_type": "teacher_school_staff",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "psychosocial_other": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Matched comparison of study abroad students; instructor cultural mentorship tied to intercultural learning."
+ },
+ {
+  "id": "EJ1395133",
+  "design": "pre_post",
+  "rigor": 2,
+  "n_youth": null,
+  "country": "US",
+  "setting": "online",
+  "format": "group",
+  "mentor_type": "college_student",
+  "targets": [
+   "rural",
+   "stem_general"
+  ],
+  "grade_band": "unclear",
+  "program_name": "eMentorship",
+  "duration_months": 1.8,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "self_efficacy_confidence": "positive",
+   "academic_achievement": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Eight-week virtual mentoring by graduate students; self-efficacy scores and interviews, no comparison group."
+ },
+ {
+  "id": "EJ1395921",
+  "design": "quasi_experimental",
+  "rigor": 4,
+  "n_youth": null,
+  "country": "other",
+  "setting": "college_campus",
+  "format": "peer_cross_age",
+  "mentor_type": "older_peer",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "academic_achievement": "positive",
+   "graduation_persistence": "positive",
+   "engagement_attendance": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Chilean peer-mentoring program; propensity matching showed better grades, retention and attendance."
+ }
+]

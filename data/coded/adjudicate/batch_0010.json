@@ -1,0 +1,209 @@
+[
+ {
+  "id": "ED579020",
+  "design": "quasi_experimental",
+  "rigor": 3,
+  "n_youth": 70,
+  "country": "US",
+  "setting": "college_campus",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "racial_ethnic_minority",
+   "at_risk_behavior"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {
+   "graduation_persistence": "positive",
+   "self_efficacy_confidence": "null",
+   "career_employment": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Treatment vs control at-risk Black male undergraduates; persistence differed, perceived achievement did not; alumni survey favorable."
+ },
+ {
+  "id": "ED585124",
+  "design": "other",
+  "rigor": 1,
+  "n_youth": null,
+  "country": "US",
+  "setting": "mixed",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "racial_ethnic_minority",
+   "urban"
+  ],
+  "grade_band": "high",
+  "program_name": "Black Male Leadership Academy",
+  "duration_months": null,
+  "frequency": "monthly",
+  "bridging": "yes",
+  "outcomes": {
+   "self_efficacy_confidence": "positive",
+   "psychosocial_other": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Surveys and focus groups, no comparison; mentoring one of several components; self-reported gains."
+ },
+ {
+  "id": "ED591554",
+  "design": "quasi_experimental",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "US",
+  "setting": "school_based",
+  "format": "one_to_one",
+  "mentor_type": "adult_volunteer",
+  "targets": [
+   "low_income",
+   "urban"
+  ],
+  "grade_band": "high",
+  "program_name": "iMentor College Ready",
+  "duration_months": 24,
+  "frequency": "other",
+  "bridging": "yes",
+  "outcomes": {
+   "college_access_enrollment": "null",
+   "academic_achievement": "null",
+   "psychosocial_other": "mixed",
+   "career_employment": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Impacts after two years: mostly null; small gains in critical thinking, resilience, career activities; design not described."
+ },
+ {
+  "id": "ED591564",
+  "design": "quasi_experimental",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "US",
+  "setting": "school_based",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "low_income"
+  ],
+  "grade_band": "high",
+  "program_name": "iMentor College Ready",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {},
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Technical appendices on baseline equivalence and effect methods; no results in abstract; design inferred."
+ },
+ {
+  "id": "ED593039",
+  "design": "other",
+  "rigor": 1,
+  "n_youth": 24,
+  "country": "US",
+  "setting": "college_campus",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "racial_ethnic_minority"
+  ],
+  "grade_band": "college",
+  "program_name": "Culturally Strategic Mentoring",
+  "duration_months": 9,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {
+   "engagement_attendance": "positive",
+   "graduation_persistence": "positive",
+   "academic_achievement": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Qualitative pilot, nine trained mentors, two semesters, no comparison; preliminary improvements reported."
+ },
+ {
+  "id": "ED593189",
+  "design": "correlational",
+  "rigor": 2,
+  "n_youth": null,
+  "country": "US",
+  "setting": "college_campus",
+  "format": "unclear",
+  "mentor_type": "teacher_school_staff",
+  "targets": [
+   "first_generation"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {
+   "psychosocial_other": "null"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Mixed methods on faculty mentoring; relationship quality did not predict unspecified mentoring outcomes."
+ },
+ {
+  "id": "ED593732",
+  "design": "quasi_experimental",
+  "rigor": 4,
+  "n_youth": null,
+  "country": "US",
+  "setting": "school_based",
+  "format": "mixed",
+  "mentor_type": "mixed",
+  "targets": [
+   "rural",
+   "urban"
+  ],
+  "grade_band": "high",
+  "program_name": "UNISON",
+  "duration_months": 36,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {
+   "graduation_persistence": "positive"
+  },
+  "effect_sizes": [
+   {
+    "domain": "graduation_persistence",
+    "metric": "pct_points",
+    "value": 8.88,
+    "note": "gain 72.43→91.73 vs 72.98→83.40 comparison"
+   }
+  ],
+  "review_details": null,
+  "notes": "Comparative interrupted time series; whole-school mentoring model; graduation rose more than comparison schools."
+ },
+ {
+  "id": "ED596552",
+  "design": "correlational",
+  "rigor": 1,
+  "n_youth": null,
+  "country": "unclear",
+  "setting": "college_campus",
+  "format": "peer_cross_age",
+  "mentor_type": "older_peer",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {},
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Descriptive survey of first-year perceptions of peer mentoring; differed by gender and background."
+ }
+]

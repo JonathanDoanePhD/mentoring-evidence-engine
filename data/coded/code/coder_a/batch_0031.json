@@ -1,0 +1,652 @@
+[
+ {
+  "id": "EJ573513",
+  "design": "other",
+  "rigor": 1,
+  "n_youth": null,
+  "country": "US",
+  "setting": "school_based",
+  "format": "one_to_one",
+  "mentor_type": "adult_volunteer",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "high",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "yes",
+  "outcomes": {
+   "academic_achievement": "positive",
+   "psychosocial_other": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Career-academy program description with survey showing improved work habits and cooperation grades."
+ },
+ {
+  "id": "EJ576879",
+  "design": "quasi_experimental",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "unclear",
+  "setting": "unclear",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "racial_ethnic_minority",
+   "at_risk_behavior"
+  ],
+  "grade_band": "high",
+  "program_name": "Brothers Project",
+  "duration_months": 48,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {
+   "self_efficacy_confidence": "null",
+   "psychosocial_other": "null",
+   "academic_achievement": "null",
+   "engagement_attendance": "null",
+   "behavior_delinquency": "null"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Four-year project; control comparison found no significant differences on any measured outcome."
+ },
+ {
+  "id": "EJ577407",
+  "design": "correlational",
+  "rigor": 2,
+  "n_youth": 652,
+  "country": "unclear",
+  "setting": "school_based",
+  "format": "natural_mentor",
+  "mentor_type": "unclear",
+  "targets": [
+   "at_risk_behavior",
+   "disability"
+  ],
+  "grade_band": "high",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "academic_achievement": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Adult school mentor was one of several factors associated with educational progress among aggressive boys."
+ },
+ {
+  "id": "EJ584486",
+  "design": "quasi_experimental",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "unclear",
+  "setting": "unclear",
+  "format": "one_to_one",
+  "mentor_type": "adult_volunteer",
+  "targets": [
+   "foster_care"
+  ],
+  "grade_band": "unclear",
+  "program_name": "Big Brothers Big Sisters",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "relationships_social": "mixed"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Foster youth with mentors versus controls; peer relationship changes differed by care type."
+ },
+ {
+  "id": "EJ587823",
+  "design": "quasi_experimental",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "unclear",
+  "setting": "unclear",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "disability"
+  ],
+  "grade_band": "unclear",
+  "program_name": "Deaf Mentor Experimental Project",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "academic_achievement": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Young deaf children with deaf adult mentors gained more language than controls."
+ },
+ {
+  "id": "EJ590879",
+  "design": "pre_post",
+  "rigor": 2,
+  "n_youth": 18,
+  "country": "unclear",
+  "setting": "unclear",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "disability"
+  ],
+  "grade_band": "unclear",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {
+   "career_employment": "positive",
+   "graduation_persistence": "positive",
+   "college_access_enrollment": "positive"
+  },
+  "effect_sizes": [
+   {
+    "domain": "career_employment",
+    "metric": "other",
+    "value": 80,
+    "note": "percent employed, no comparison group"
+   },
+   {
+    "domain": "graduation_persistence",
+    "metric": "other",
+    "value": 67,
+    "note": "percent completed high school"
+   },
+   {
+    "domain": "college_access_enrollment",
+    "metric": "other",
+    "value": 50,
+    "note": "percent in postsecondary education"
+   }
+  ],
+  "review_details": null,
+  "notes": "Small demonstration of comprehensive supports, mentorship one part; employment and schooling rates reported without comparison."
+ },
+ {
+  "id": "EJ612597",
+  "design": "quasi_experimental",
+  "rigor": 3,
+  "n_youth": 62,
+  "country": "unclear",
+  "setting": "unclear",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "at_risk_behavior"
+  ],
+  "grade_band": "elementary",
+  "program_name": "PrimeTime",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "behavior_delinquency": "mixed"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Enhanced therapeutic mentoring compared with standard mentoring; small gains for both, partial support."
+ },
+ {
+  "id": "EJ612705",
+  "design": "quasi_experimental",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "unclear",
+  "setting": "college_campus",
+  "format": "one_to_one",
+  "mentor_type": "teacher_school_staff",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "psychosocial_other": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Freshman seminar faculty mentoring versus control improved spiritual well-being; mentoring aspects correlated with it."
+ },
+ {
+  "id": "EJ625354",
+  "design": "quasi_experimental",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "unclear",
+  "setting": "unclear",
+  "format": "one_to_one",
+  "mentor_type": "adult_volunteer",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "middle",
+  "program_name": "Big Brothers Big Sisters",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "engagement_attendance": "positive",
+   "self_efficacy_confidence": "positive",
+   "relationships_social": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Mentoring reduced absences and raised scholastic competence, mediated by better parent relationships."
+ },
+ {
+  "id": "EJ631856",
+  "design": "quasi_experimental",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "unclear",
+  "setting": "mixed",
+  "format": "one_to_one",
+  "mentor_type": "adult_volunteer",
+  "targets": [
+   "low_income",
+   "at_risk_behavior"
+  ],
+  "grade_band": "middle",
+  "program_name": "Across Ages",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "behavior_delinquency": "positive",
+   "self_efficacy_confidence": "positive",
+   "belonging_connectedness": "positive",
+   "psychosocial_other": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Older-adult mentoring arm outperformed curriculum-only and control on problem behavior and attitudes."
+ },
+ {
+  "id": "EJ634932",
+  "design": "quasi_experimental",
+  "rigor": 3,
+  "n_youth": 273,
+  "country": "unclear",
+  "setting": "school_based",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "low_income",
+   "at_risk_behavior"
+  ],
+  "grade_band": "elementary",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "academic_achievement": "null"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Multi-component intervention including mentoring showed no significant achievement effect."
+ },
+ {
+  "id": "EJ634943",
+  "design": "correlational",
+  "rigor": 2,
+  "n_youth": 1601,
+  "country": "unclear",
+  "setting": "unclear",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "unclear",
+  "program_name": null,
+  "duration_months": 19,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "psychosocial_other": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Follow-up of families in support programs; mentoring-based programs linked to fewer maltreatment events."
+ },
+ {
+  "id": "EJ638642",
+  "design": "correlational",
+  "rigor": 3,
+  "n_youth": 202,
+  "country": "unclear",
+  "setting": "workplace_career",
+  "format": "one_to_one",
+  "mentor_type": "adult_volunteer",
+  "targets": [
+   "racial_ethnic_minority"
+  ],
+  "grade_band": "high",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "yes",
+  "outcomes": {
+   "academic_achievement": "positive",
+   "engagement_attendance": "positive",
+   "self_efficacy_confidence": "positive",
+   "career_employment": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Participation in work-based mentoring associated with better grades and attendance."
+ },
+ {
+  "id": "EJ646572",
+  "design": "pre_post",
+  "rigor": 2,
+  "n_youth": null,
+  "country": "unclear",
+  "setting": "community_based",
+  "format": "mixed",
+  "mentor_type": "mixed",
+  "targets": [
+   "girls_women_stem",
+   "racial_ethnic_minority",
+   "urban"
+  ],
+  "grade_band": "middle",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "yes",
+  "outcomes": {
+   "psychosocial_other": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "After-school science program with women engineer role models; surveys showed improved science attitudes."
+ },
+ {
+  "id": "EJ651467",
+  "design": "pre_post",
+  "rigor": 2,
+  "n_youth": 13,
+  "country": "unclear",
+  "setting": "unclear",
+  "format": "one_to_one",
+  "mentor_type": "unclear",
+  "targets": [
+   "at_risk_behavior"
+  ],
+  "grade_band": "middle",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "weekly_or_more",
+  "bridging": "no",
+  "outcomes": {
+   "behavior_delinquency": "mixed"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Parent reports showed fewer problems; teacher reports showed no change. Sample inferred from mentor count."
+ },
+ {
+  "id": "EJ658375",
+  "design": "pre_post",
+  "rigor": 2,
+  "n_youth": null,
+  "country": "unclear",
+  "setting": "unclear",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "at_risk_behavior"
+  ],
+  "grade_band": "elementary",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "self_efficacy_confidence": "positive",
+   "belonging_connectedness": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Pre-post gains in self-esteem and connectedness for selected fourth graders."
+ },
+ {
+  "id": "EJ659184",
+  "design": "pre_post",
+  "rigor": 2,
+  "n_youth": null,
+  "country": "unclear",
+  "setting": "unclear",
+  "format": "peer_cross_age",
+  "mentor_type": "older_peer",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "elementary",
+  "program_name": "Developmental Mentoring",
+  "duration_months": 12,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "belonging_connectedness": "positive",
+   "academic_achievement": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "One-year study of high schoolers mentoring younger pupils; connectedness and spelling improved."
+ },
+ {
+  "id": "EJ660555",
+  "design": "quasi_experimental",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "unclear",
+  "setting": "unclear",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "at_risk_behavior"
+  ],
+  "grade_band": "unclear",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "behavior_delinquency": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Intervention group improved on problem behavior; effects differed by ethnicity."
+ },
+ {
+  "id": "EJ660603",
+  "design": "correlational",
+  "rigor": 2,
+  "n_youth": null,
+  "country": "unclear",
+  "setting": "unclear",
+  "format": "natural_mentor",
+  "mentor_type": "natural_informal",
+  "targets": [
+   "at_risk_behavior"
+  ],
+  "grade_band": "unclear",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "psychosocial_other": "mixed"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Interviews of late-adolescent children of alcoholics describing natural mentors; adjustment differences noted."
+ },
+ {
+  "id": "EJ661645",
+  "design": "pre_post",
+  "rigor": 2,
+  "n_youth": null,
+  "country": "Canada",
+  "setting": "school_based",
+  "format": "one_to_one",
+  "mentor_type": "adult_volunteer",
+  "targets": [
+   "at_risk_behavior",
+   "low_income"
+  ],
+  "grade_band": "elementary",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "weekly_or_more",
+  "bridging": "no",
+  "outcomes": {
+   "belonging_connectedness": "positive",
+   "academic_achievement": "positive",
+   "relationships_social": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Evaluation of five school mentoring programs reported better attitudes, grades and relationships."
+ },
+ {
+  "id": "EJ661670",
+  "design": "pre_post",
+  "rigor": 2,
+  "n_youth": null,
+  "country": "US",
+  "setting": "school_based",
+  "format": "one_to_one",
+  "mentor_type": "adult_volunteer",
+  "targets": [
+   "rural"
+  ],
+  "grade_band": "unclear",
+  "program_name": "TeamMates",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "psychosocial_other": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Statewide program compared rural and nonrural schools; similar positive behavior change reported."
+ },
+ {
+  "id": "EJ664478",
+  "design": "other",
+  "rigor": 2,
+  "n_youth": 5,
+  "country": "unclear",
+  "setting": "school_based",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "disability"
+  ],
+  "grade_band": "elementary",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "engagement_attendance": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Small study of peers supporting classmates with disabilities; helpers became more academically engaged."
+ },
+ {
+  "id": "EJ666776",
+  "design": "review",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "unclear",
+  "setting": "unclear",
+  "format": "one_to_one",
+  "mentor_type": "unclear",
+  "targets": [
+   "at_risk_behavior"
+  ],
+  "grade_band": "unclear",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {},
+  "effect_sizes": [],
+  "review_details": {
+   "n_studies": null,
+   "pooled_metric": null,
+   "pooled_value": null
+  },
+  "notes": "Narrative literature review on mentoring teen mothers and mother-child bonding."
+ },
+ {
+  "id": "EJ668205",
+  "design": "quasi_experimental",
+  "rigor": 3,
+  "n_youth": 53,
+  "country": "unclear",
+  "setting": "college_campus",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "academic_achievement": "positive",
+   "graduation_persistence": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Mentoring for at-risk remedial college students linked to better retention and GPA."
+ },
+ {
+  "id": "EJ669137",
+  "design": "quasi_experimental",
+  "rigor": 3,
+  "n_youth": 62,
+  "country": "other",
+  "setting": "unclear",
+  "format": "one_to_one",
+  "mentor_type": "adult_volunteer",
+  "targets": [
+   "gifted"
+  ],
+  "grade_band": "high",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {
+   "academic_achievement": "null",
+   "self_efficacy_confidence": "positive",
+   "relationships_social": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Six-year mentoring study; no exam gain but surveys showed confidence and adult contact benefits."
+ }
+]

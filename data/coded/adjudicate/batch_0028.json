@@ -1,0 +1,275 @@
+[
+ {
+  "id": "EJ1354961",
+  "design": "review",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "unclear",
+  "setting": "online",
+  "format": "peer_cross_age",
+  "mentor_type": "older_peer",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {},
+  "effect_sizes": [],
+  "review_details": {
+   "n_studies": 4,
+   "pooled_metric": null,
+   "pooled_value": null
+  },
+  "notes": "Systematic review of online peer-assisted learning in distance higher education; four studies, inconclusive results."
+ },
+ {
+  "id": "EJ1358601",
+  "design": "other",
+  "rigor": 1,
+  "n_youth": 20,
+  "country": "unclear",
+  "setting": "mixed",
+  "format": "mixed",
+  "mentor_type": "unclear",
+  "targets": [
+   "stem_general"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": 12,
+  "frequency": "not_reported",
+  "bridging": "yes",
+  "outcomes": {
+   "graduation_persistence": "positive"
+  },
+  "effect_sizes": [
+   {
+    "domain": "graduation_persistence",
+    "metric": "other",
+    "value": 70,
+    "note": "percent transferring to 4-year university; no comparison"
+   }
+  ],
+  "review_details": null,
+  "notes": "Case study of community college geoscience program with research and internships; 70% transferred."
+ },
+ {
+  "id": "EJ1358624",
+  "design": "pre_post",
+  "rigor": 2,
+  "n_youth": 60,
+  "country": "US",
+  "setting": "mixed",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "rural",
+   "urban",
+   "stem_general"
+  ],
+  "grade_band": "high",
+  "program_name": "Knight Scholars Program",
+  "duration_months": 36,
+  "frequency": "not_reported",
+  "bridging": "yes",
+  "outcomes": {
+   "self_efficacy_confidence": "positive",
+   "career_employment": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Tiered three-year mentored cancer research training for Oregon high schoolers; gains in interest and self-efficacy."
+ },
+ {
+  "id": "EJ1360393",
+  "design": "pre_post",
+  "rigor": 2,
+  "n_youth": 113,
+  "country": "US",
+  "setting": "college_campus",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "racial_ethnic_minority",
+   "first_generation",
+   "stem_general"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": 2.3,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {
+   "self_efficacy_confidence": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Summer undergraduate research program for underrepresented students; pre-post self-reported skill growth."
+ },
+ {
+  "id": "EJ1363196",
+  "design": "quasi_experimental",
+  "rigor": 4,
+  "n_youth": null,
+  "country": "US",
+  "setting": "school_based",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "racial_ethnic_minority"
+  ],
+  "grade_band": "middle",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "academic_achievement": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Reanalysis of IES school mentoring evaluation; GPA gains, larger for African American students with same-race mentors."
+ },
+ {
+  "id": "EJ1363630",
+  "design": "correlational",
+  "rigor": 3,
+  "n_youth": 6802,
+  "country": "US",
+  "setting": "workplace_career",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "yes",
+  "outcomes": {
+   "career_employment": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Survey of intern graduates; mentor status buffered learning losses; supervisor support linked to job acceptance."
+ },
+ {
+  "id": "EJ1374408",
+  "design": "quasi_experimental",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "unclear",
+  "setting": "college_campus",
+  "format": "unclear",
+  "mentor_type": "college_student",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "psychosocial_other": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Graduate writing mentorship plus scaffolded assignments lowered undergraduate writing apprehension in intervention group."
+ },
+ {
+  "id": "EJ1375579",
+  "design": "pre_post",
+  "rigor": 2,
+  "n_youth": null,
+  "country": "unclear",
+  "setting": "school_based",
+  "format": "unclear",
+  "mentor_type": "college_student",
+  "targets": [
+   "low_income",
+   "stem_general"
+  ],
+  "grade_band": "k12_mixed",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "other",
+  "bridging": "yes",
+  "outcomes": {
+   "psychosocial_other": "positive"
+  },
+  "effect_sizes": [
+   {
+    "domain": "psychosocial_other",
+    "metric": "other",
+    "value": 25,
+    "note": "up to 25% rise in favorable science perception, pre-post"
+   }
+  ],
+  "review_details": null,
+  "notes": "Community college volunteers mentored charter school eighth and ninth graders; science perceptions improved."
+ },
+ {
+  "id": "EJ1378379",
+  "design": "rct",
+  "rigor": 5,
+  "n_youth": 358,
+  "country": "unclear",
+  "setting": "school_based",
+  "format": "one_to_one",
+  "mentor_type": "unclear",
+  "targets": [
+   "immigrant_ell"
+  ],
+  "grade_band": "high",
+  "program_name": "Check & Connect",
+  "duration_months": 24,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "engagement_attendance": "null",
+   "relationships_social": "null",
+   "psychosocial_other": "null",
+   "behavior_delinquency": "null",
+   "academic_achievement": "null"
+  },
+  "effect_sizes": [
+   {
+    "domain": "engagement_attendance",
+    "metric": "d",
+    "value": 0.14,
+    "note": "behavioral disengagement (reported -0.14); sign flipped, ns"
+   },
+   {
+    "domain": "engagement_attendance",
+    "metric": "d",
+    "value": -0.22,
+    "note": "psychological engagement, not significant"
+   },
+   {
+    "domain": "engagement_attendance",
+    "metric": "d",
+    "value": -0.12,
+    "note": "academic and cognitive engagement, not significant"
+   },
+   {
+    "domain": "relationships_social",
+    "metric": "d",
+    "value": -0.1,
+    "note": "student-teacher relationships, not significant"
+   },
+   {
+    "domain": "psychosocial_other",
+    "metric": "d",
+    "value": -0.11,
+    "note": "goal-setting and problem-solving, not significant"
+   }
+  ],
+  "review_details": null,
+  "notes": "Randomized trial of Check & Connect with high school English learners; no significant engagement effects."
+ }
+]

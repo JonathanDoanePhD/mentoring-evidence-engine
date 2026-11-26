@@ -1,0 +1,145 @@
+[
+ {
+  "id": "ED618183",
+  "design": "rct",
+  "rigor": 5,
+  "n_youth": 38,
+  "country": "unclear",
+  "setting": "school_based",
+  "format": "mixed",
+  "mentor_type": "unclear",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "k12_mixed",
+  "program_name": "Resilience Education Program",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "mental_health": "null",
+   "psychosocial_other": "null",
+   "relationships_social": "null"
+  },
+  "effect_sizes": [
+   {
+    "domain": "mental_health",
+    "metric": "other",
+    "value": 0.15,
+    "note": "partial eta-squared, internalizing, low end, nonsignificant"
+   },
+   {
+    "domain": "mental_health",
+    "metric": "other",
+    "value": 0.19,
+    "note": "partial eta-squared, internalizing, high end, nonsignificant"
+   },
+   {
+    "domain": "psychosocial_other",
+    "metric": "other",
+    "value": 0.38,
+    "note": "partial eta-squared incl. emotional control, social support"
+   }
+  ],
+  "review_details": null,
+  "notes": "Small underpowered RCT, group CBT plus check-in mentoring; large but nonsignificant internalizing effects."
+ },
+ {
+  "id": "ED618302",
+  "design": "quasi_experimental",
+  "rigor": 4,
+  "n_youth": 115748,
+  "country": "US",
+  "setting": "school_based",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "high",
+  "program_name": "Youth CareerConnect",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "yes",
+  "outcomes": {
+   "engagement_attendance": "positive",
+   "graduation_persistence": "positive",
+   "academic_achievement": "mixed"
+  },
+  "effect_sizes": [
+   {
+    "domain": "engagement_attendance",
+    "metric": "pct_points",
+    "value": 0.7,
+    "note": "attendance 91.5% vs about 90.7%"
+   },
+   {
+    "domain": "graduation_persistence",
+    "metric": "other",
+    "value": 4,
+    "note": "credit accumulation percentile 50th to about 54th"
+   }
+  ],
+  "review_details": null,
+  "notes": "Main QED plus small RCT component; mentoring one element; larger impacts for mentored students, possibly selection."
+ },
+ {
+  "id": "ED627131",
+  "design": "rct",
+  "rigor": 5,
+  "n_youth": 358,
+  "country": "unclear",
+  "setting": "school_based",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "immigrant_ell"
+  ],
+  "grade_band": "high",
+  "program_name": "Check & Connect",
+  "duration_months": 24,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "engagement_attendance": "null",
+   "relationships_social": "null",
+   "psychosocial_other": "null",
+   "behavior_delinquency": "null",
+   "academic_achievement": "null"
+  },
+  "effect_sizes": [
+   {
+    "domain": "engagement_attendance",
+    "metric": "other",
+    "value": -0.14,
+    "note": "behavioral disengagement ES, nonsignificant, sign as reported"
+   },
+   {
+    "domain": "engagement_attendance",
+    "metric": "other",
+    "value": -0.22,
+    "note": "psychological engagement ES, nonsignificant"
+   },
+   {
+    "domain": "engagement_attendance",
+    "metric": "other",
+    "value": -0.12,
+    "note": "academic and cognitive engagement ES, nonsignificant"
+   },
+   {
+    "domain": "relationships_social",
+    "metric": "other",
+    "value": -0.1,
+    "note": "student-teacher relationships ES, nonsignificant"
+   },
+   {
+    "domain": "psychosocial_other",
+    "metric": "other",
+    "value": -0.11,
+    "note": "goal-setting and problem-solving ES, nonsignificant"
+   }
+  ],
+  "review_details": null,
+  "notes": "Two-year RCT with English learners; no effects on engagement, attendance, discipline or course failures."
+ }
+]

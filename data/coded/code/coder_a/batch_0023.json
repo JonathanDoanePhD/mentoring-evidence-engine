@@ -1,0 +1,659 @@
+[
+ {
+  "id": "EJ1240630",
+  "design": "correlational",
+  "rigor": 4,
+  "n_youth": 347,
+  "country": "US",
+  "setting": "unclear",
+  "format": "natural_mentor",
+  "mentor_type": "natural_informal",
+  "targets": [
+   "racial_ethnic_minority",
+   "urban"
+  ],
+  "grade_band": "high",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "academic_achievement": "null",
+   "psychosocial_other": "mixed"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Natural mentor presence unrelated to change; relationship quality linked to ethnic identity and educational values."
+ },
+ {
+  "id": "EJ1240951",
+  "design": "quasi_experimental",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "other",
+  "setting": "unclear",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "low_income"
+  ],
+  "grade_band": "middle",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {
+   "graduation_persistence": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Scholarship plus mentoring in Mexico raised upper secondary completion among applicants."
+ },
+ {
+  "id": "EJ1243146",
+  "design": "pre_post",
+  "rigor": 2,
+  "n_youth": 33,
+  "country": "other",
+  "setting": "unclear",
+  "format": "unclear",
+  "mentor_type": "adult_volunteer",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "out_of_school",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "yes",
+  "outcomes": {
+   "career_employment": "positive",
+   "relationships_social": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Older entrepreneurs mentored unemployed young adults across three European countries; pre-post gains in competences."
+ },
+ {
+  "id": "EJ1243731",
+  "design": "correlational",
+  "rigor": 3,
+  "n_youth": 115,
+  "country": "unclear",
+  "setting": "school_based",
+  "format": "unclear",
+  "mentor_type": "teacher_school_staff",
+  "targets": [
+   "at_risk_behavior"
+  ],
+  "grade_band": "high",
+  "program_name": "ACCES",
+  "duration_months": 12,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "academic_achievement": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Teacher mentoring relationship quality predicted academic adjustment gains, strongest for low mastery goal students."
+ },
+ {
+  "id": "EJ1245178",
+  "design": "pre_post",
+  "rigor": 2,
+  "n_youth": null,
+  "country": "unclear",
+  "setting": "workplace_career",
+  "format": "one_to_one",
+  "mentor_type": "adult_volunteer",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": 8,
+  "frequency": "not_reported",
+  "bridging": "yes",
+  "outcomes": {
+   "psychosocial_other": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Business students' moral disengagement fell over three waves, tied to mentor ethical characteristics."
+ },
+ {
+  "id": "EJ1245724",
+  "design": "pre_post",
+  "rigor": 2,
+  "n_youth": 19,
+  "country": "US",
+  "setting": "college_campus",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "racial_ethnic_minority"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": 4,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "self_efficacy_confidence": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Tribal college students reported higher retrospective confidence after a semester mentoring program."
+ },
+ {
+  "id": "EJ1245799",
+  "design": "other",
+  "rigor": 1,
+  "n_youth": 4,
+  "country": "unclear",
+  "setting": "school_based",
+  "format": "one_to_one",
+  "mentor_type": "college_student",
+  "targets": [
+   "disability"
+  ],
+  "grade_band": "middle",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "academic_achievement": "positive",
+   "psychosocial_other": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Tiny mixed-methods study of four pairs; reported academic and social-emotional benefits."
+ },
+ {
+  "id": "EJ1245968",
+  "design": "quasi_experimental",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "US",
+  "setting": "college_campus",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "racial_ethnic_minority",
+   "stem_general"
+  ],
+  "grade_band": "college",
+  "program_name": "Benjamin Banneker Scholars Program",
+  "duration_months": 60,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {
+   "graduation_persistence": "positive",
+   "academic_achievement": "positive",
+   "career_employment": "positive"
+  },
+  "effect_sizes": [
+   {
+    "domain": "graduation_persistence",
+    "metric": "pct_points",
+    "value": 49,
+    "note": "retention 88% vs 39% non-participants"
+   },
+   {
+    "domain": "graduation_persistence",
+    "metric": "pct_points",
+    "value": 73,
+    "note": "graduation 93% vs 20% non-participants"
+   }
+  ],
+  "review_details": null,
+  "notes": "HBCU STEM program participants retained and graduated far more than non-participating peers."
+ },
+ {
+  "id": "EJ1247586",
+  "design": "quasi_experimental",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "unclear",
+  "setting": "online",
+  "format": "mixed",
+  "mentor_type": "unclear",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "psychosocial_other": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Individual and small-group online mentoring in study abroad compared with control on intercultural development."
+ },
+ {
+  "id": "EJ1248777",
+  "design": "pre_post",
+  "rigor": 2,
+  "n_youth": null,
+  "country": "unclear",
+  "setting": "community_based",
+  "format": "peer_cross_age",
+  "mentor_type": "older_peer",
+  "targets": [
+   "girls_women_stem",
+   "stem_general"
+  ],
+  "grade_band": "middle",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "self_efficacy_confidence": "positive",
+   "psychosocial_other": "positive",
+   "relationships_social": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Summer computer science camp with near-peer mentors; gains in interest, self-efficacy and perceived parental support."
+ },
+ {
+  "id": "EJ1248904",
+  "design": "pre_post",
+  "rigor": 2,
+  "n_youth": 18,
+  "country": "unclear",
+  "setting": "community_based",
+  "format": "one_to_one",
+  "mentor_type": "adult_volunteer",
+  "targets": [
+   "disability"
+  ],
+  "grade_band": "out_of_school",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {
+   "psychosocial_other": "positive",
+   "mental_health": "null",
+   "career_employment": "null"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Young men with intellectual disability paired with older Shed members; only community quality of life improved."
+ },
+ {
+  "id": "EJ1251531",
+  "design": "quasi_experimental",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "US",
+  "setting": "college_campus",
+  "format": "unclear",
+  "mentor_type": "older_peer",
+  "targets": [
+   "first_generation",
+   "low_income",
+   "racial_ethnic_minority"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "academic_achievement": "positive",
+   "graduation_persistence": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Embedded peer support model improved gateway course success and retention for underserved first-year students."
+ },
+ {
+  "id": "EJ1253865",
+  "design": "correlational",
+  "rigor": 3,
+  "n_youth": 3461,
+  "country": "unclear",
+  "setting": "unclear",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "at_risk_behavior"
+  ],
+  "grade_band": "high",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "graduation_persistence": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Mentor background, tenure and student progress predicted graduation among re-enrolled dropouts."
+ },
+ {
+  "id": "EJ1254363",
+  "design": "rct",
+  "rigor": 5,
+  "n_youth": 408,
+  "country": "other",
+  "setting": "school_based",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "low_income"
+  ],
+  "grade_band": "k12_mixed",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "academic_achievement": "mixed",
+   "engagement_attendance": "positive",
+   "self_efficacy_confidence": "null",
+   "psychosocial_other": "null"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Randomized scholarship plus mentoring in Argentina improved study behaviors and first-year performance, not later learning or mindsets."
+ },
+ {
+  "id": "EJ1256100",
+  "design": "pre_post",
+  "rigor": 2,
+  "n_youth": 63,
+  "country": "unclear",
+  "setting": "college_campus",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "racial_ethnic_minority"
+  ],
+  "grade_band": "college",
+  "program_name": "SCOPE",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {
+   "self_efficacy_confidence": "positive",
+   "mental_health": "positive",
+   "psychosocial_other": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Minority undergraduates gained graduate application knowledge and confidence, with lower stress after the program."
+ },
+ {
+  "id": "EJ1257356",
+  "design": "review",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "unclear",
+  "setting": "unclear",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "disability"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {},
+  "effect_sizes": [],
+  "review_details": {
+   "n_studies": null,
+   "pooled_metric": null,
+   "pooled_value": null
+  },
+  "notes": "Narrative review of mentoring and training deaf and hard-of-hearing scientists; no quantitative outcomes."
+ },
+ {
+  "id": "EJ1258062",
+  "design": "quasi_experimental",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "unclear",
+  "setting": "college_campus",
+  "format": "group",
+  "mentor_type": "college_student",
+  "targets": [
+   "stem_general"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "academic_achievement": "positive",
+   "self_efficacy_confidence": "positive"
+  },
+  "effect_sizes": [
+   {
+    "domain": "academic_achievement",
+    "metric": "other",
+    "value": 10,
+    "note": "median paper score increase, percent of 100 points"
+   }
+  ],
+  "review_details": null,
+  "notes": "Graduate mentors guiding small undergraduate groups improved data analysis ability versus prior year and comparison course."
+ },
+ {
+  "id": "EJ1259112",
+  "design": "other",
+  "rigor": 1,
+  "n_youth": 41,
+  "country": "US",
+  "setting": "workplace_career",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "racial_ethnic_minority",
+   "stem_general"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "yes",
+  "outcomes": {
+   "graduation_persistence": "positive"
+  },
+  "effect_sizes": [
+   {
+    "domain": "graduation_persistence",
+    "metric": "other",
+    "value": 85,
+    "note": "35 of 41 interns stayed in STEMM; no comparison"
+   }
+  ],
+  "review_details": null,
+  "notes": "Descriptive design case of summer biomedical internship for Native students; most stayed in STEMM."
+ },
+ {
+  "id": "EJ1259126",
+  "design": "correlational",
+  "rigor": 3,
+  "n_youth": 604,
+  "country": "US",
+  "setting": "college_campus",
+  "format": "natural_mentor",
+  "mentor_type": "natural_informal",
+  "targets": [
+   "racial_ethnic_minority"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "belonging_connectedness": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Being mentored on campus contributed to Native undergraduates' perception of a belonging campus climate."
+ },
+ {
+  "id": "EJ1259225",
+  "design": "other",
+  "rigor": 1,
+  "n_youth": null,
+  "country": "unclear",
+  "setting": "college_campus",
+  "format": "unclear",
+  "mentor_type": "adult_volunteer",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "yes",
+  "outcomes": {
+   "career_employment": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Alumni mentoring in a business capstone; post-program survey indicated objectives met."
+ },
+ {
+  "id": "EJ1260197",
+  "design": "correlational",
+  "rigor": 3,
+  "n_youth": 205,
+  "country": "unclear",
+  "setting": "unclear",
+  "format": "one_to_one",
+  "mentor_type": "college_student",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "middle",
+  "program_name": "Young Women Leaders Program",
+  "duration_months": 9,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "relationships_social": "mixed"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Girls' maternal relationship characteristics predicted mentoring relationship quality in opposite directions."
+ },
+ {
+  "id": "EJ1260291",
+  "design": "other",
+  "rigor": 1,
+  "n_youth": 45,
+  "country": "unclear",
+  "setting": "college_campus",
+  "format": "group",
+  "mentor_type": "older_peer",
+  "targets": [
+   "stem_general"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "self_efficacy_confidence": "positive",
+   "academic_achievement": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Survey of intro computer science students who rated peer mentor-led modules as helpful for comprehension and confidence."
+ },
+ {
+  "id": "EJ1262440",
+  "design": "quasi_experimental",
+  "rigor": 3,
+  "n_youth": 35,
+  "country": "unclear",
+  "setting": "school_based",
+  "format": "group",
+  "mentor_type": "college_student",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "middle",
+  "program_name": "Group-AMPED",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "academic_achievement": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Undergraduate and graduate student leaders delivered group mentoring; mentored sixth graders had higher grades than small control."
+ },
+ {
+  "id": "EJ1262610",
+  "design": "pre_post",
+  "rigor": 2,
+  "n_youth": null,
+  "country": "unclear",
+  "setting": "online",
+  "format": "one_to_one",
+  "mentor_type": "unclear",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "academic_achievement": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Remote mentoring with reflective e-portfolios in language study abroad linked to better Spanish proficiency."
+ },
+ {
+  "id": "EJ1262726",
+  "design": "review",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "US",
+  "setting": "unclear",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "low_income"
+  ],
+  "grade_band": "k12_mixed",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {
+   "academic_achievement": "positive",
+   "behavior_delinquency": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": {
+   "n_studies": null,
+   "pooled_metric": null,
+   "pooled_value": null
+  },
+  "notes": "Narrative review on role models, mentors and media for low-income children; formal mentoring tied to better school and justice outcomes."
+ }
+]

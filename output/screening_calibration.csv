@@ -1,0 +1,3 @@
+comparison,n,agree,kappa,ref_includes,alt_includes,alt_recall_of_ref_includes,alt_precision
+include (outcome/review) vs not,300,0.970,0.866,39.000,38.000,0.872,0.895
+full 6-way decision,300,0.827,0.747,,,,

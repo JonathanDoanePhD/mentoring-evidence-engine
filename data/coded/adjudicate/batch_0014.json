@@ -1,0 +1,335 @@
+[
+ {
+  "id": "EJ1020294",
+  "design": "quasi_experimental",
+  "rigor": 4,
+  "n_youth": 161,
+  "country": "US",
+  "setting": "college_campus",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "racial_ethnic_minority",
+   "stem_general"
+  ],
+  "grade_band": "college",
+  "program_name": "MARC-U*STAR",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {
+   "psychosocial_other": "mixed"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Program vs nonprogram science majors; mentor trust mattered more for program students' motivation."
+ },
+ {
+  "id": "EJ1020511",
+  "design": "pre_post",
+  "rigor": 2,
+  "n_youth": 417,
+  "country": "unclear",
+  "setting": "college_campus",
+  "format": "group",
+  "mentor_type": "teacher_school_staff",
+  "targets": [
+   "stem_general"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "academic_achievement": "positive",
+   "relationships_social": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Faculty-mentored biology capstone proposals; pre-post gains in research skills and faculty relationships."
+ },
+ {
+  "id": "EJ1022628",
+  "design": "quasi_experimental",
+  "rigor": 3,
+  "n_youth": 42,
+  "country": "US",
+  "setting": "college_campus",
+  "format": "one_to_one",
+  "mentor_type": "adult_volunteer",
+  "targets": [
+   "girls_women_stem"
+  ],
+  "grade_band": "college",
+  "program_name": "WSU Women's Mentoring Program",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "yes",
+  "outcomes": {
+   "graduation_persistence": "positive"
+  },
+  "effect_sizes": [
+   {
+    "domain": "graduation_persistence",
+    "metric": "pct_points",
+    "value": 6,
+    "note": "74% mentored vs 68% all female freshmen"
+   },
+   {
+    "domain": "graduation_persistence",
+    "metric": "pct_points",
+    "value": 23,
+    "note": "74% mentored vs 51% historical 2003-2009 average"
+   }
+  ],
+  "review_details": null,
+  "notes": "Alumni engineer mentors for women; mentored freshmen retained more than all female freshmen and prior years."
+ },
+ {
+  "id": "EJ1023493",
+  "design": "correlational",
+  "rigor": 3,
+  "n_youth": 162,
+  "country": "unclear",
+  "setting": "unclear",
+  "format": "mixed",
+  "mentor_type": "college_student",
+  "targets": [
+   "at_risk_behavior"
+  ],
+  "grade_band": "middle",
+  "program_name": null,
+  "duration_months": 12,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "self_efficacy_confidence": "mixed",
+   "psychosocial_other": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "College women mentoring at-risk girls; mentor peer support predicted improvement; self-esteem effect depended on baseline."
+ },
+ {
+  "id": "EJ1023495",
+  "design": "correlational",
+  "rigor": 2,
+  "n_youth": 24,
+  "country": "unclear",
+  "setting": "school_based",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "at_risk_behavior"
+  ],
+  "grade_band": "k12_mixed",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "psychosocial_other": "mixed"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Small school-mentored at-risk sample; asset gains larger with lower family SES, maternal occupation."
+ },
+ {
+  "id": "EJ1023497",
+  "design": "other",
+  "rigor": 1,
+  "n_youth": 3,
+  "country": "unclear",
+  "setting": "college_campus",
+  "format": "one_to_one",
+  "mentor_type": "college_student",
+  "targets": [
+   "disability"
+  ],
+  "grade_band": "college",
+  "program_name": "Strategies for College Learning",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "psychosocial_other": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Pilot peer mentoring for three Asperger students; learning strategies acquired, judged acceptable."
+ },
+ {
+  "id": "EJ1031658",
+  "design": "rct",
+  "rigor": 5,
+  "n_youth": null,
+  "country": "unclear",
+  "setting": "unclear",
+  "format": "peer_cross_age",
+  "mentor_type": "older_peer",
+  "targets": [
+   "low_income"
+  ],
+  "grade_band": "out_of_school",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "yes",
+  "outcomes": {
+   "college_access_enrollment": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Chapter on randomized summer melt trials incl. counselor outreach, technology, peer mentoring; no figures given."
+ },
+ {
+  "id": "EJ1031678",
+  "design": "correlational",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "unclear",
+  "setting": "college_campus",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "psychosocial_other": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Transfer student capital survey; mentoring component predicted active coping among community college transfers."
+ },
+ {
+  "id": "EJ1031785",
+  "design": "other",
+  "rigor": 1,
+  "n_youth": null,
+  "country": "US",
+  "setting": "college_campus",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "racial_ethnic_minority"
+  ],
+  "grade_band": "college",
+  "program_name": "Leadership Alliance SR-EIP/LANS",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "yes",
+  "outcomes": {
+   "graduation_persistence": "positive",
+   "career_employment": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Descriptive study of Leadership Alliance pipeline for underrepresented students; favorable academic and career pathways."
+ },
+ {
+  "id": "EJ1033648",
+  "design": "quasi_experimental",
+  "rigor": 4,
+  "n_youth": 1513,
+  "country": "US",
+  "setting": "school_based",
+  "format": "one_to_one",
+  "mentor_type": "unclear",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "k12_mixed",
+  "program_name": "BBBS School-Based Mentoring; Student Mentoring Program",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "academic_achievement": "null",
+   "engagement_attendance": "null",
+   "behavior_delinquency": "null",
+   "relationships_social": "null"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Secondary analysis of two trials; boys in same- vs cross-gender matches had mostly similar outcomes."
+ },
+ {
+  "id": "EJ1039430",
+  "design": "other",
+  "rigor": 1,
+  "n_youth": null,
+  "country": "other",
+  "setting": "college_campus",
+  "format": "group",
+  "mentor_type": "unclear",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {
+   "psychosocial_other": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Ethnographic network analysis of a mentor scaffolding students' professional thinking in game design practicum."
+ },
+ {
+  "id": "EJ1039463",
+  "design": "quasi_experimental",
+  "rigor": 4,
+  "n_youth": 317,
+  "country": "other",
+  "setting": "school_based",
+  "format": "unclear",
+  "mentor_type": "teacher_school_staff",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "middle",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "academic_achievement": "positive",
+   "engagement_attendance": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Portuguese teacher-mentors; mentored students had fewer absences and better grades and GPA than controls."
+ },
+ {
+  "id": "EJ1042158",
+  "design": "correlational",
+  "rigor": 3,
+  "n_youth": 191,
+  "country": "US",
+  "setting": "college_campus",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "racial_ethnic_minority"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "academic_achievement": "mixed"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Hispanic undergraduates; cultural orientation predicted desired mentor functions and moderated their benefits."
+ }
+]

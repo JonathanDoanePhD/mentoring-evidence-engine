@@ -1,0 +1,641 @@
+[
+ {
+  "design": "review",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "unclear",
+  "setting": "unclear",
+  "format": "unclear",
+  "mentor_type": "adult_volunteer",
+  "targets": [
+   "at_risk_behavior"
+  ],
+  "grade_band": "k12_mixed",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {},
+  "effect_sizes": [],
+  "review_details": {
+   "n_studies": null,
+   "pooled_metric": null,
+   "pooled_value": null
+  },
+  "notes": "Narrative literature overview of mentoring for at-risk students, covering goals, effective practices and possible harms.",
+  "id": "ED481245"
+ },
+ {
+  "design": "review",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "US",
+  "setting": "community_based",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "k12_mixed",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {},
+  "effect_sizes": [],
+  "review_details": {
+   "n_studies": 13,
+   "pooled_metric": null,
+   "pooled_value": null
+  },
+  "notes": "Compendium of evaluations of thirteen out-of-school programs, several of them mentoring programs; no pooled estimate.",
+  "id": "ED481970"
+ },
+ {
+  "design": "other",
+  "rigor": 1,
+  "n_youth": null,
+  "country": "US",
+  "setting": "unclear",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "at_risk_behavior"
+  ],
+  "grade_band": "high",
+  "program_name": "National Guard Youth Challenge Academy",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {
+   "graduation_persistence": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Descriptive analysis of graduation and GED rates plus administrator survey; mentorship is one of three components.",
+  "id": "ED489958"
+ },
+ {
+  "design": "correlational",
+  "rigor": 4,
+  "n_youth": null,
+  "country": "US",
+  "setting": "workplace_career",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "high",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "yes",
+  "outcomes": {
+   "college_access_enrollment": "positive",
+   "career_employment": "mixed"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "NLSY97 analysis of school-to-work programs; mentoring raised postsecondary schooling for men in the forgotten half.",
+  "id": "ED490840"
+ },
+ {
+  "design": "correlational",
+  "rigor": 2,
+  "n_youth": null,
+  "country": "US",
+  "setting": "workplace_career",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "high",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "yes",
+  "outcomes": {
+   "academic_achievement": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "District survey on academic skill use in work-based learning; mentoring and career presentations mattered most.",
+  "id": "ED492814"
+ },
+ {
+  "design": "review",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "US",
+  "setting": "school_based",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "disability",
+   "at_risk_behavior"
+  ],
+  "grade_band": "k12_mixed",
+  "program_name": "Check & Connect",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {
+   "graduation_persistence": "mixed"
+  },
+  "effect_sizes": [],
+  "review_details": {
+   "n_studies": 6,
+   "pooled_metric": null,
+   "pooled_value": null
+  },
+  "notes": "Clearinghouse review of a dropout prevention program combining monitoring and mentoring; staying in school improved, on-time completion did not.",
+  "id": "ED493664"
+ },
+ {
+  "design": "rct",
+  "rigor": 5,
+  "n_youth": 219,
+  "country": "US",
+  "setting": "school_based",
+  "format": "group",
+  "mentor_type": "adult_volunteer",
+  "targets": [
+   "at_risk_behavior"
+  ],
+  "grade_band": "middle",
+  "program_name": "Twelve Together",
+  "duration_months": 12,
+  "frequency": "weekly_or_more",
+  "bridging": "unclear",
+  "outcomes": {
+   "graduation_persistence": "positive",
+   "academic_achievement": "null"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Single randomized trial of weekly peer discussion groups; some benefit for staying in school, none for progress.",
+  "id": "ED495728"
+ },
+ {
+  "design": "rct",
+  "rigor": 5,
+  "n_youth": 1100,
+  "country": "US",
+  "setting": "unclear",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "high",
+  "program_name": "Quantum Opportunity Program",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {
+   "graduation_persistence": "null",
+   "academic_achievement": "null"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Randomized trial of multi-service program with mentoring component; no discernible effects on school progress or completion.",
+  "id": "ED497614"
+ },
+ {
+  "design": "review",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "US",
+  "setting": "unclear",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "k12_mixed",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {
+   "academic_achievement": "null",
+   "college_access_enrollment": "null",
+   "self_efficacy_confidence": "positive",
+   "behavior_delinquency": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": {
+   "n_studies": null,
+   "pooled_metric": null,
+   "pooled_value": null
+  },
+  "notes": "Policy review arguing mentoring modestly affects aspirations and behavior but not grades or college-going.",
+  "id": "ED499277"
+ },
+ {
+  "design": "review",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "unclear",
+  "setting": "school_based",
+  "format": "peer_cross_age",
+  "mentor_type": "older_peer",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "k12_mixed",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "other",
+  "bridging": "unclear",
+  "outcomes": {},
+  "effect_sizes": [],
+  "review_details": {
+   "n_studies": null,
+   "pooled_metric": null,
+   "pooled_value": null
+  },
+  "notes": "Practitioner summary of cross-age peer mentoring literature; reports benefits but evidence base is thin.",
+  "id": "ED502220"
+ },
+ {
+  "design": "review",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "unclear",
+  "setting": "unclear",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "k12_mixed",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {},
+  "effect_sizes": [],
+  "review_details": {
+   "n_studies": null,
+   "pooled_metric": null,
+   "pooled_value": null
+  },
+  "notes": "Overview of evidence for mentoring program practices such as training; proposes framework and calls for more research.",
+  "id": "ED502221"
+ },
+ {
+  "design": "review",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "unclear",
+  "setting": "unclear",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "k12_mixed",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {},
+  "effect_sizes": [],
+  "review_details": {
+   "n_studies": null,
+   "pooled_metric": null,
+   "pooled_value": null
+  },
+  "notes": "Research summary on early endings of mentoring matches and program practices that may prevent them.",
+  "id": "ED502228"
+ },
+ {
+  "design": "rct",
+  "rigor": 5,
+  "n_youth": null,
+  "country": "US",
+  "setting": "unclear",
+  "format": "one_to_one",
+  "mentor_type": "college_student",
+  "targets": [
+   "foster_care"
+  ],
+  "grade_band": "high",
+  "program_name": "ESTEP-Tutoring",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {
+   "academic_achievement": "null"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Randomized evaluation of home tutoring for foster youth with implicit mentoring goal; no educational impacts at follow-up.",
+  "id": "ED502639"
+ },
+ {
+  "design": "rct",
+  "rigor": 5,
+  "n_youth": null,
+  "country": "US",
+  "setting": "school_based",
+  "format": "peer_cross_age",
+  "mentor_type": "older_peer",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "unclear",
+  "program_name": "Big Brothers Big Sisters",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {},
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Uses randomized study data to compare high school mentors with adults; teen mentors were less effective.",
+  "id": "ED503112"
+ },
+ {
+  "design": "correlational",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "US",
+  "setting": "school_based",
+  "format": "one_to_one",
+  "mentor_type": "adult_volunteer",
+  "targets": [
+   "low_income"
+  ],
+  "grade_band": "elementary",
+  "program_name": "Big Brothers Big Sisters",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {},
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Survey study of school-based matches, relationship quality and youth benefits across three programs.",
+  "id": "ED503189"
+ },
+ {
+  "design": "quasi_experimental",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "US",
+  "setting": "community_based",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "at_risk_behavior"
+  ],
+  "grade_band": "unclear",
+  "program_name": "National Faith-Based Initiative",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {
+   "mental_health": "positive",
+   "behavior_delinquency": "positive",
+   "psychosocial_other": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Mentored high-risk youth reported less depression than unmatched peers, linked to better conflict handling and fewer arrests.",
+  "id": "ED503234"
+ },
+ {
+  "design": "rct",
+  "rigor": 5,
+  "n_youth": 1139,
+  "country": "US",
+  "setting": "school_based",
+  "format": "one_to_one",
+  "mentor_type": "unclear",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "k12_mixed",
+  "program_name": "Big Brothers Big Sisters",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {},
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "National randomized study of school-based mentoring; abstract gives no result directions.",
+  "id": "ED503245"
+ },
+ {
+  "design": "rct",
+  "rigor": 5,
+  "n_youth": 2573,
+  "country": "US",
+  "setting": "school_based",
+  "format": "unclear",
+  "mentor_type": "adult_volunteer",
+  "targets": [
+   "at_risk_behavior"
+  ],
+  "grade_band": "k12_mixed",
+  "program_name": "Student Mentoring Program",
+  "duration_months": 9,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {
+   "academic_achievement": "null",
+   "engagement_attendance": "mixed",
+   "self_efficacy_confidence": "mixed",
+   "behavior_delinquency": "null",
+   "relationships_social": "mixed"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Randomized national evaluation found no overall impacts; scattered subgroup differences by gender and age.",
+  "id": "ED504310"
+ },
+ {
+  "design": "rct",
+  "rigor": 5,
+  "n_youth": 3000,
+  "country": "US",
+  "setting": "unclear",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "at_risk_behavior"
+  ],
+  "grade_band": "out_of_school",
+  "program_name": "National Guard Youth ChalleNGe",
+  "duration_months": 17,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {
+   "graduation_persistence": "positive",
+   "career_employment": "positive",
+   "college_access_enrollment": "positive",
+   "self_efficacy_confidence": "positive",
+   "behavior_delinquency": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Lottery-based trial of residential dropout program with mentoring phase; early gains in credentials, work, college.",
+  "id": "ED504645"
+ },
+ {
+  "design": "rct",
+  "rigor": 5,
+  "n_youth": 2600,
+  "country": "US",
+  "setting": "school_based",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "at_risk_behavior"
+  ],
+  "grade_band": "k12_mixed",
+  "program_name": "Student Mentoring Program",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {
+   "academic_achievement": "null",
+   "relationships_social": "null",
+   "behavior_delinquency": "null"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Clearinghouse quick review of the randomized mentoring evaluation; no significant effects after multiple-outcome adjustment.",
+  "id": "ED505803"
+ },
+ {
+  "design": "rct",
+  "rigor": 5,
+  "n_youth": 1000,
+  "country": "US",
+  "setting": "unclear",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "at_risk_behavior"
+  ],
+  "grade_band": "out_of_school",
+  "program_name": "National Guard Youth ChalleNGe",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {
+   "graduation_persistence": "positive",
+   "career_employment": "positive",
+   "college_access_enrollment": "positive",
+   "behavior_delinquency": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Clearinghouse quick review of a well-run randomized trial of residential program with mentoring; positive nine-month results.",
+  "id": "ED505845"
+ },
+ {
+  "design": "rct",
+  "rigor": 5,
+  "n_youth": null,
+  "country": "US",
+  "setting": "school_based",
+  "format": "peer_cross_age",
+  "mentor_type": "older_peer",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "unclear",
+  "program_name": "Big Brothers Big Sisters",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {},
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Short brief on high school mentors drawn from a randomized study; no results detailed in the abstract.",
+  "id": "ED507377"
+ },
+ {
+  "design": "quasi_experimental",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "US",
+  "setting": "mixed",
+  "format": "one_to_one",
+  "mentor_type": "unclear",
+  "targets": [
+   "low_income"
+  ],
+  "grade_band": "high",
+  "program_name": "Washington State Achievers",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {
+   "college_access_enrollment": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Scholarship and school reform initiative including mentoring; recipients fared better than non-recipients on college outcomes.",
+  "id": "ED509889"
+ },
+ {
+  "design": "review",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "unclear",
+  "setting": "mixed",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "low_income",
+   "foster_care"
+  ],
+  "grade_band": "out_of_school",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {
+   "academic_achievement": "positive",
+   "career_employment": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": {
+   "n_studies": 31,
+   "pooled_metric": null,
+   "pooled_value": null
+  },
+  "notes": "Synthesis of 31 randomized evaluations for older youth; mentoring named as strategy linked with success.",
+  "id": "ED510690"
+ },
+ {
+  "design": "other",
+  "rigor": 1,
+  "n_youth": 50,
+  "country": "US",
+  "setting": "unclear",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "low_income"
+  ],
+  "grade_band": "unclear",
+  "program_name": "Cargill Scholars",
+  "duration_months": 60,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {
+   "academic_achievement": "positive",
+   "relationships_social": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Descriptive annual results for multi-component program including mentors; children doing well, no comparison group.",
+  "id": "ED511479"
+ }
+]

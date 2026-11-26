@@ -1,0 +1,77 @@
+[
+ {
+  "id": "EJ990271",
+  "design": "correlational",
+  "rigor": 2,
+  "n_youth": 142,
+  "country": "unclear",
+  "setting": "school_based",
+  "format": "mixed",
+  "mentor_type": "college_student",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "middle",
+  "program_name": null,
+  "duration_months": 8,
+  "frequency": "weekly_or_more",
+  "bridging": "no",
+  "outcomes": {
+   "psychosocial_other": "mixed",
+   "self_efficacy_confidence": "mixed"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Mentor traits (depression, anxiety, autonomy, empathy) related to mentee satisfaction and self-reported competence; varied by race match."
+ },
+ {
+  "id": "EJ991722",
+  "design": "correlational",
+  "rigor": 3,
+  "n_youth": 541,
+  "country": "US",
+  "setting": "unclear",
+  "format": "natural_mentor",
+  "mentor_type": "natural_informal",
+  "targets": [
+   "racial_ethnic_minority",
+   "at_risk_behavior"
+  ],
+  "grade_band": "high",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "graduation_persistence": "positive",
+   "psychosocial_other": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Longitudinal mediation; natural mentors linked to educational attainment via racial identity and school beliefs."
+ },
+ {
+  "id": "EJ996590",
+  "design": "correlational",
+  "rigor": 3,
+  "n_youth": 357,
+  "country": "other",
+  "setting": "workplace_career",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "yes",
+  "outcomes": {
+   "career_employment": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Longitudinal SEM of interns; mentoring predicted job/organization fit, satisfaction and professional commitment."
+ }
+]

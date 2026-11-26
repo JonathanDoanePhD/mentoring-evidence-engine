@@ -1,0 +1,193 @@
+[
+ {
+  "id": "EJ956547",
+  "design": "pre_post",
+  "rigor": 2,
+  "n_youth": null,
+  "country": "unclear",
+  "setting": "school_based",
+  "format": "one_to_one",
+  "mentor_type": "adult_volunteer",
+  "targets": [
+   "low_income",
+   "urban"
+  ],
+  "grade_band": "elementary",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "mental_health": "positive",
+   "behavior_delinquency": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Mixed-methods study of activity styles; sage-style pairs had best relationship quality, fewer depressive and aggressive symptoms."
+ },
+ {
+  "id": "EJ957869",
+  "design": "pre_post",
+  "rigor": 2,
+  "n_youth": null,
+  "country": "US",
+  "setting": "unclear",
+  "format": "unclear",
+  "mentor_type": "college_student",
+  "targets": [
+   "immigrant_ell",
+   "racial_ethnic_minority",
+   "rural"
+  ],
+  "grade_band": "high",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {
+   "academic_achievement": "positive",
+   "engagement_attendance": "positive",
+   "belonging_connectedness": "positive",
+   "relationships_social": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Rural after-school program pairing Latino immigrant youth with college mentors; reported grade, engagement and cross-cultural gains."
+ },
+ {
+  "id": "EJ958137",
+  "design": "review",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "unclear",
+  "setting": "mixed",
+  "format": "natural_mentor",
+  "mentor_type": "natural_informal",
+  "targets": [
+   "low_income"
+  ],
+  "grade_band": "high",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {
+   "academic_achievement": "positive",
+   "psychosocial_other": "positive",
+   "relationships_social": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": {
+   "n_studies": null,
+   "pooled_metric": null,
+   "pooled_value": null
+  },
+  "notes": "Narrative review of natural mentoring in classrooms, youth organizations, work and faith settings; evidence thin but encouraging."
+ },
+ {
+  "id": "EJ964186",
+  "design": "other",
+  "rigor": 1,
+  "n_youth": null,
+  "country": "UK",
+  "setting": "school_based",
+  "format": "group",
+  "mentor_type": "unclear",
+  "targets": [
+   "at_risk_behavior"
+  ],
+  "grade_band": "high",
+  "program_name": "changingLIVES",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "behavior_delinquency": "null",
+   "engagement_attendance": "null",
+   "self_efficacy_confidence": "null"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Athlete role-model school programme evaluation; design unstated; immediate enthusiasm, little wider impact on behaviour or attendance."
+ },
+ {
+  "id": "EJ970083",
+  "design": "quasi_experimental",
+  "rigor": 3,
+  "n_youth": 615,
+  "country": "US",
+  "setting": "community_based",
+  "format": "one_to_one",
+  "mentor_type": "teacher_school_staff",
+  "targets": [
+   "at_risk_behavior"
+  ],
+  "grade_band": "k12_mixed",
+  "program_name": "School Success Program",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "academic_achievement": "positive"
+  },
+  "effect_sizes": [
+   {
+    "domain": "academic_achievement",
+    "metric": "other",
+    "value": 0.82,
+    "note": "core GPA rose 1.74 to 2.56"
+   },
+   {
+    "domain": "academic_achievement",
+    "metric": "other",
+    "value": 58,
+    "note": "percent improvement, basic reading"
+   },
+   {
+    "domain": "academic_achievement",
+    "metric": "other",
+    "value": 50,
+    "note": "percent improvement, math reasoning"
+   },
+   {
+    "domain": "academic_achievement",
+    "metric": "other",
+    "value": 48,
+    "note": "percent improvement, basic writing"
+   },
+   {
+    "domain": "academic_achievement",
+    "metric": "other",
+    "value": 51,
+    "note": "percent improvement, overall academic skills"
+   }
+  ],
+  "review_details": null,
+  "notes": "In-home tutoring and mentoring for maltreated children by certified teachers; academic gains versus nonmaltreated peers."
+ },
+ {
+  "id": "EJ974554",
+  "design": "correlational",
+  "rigor": 4,
+  "n_youth": null,
+  "country": "US",
+  "setting": "community_based",
+  "format": "one_to_one",
+  "mentor_type": "adult_volunteer",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "unclear",
+  "program_name": "Big Brothers Big Sisters",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "academic_achievement": "positive",
+   "behavior_delinquency": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Propensity-weighted BBBS analysis; time together and trust predicted better outcomes; race match, class gap little effect."
+ }
+]

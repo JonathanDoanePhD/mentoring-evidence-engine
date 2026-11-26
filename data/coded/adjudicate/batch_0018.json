@@ -1,0 +1,178 @@
+[
+ {
+  "id": "EJ1122230",
+  "design": "pre_post",
+  "rigor": 2,
+  "n_youth": null,
+  "country": "US",
+  "setting": "mixed",
+  "format": "one_to_one",
+  "mentor_type": "mixed",
+  "targets": [
+   "racial_ethnic_minority",
+   "stem_general"
+  ],
+  "grade_band": "k12_mixed",
+  "program_name": "iSTEM",
+  "duration_months": null,
+  "frequency": "other",
+  "bridging": "yes",
+  "outcomes": {
+   "engagement_attendance": "positive",
+   "psychosocial_other": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Native American grades 3-8 STEM mentoring; reported gains in engagement, STEM interest and beliefs; no comparison."
+ },
+ {
+  "id": "EJ1127848",
+  "design": "correlational",
+  "rigor": 2,
+  "n_youth": null,
+  "country": "other",
+  "setting": "mixed",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {},
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Satisfaction survey of blended versus face-to-face university mentoring; only program satisfaction measured."
+ },
+ {
+  "id": "EJ1131215",
+  "design": "quasi_experimental",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "unclear",
+  "setting": "college_campus",
+  "format": "peer_cross_age",
+  "mentor_type": "older_peer",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "academic_achievement": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Peer mentors in intro marketing course; content mastery improved; course perceptions positive."
+ },
+ {
+  "id": "EJ1134218",
+  "design": "other",
+  "rigor": 2,
+  "n_youth": 2,
+  "country": "unclear",
+  "setting": "school_based",
+  "format": "peer_cross_age",
+  "mentor_type": "unclear",
+  "targets": [
+   "at_risk_behavior",
+   "disability"
+  ],
+  "grade_band": "elementary",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "behavior_delinquency": "positive",
+   "relationships_social": "positive",
+   "psychosocial_other": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Single-case multiple baseline, two special education boys; peer mentoring bundled with video modeling."
+ },
+ {
+  "id": "EJ1134867",
+  "design": "quasi_experimental",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "unclear",
+  "setting": "school_based",
+  "format": "unclear",
+  "mentor_type": "college_student",
+  "targets": [
+   "stem_general"
+  ],
+  "grade_band": "high",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "academic_achievement": "positive",
+   "psychosocial_other": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "College mentors taught online circuit labs; conceptual understanding and interest rose; control groups per descriptors."
+ },
+ {
+  "id": "EJ1138239",
+  "design": "quasi_experimental",
+  "rigor": 3,
+  "n_youth": 810,
+  "country": "other",
+  "setting": "unclear",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "low_income",
+   "urban",
+   "at_risk_behavior"
+  ],
+  "grade_band": "k12_mixed",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "behavior_delinquency": "mixed",
+   "self_efficacy_confidence": "mixed"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Kenyan slum girls, two mentoring arms vs comparison; academic results only via mediation model."
+ },
+ {
+  "id": "EJ1140852",
+  "design": "quasi_experimental",
+  "rigor": 3,
+  "n_youth": 47,
+  "country": "US",
+  "setting": "school_based",
+  "format": "peer_cross_age",
+  "mentor_type": "older_peer",
+  "targets": [
+   "rural",
+   "low_income"
+  ],
+  "grade_band": "middle",
+  "program_name": null,
+  "duration_months": 2.1,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "belonging_connectedness": "mixed"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Nine-week cross-age mentoring; connectedness rose for all, treatment significant on one subscale only."
+ }
+]

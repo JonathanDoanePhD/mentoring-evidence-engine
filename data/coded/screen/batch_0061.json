@@ -1,0 +1,170 @@
+[
+ {
+  "id": "EJ1216461",
+  "decision": "exclude_not_mentoring",
+  "population": "college_undergrad",
+  "confidence": "medium",
+  "reason": "Postgraduate transition interviews; no mentoring relationship described"
+ },
+ {
+  "id": "EJ1182025",
+  "decision": "include_outcome",
+  "population": "k12_high",
+  "confidence": "medium",
+  "reason": "At-risk youth mentoring partnership with grades, credits, discipline outcomes"
+ },
+ {
+  "id": "EJ1239495",
+  "decision": "exclude_adult",
+  "population": "adult",
+  "confidence": "high",
+  "reason": "New faculty induction; adult teachers"
+ },
+ {
+  "id": "EJ1230719",
+  "decision": "include_other",
+  "population": "k12_middle",
+  "confidence": "low",
+  "reason": "Literature-based design of peer mentoring program; no outcomes"
+ },
+ {
+  "id": "ED547585",
+  "decision": "exclude_adult",
+  "population": "adult",
+  "confidence": "high",
+  "reason": "Women administrators' career mentorship narratives"
+ },
+ {
+  "id": "EJ1382339",
+  "decision": "include_outcome",
+  "population": "college_undergrad",
+  "confidence": "high",
+  "reason": "First-year staff mentor buddy scheme compared GPA with non-participants"
+ },
+ {
+  "id": "EJ1218289",
+  "decision": "exclude_not_mentoring",
+  "population": "adult",
+  "confidence": "high",
+  "reason": "University instructors' motivation; mentoring incidental"
+ },
+ {
+  "id": "EJ1051710",
+  "decision": "exclude_adult",
+  "population": "adult",
+  "confidence": "high",
+  "reason": "Preservice teachers and supervising mentors"
+ },
+ {
+  "id": "EJ1046166",
+  "decision": "exclude_adult",
+  "population": "adult",
+  "confidence": "high",
+  "reason": "Academic leaders of color and mentoring"
+ },
+ {
+  "id": "EJ1275684",
+  "decision": "exclude_adult",
+  "population": "adult",
+  "confidence": "high",
+  "reason": "Faculty succession planning for department heads"
+ },
+ {
+  "id": "EJ913113",
+  "decision": "exclude_adult",
+  "population": "adult",
+  "confidence": "high",
+  "reason": "New teacher cohort professional development"
+ },
+ {
+  "id": "EJ1314204",
+  "decision": "exclude_not_mentoring",
+  "population": "college_undergrad",
+  "confidence": "medium",
+  "reason": "Work-based learning during pandemic; mentoring incidental"
+ },
+ {
+  "id": "EJ1266991",
+  "decision": "include_other",
+  "population": "college_undergrad",
+  "confidence": "medium",
+  "reason": "Peer mentors' perceptions of two programs; mentor-side, qualitative"
+ },
+ {
+  "id": "ED597624",
+  "decision": "include_outcome",
+  "population": "college_undergrad",
+  "confidence": "high",
+  "reason": "Faculty mentoring of at-risk undergraduates; pre-post self-efficacy tests"
+ },
+ {
+  "id": "ED379951",
+  "decision": "include_other",
+  "population": "k12_mixed",
+  "confidence": "low",
+  "reason": "Digest describing dropout programs for minority youth; descriptive"
+ },
+ {
+  "id": "EJ1012454",
+  "decision": "exclude_adult",
+  "population": "adult",
+  "confidence": "high",
+  "reason": "Experienced PE teachers' curriculum narratives"
+ },
+ {
+  "id": "EJ1391921",
+  "decision": "exclude_adult",
+  "population": "adult",
+  "confidence": "high",
+  "reason": "University English teachers in mentor-facilitated action research"
+ },
+ {
+  "id": "ED546422",
+  "decision": "include_other",
+  "population": "k12_high",
+  "confidence": "low",
+  "reason": "Application essays to a teen mentorship summer program; content analysis"
+ },
+ {
+  "id": "EJ993232",
+  "decision": "exclude_adult",
+  "population": "adult",
+  "confidence": "high",
+  "reason": "Graduate student satisfaction with advisors"
+ },
+ {
+  "id": "ED592380",
+  "decision": "include_other",
+  "population": "college_undergrad",
+  "confidence": "low",
+  "reason": "Edited book of STEM mentoring narratives across transitions"
+ },
+ {
+  "id": "ED514630",
+  "decision": "exclude_adult",
+  "population": "adult",
+  "confidence": "high",
+  "reason": "Black women administrators' leadership experiences"
+ },
+ {
+  "id": "EJ922410",
+  "decision": "include_other",
+  "population": "college_undergrad",
+  "confidence": "low",
+  "reason": "Case study founding an international student mentor program"
+ },
+ {
+  "id": "EJ1282474",
+  "decision": "exclude_not_mentoring",
+  "population": "youth_other",
+  "confidence": "medium",
+  "reason": "Youth maker ethnography; mentors incidental"
+ },
+ {
+  "id": "EJ1287682",
+  "decision": "exclude_adult",
+  "population": "adult",
+  "confidence": "high",
+  "reason": "Teacher residency program design autoethnography"
+ }
+]

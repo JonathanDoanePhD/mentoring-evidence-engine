@@ -1,0 +1,509 @@
+[
+ {
+  "id": "ED570478",
+  "design": "rct",
+  "rigor": 5,
+  "n_youth": null,
+  "country": "US",
+  "setting": "workplace_career",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "at_risk_behavior",
+   "urban",
+   "low_income"
+  ],
+  "grade_band": "high",
+  "program_name": "Urban Alliance",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "yes",
+  "outcomes": {},
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Randomized trial of internship program with mentoring; college attendance and job preparation measured, directions not stated in abstract."
+ },
+ {
+  "id": "ED570631",
+  "design": "quasi_experimental",
+  "rigor": 3,
+  "n_youth": 134,
+  "country": "US",
+  "setting": "school_based",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "at_risk_behavior",
+   "racial_ethnic_minority"
+  ],
+  "grade_band": "high",
+  "program_name": "AVID/AAMI",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {
+   "academic_achievement": "mixed"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "AVID/AAMI versus non-participants: reading gains no different, more honors/AP enrollment; 90% college enrollment, uncompared."
+ },
+ {
+  "id": "ED570759",
+  "design": "pre_post",
+  "rigor": 2,
+  "n_youth": 287,
+  "country": "unclear",
+  "setting": "school_based",
+  "format": "peer_cross_age",
+  "mentor_type": "older_peer",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "high",
+  "program_name": "Overcoming Obstacles Life Skills Program",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "mental_health": "mixed",
+   "psychosocial_other": "mixed"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Student mentors supported eighth-to-ninth transition; anxiety and resilience measures gave inconsistent pre-post results."
+ },
+ {
+  "id": "ED570974",
+  "design": "correlational",
+  "rigor": 3,
+  "n_youth": 663,
+  "country": "US",
+  "setting": "unclear",
+  "format": "natural_mentor",
+  "mentor_type": "natural_informal",
+  "targets": [
+   "racial_ethnic_minority"
+  ],
+  "grade_band": "k12_mixed",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "engagement_attendance": "positive",
+   "psychosocial_other": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Black adolescents with natural mentors; closeness countered discrimination effects on engagement, partly via racial pride."
+ },
+ {
+  "id": "ED571161",
+  "design": "pre_post",
+  "rigor": 2,
+  "n_youth": 40,
+  "country": "unclear",
+  "setting": "school_based",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "racial_ethnic_minority",
+   "urban"
+  ],
+  "grade_band": "high",
+  "program_name": null,
+  "duration_months": 3,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {},
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Three-month mixed-methods mentoring evaluation for minority males; grades and attendance collected, results not stated."
+ },
+ {
+  "id": "ED571791",
+  "design": "review",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "unclear",
+  "setting": "unclear",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "disability"
+  ],
+  "grade_band": "k12_mixed",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {},
+  "effect_sizes": [],
+  "review_details": {
+   "n_studies": 19,
+   "pooled_metric": null,
+   "pooled_value": null
+  },
+  "notes": "Literature map of dropout prevention for students with disabilities; mentoring among most common interventions; no pooling."
+ },
+ {
+  "id": "ED572173",
+  "design": "pre_post",
+  "rigor": 2,
+  "n_youth": null,
+  "country": "other",
+  "setting": "mixed",
+  "format": "peer_cross_age",
+  "mentor_type": "college_student",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "academic_achievement": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Japanese university seniors made advice videos for freshmen English learners; pre-post assignments and questionnaires suggested benefit."
+ },
+ {
+  "id": "ED579020",
+  "design": "quasi_experimental",
+  "rigor": 3,
+  "n_youth": 70,
+  "country": "US",
+  "setting": "college_campus",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "racial_ethnic_minority",
+   "at_risk_behavior"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {
+   "graduation_persistence": "positive",
+   "self_efficacy_confidence": "null",
+   "career_employment": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Treatment versus control Black male undergraduates; persistence differed, perceived achievement did not; alumni linked mentoring to careers."
+ },
+ {
+  "id": "ED585124",
+  "design": "other",
+  "rigor": 1,
+  "n_youth": null,
+  "country": "US",
+  "setting": "mixed",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "racial_ethnic_minority",
+   "urban"
+  ],
+  "grade_band": "high",
+  "program_name": "Black Male Leadership Academy",
+  "duration_months": null,
+  "frequency": "monthly",
+  "bridging": "yes",
+  "outcomes": {
+   "self_efficacy_confidence": "positive",
+   "psychosocial_other": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Surveys and focus groups on residential academy plus monthly meetings; mentoring and exposure to Black professionals cited."
+ },
+ {
+  "id": "ED591554",
+  "design": "quasi_experimental",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "US",
+  "setting": "school_based",
+  "format": "one_to_one",
+  "mentor_type": "unclear",
+  "targets": [
+   "low_income",
+   "urban"
+  ],
+  "grade_band": "high",
+  "program_name": "iMentor College Ready",
+  "duration_months": 24,
+  "frequency": "monthly",
+  "bridging": "yes",
+  "outcomes": {
+   "academic_achievement": "null",
+   "college_access_enrollment": "null",
+   "psychosocial_other": "mixed",
+   "career_employment": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Two years into four-year program: few impacts; small gains in critical thinking, resilience, career activities."
+ },
+ {
+  "id": "ED591564",
+  "design": "quasi_experimental",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "US",
+  "setting": "school_based",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "low_income"
+  ],
+  "grade_band": "high",
+  "program_name": "iMentor College Ready",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {},
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Technical appendices on baseline equivalence and effect estimation methods; no results stated."
+ },
+ {
+  "id": "ED593039",
+  "design": "other",
+  "rigor": 1,
+  "n_youth": 24,
+  "country": "US",
+  "setting": "college_campus",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "racial_ethnic_minority"
+  ],
+  "grade_band": "college",
+  "program_name": "Culturally Strategic Mentoring",
+  "duration_months": 9,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {
+   "engagement_attendance": "positive",
+   "graduation_persistence": "positive",
+   "academic_achievement": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Qualitative pilot, nine trained mentors for Black male undergraduates over two semesters; preliminary improvements, no comparison."
+ },
+ {
+  "id": "ED593189",
+  "design": "correlational",
+  "rigor": 2,
+  "n_youth": null,
+  "country": "unclear",
+  "setting": "college_campus",
+  "format": "unclear",
+  "mentor_type": "teacher_school_staff",
+  "targets": [
+   "first_generation"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {
+   "psychosocial_other": "null"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Faculty mentoring at private university; relationship quality did not predict unspecified mentoring outcomes; networking theme."
+ },
+ {
+  "id": "ED593732",
+  "design": "quasi_experimental",
+  "rigor": 4,
+  "n_youth": null,
+  "country": "US",
+  "setting": "school_based",
+  "format": "mixed",
+  "mentor_type": "mixed",
+  "targets": [
+   "rural",
+   "urban"
+  ],
+  "grade_band": "high",
+  "program_name": "UNISON",
+  "duration_months": 36,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {
+   "graduation_persistence": "positive"
+  },
+  "effect_sizes": [
+   {
+    "domain": "graduation_persistence",
+    "metric": "pct_points",
+    "value": 8.88,
+    "note": "gains: 72.43 to 91.73 vs 72.98 to 83.40"
+   }
+  ],
+  "review_details": null,
+  "notes": "Comparative interrupted time series, three Florida schools; graduation rates rose more than in comparison schools."
+ },
+ {
+  "id": "ED596552",
+  "design": "correlational",
+  "rigor": 1,
+  "n_youth": null,
+  "country": "unclear",
+  "setting": "college_campus",
+  "format": "peer_cross_age",
+  "mentor_type": "college_student",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {},
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Descriptive survey of first-year perceptions of peer mentoring; perceptions varied by gender and academic background."
+ },
+ {
+  "id": "ED601369",
+  "design": "correlational",
+  "rigor": 2,
+  "n_youth": null,
+  "country": "unclear",
+  "setting": "college_campus",
+  "format": "unclear",
+  "mentor_type": "teacher_school_staff",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "psychosocial_other": "null",
+   "career_employment": "null",
+   "self_efficacy_confidence": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Former athletes by head coach gender; satisfaction and salary unrelated; female coaches linked to more self-efficacy."
+ },
+ {
+  "id": "ED602984",
+  "design": "pre_post",
+  "rigor": 2,
+  "n_youth": null,
+  "country": "US",
+  "setting": "community_based",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "out_of_school",
+  "program_name": "Chicago Young Parents Program",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "yes",
+  "outcomes": {
+   "career_employment": "positive",
+   "mental_health": "positive",
+   "relationships_social": "positive",
+   "self_efficacy_confidence": "positive",
+   "psychosocial_other": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Young parents pilot combining employment, mentoring and Head Start; progress on education/employment, parenting, personal growth."
+ },
+ {
+  "id": "ED603940",
+  "design": "pre_post",
+  "rigor": 2,
+  "n_youth": null,
+  "country": "US",
+  "setting": "school_based",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "at_risk_behavior",
+   "urban"
+  ],
+  "grade_band": "middle",
+  "program_name": "Law Enforcement Mentoring Program",
+  "duration_months": 12,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "academic_achievement": "mixed",
+   "engagement_attendance": "negative",
+   "behavior_delinquency": "negative"
+  },
+  "effect_sizes": [
+   {
+    "domain": "engagement_attendance",
+    "metric": "other",
+    "value": -44.2,
+    "note": "days missed rose 44.2 percent, year over year"
+   }
+  ],
+  "review_details": null,
+  "notes": "Houston middle schoolers versus prior year; some STAAR gains, but absences and suspensions increased."
+ },
+ {
+  "id": "ED608529",
+  "design": "rct",
+  "rigor": 5,
+  "n_youth": null,
+  "country": "US",
+  "setting": "school_based",
+  "format": "one_to_one",
+  "mentor_type": "unclear",
+  "targets": [
+   "at_risk_behavior",
+   "urban",
+   "low_income"
+  ],
+  "grade_band": "k12_mixed",
+  "program_name": "Check & Connect",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "engagement_attendance": "mixed",
+   "academic_achievement": "null"
+  },
+  "effect_sizes": [
+   {
+    "domain": "engagement_attendance",
+    "metric": "other",
+    "value": 4.2,
+    "note": "4.2 fewer absence days, grades 5-7"
+   },
+   {
+    "domain": "engagement_attendance",
+    "metric": "other",
+    "value": 22.9,
+    "note": "22.9 percent fewer absences, grades 5-7"
+   }
+  ],
+  "review_details": null,
+  "notes": "Chicago randomized trial; absences fell in grades 5-7, none in 1-4; no test or GPA effects."
+ }
+]

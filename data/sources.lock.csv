@@ -1,0 +1,9 @@
+file,url,downloaded_utc,bytes,sha256
+eric/eric1965-1979.zip,https://files.eric.ed.gov/xml/index/eric1965-1979.zip,2026-11-13,124113551,eb2872cf7dd60e9fac99cea4c96957eeef891a267cd4d91c5e8e4abf76b714f9
+eric/eric1980-1989.zip,https://files.eric.ed.gov/xml/index/eric1980-1989.zip,2026-11-13,124378010,be61eee89062e23db03429d3cf57f650c252db71644481c03d6305ce22890838
+eric/eric1990-1999.zip,https://files.eric.ed.gov/xml/index/eric1990-1999.zip,2026-11-13,132287656,3982d74e77e3dba8d62403d3ba668bcb5d9d084d8cc9b682308c3703d1e7bdbe
+eric/eric2000-2009.zip,https://files.eric.ed.gov/xml/index/eric2000-2009.zip,2026-11-13,156346914,cacd50a43263380d33a37d9d5dbc84d02d9434a46d9b1eb9042d592865eeb750
+eric/eric2010-2014.zip,https://files.eric.ed.gov/xml/index/eric2010-2014.zip,2026-11-13,136790080,29973a7f9e667f591259b7f3c52e0c3cdcb44580fd2bff51a39bfd4a478a4f62
+eric/eric2015-2019.zip,https://files.eric.ed.gov/xml/index/eric2015-2019.zip,2026-11-13,157918677,74e6def7cdaa0abafed538fdbf91cd0e168c2fed30608bc0369f814ebd9091be
+eric/eric2020-2023.zip,https://files.eric.ed.gov/xml/index/eric2020-2023.zip,2026-11-13,135285081,94fdd0b1e6e0b733c5bb169efc51a3f3d35075db3b386a8f2bec9d27a09e5128
+eric/eric_thesaurus.zip,https://files.eric.ed.gov/xml/eric_thesaurus.zip,2026-11-13,925131,d3d94c32abd141c38003b2d6ee97d128c598b995d07903e84a2a197be8b92c51

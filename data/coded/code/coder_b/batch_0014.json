@@ -1,0 +1,632 @@
+[
+ {
+  "id": "EJ1019184",
+  "design": "rct",
+  "rigor": 5,
+  "n_youth": null,
+  "country": "US",
+  "setting": "college_campus",
+  "format": "one_to_one",
+  "mentor_type": "paid_staff",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "college",
+  "program_name": "InsideTrack",
+  "duration_months": null,
+  "frequency": "other",
+  "bridging": "no",
+  "outcomes": {
+   "graduation_persistence": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Randomized trial of professional coaching for mostly nontraditional university students; higher persistence and later attendance."
+ },
+ {
+  "id": "EJ1019774",
+  "design": "rct",
+  "rigor": 5,
+  "n_youth": null,
+  "country": "US",
+  "setting": "school_based",
+  "format": "one_to_one",
+  "mentor_type": "older_peer",
+  "targets": [
+   "rural",
+   "general"
+  ],
+  "grade_band": "elementary",
+  "program_name": "Just for Kids!",
+  "duration_months": 1.8,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "psychosocial_other": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Trial comparing teen mentors with adult teachers delivering a health curriculum; only mentored children improved lifestyle and health."
+ },
+ {
+  "id": "EJ1020294",
+  "design": "quasi_experimental",
+  "rigor": 4,
+  "n_youth": 161,
+  "country": "US",
+  "setting": "college_campus",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "racial_ethnic_minority",
+   "stem_general"
+  ],
+  "grade_band": "college",
+  "program_name": "MARC-U*STAR",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {
+   "psychosocial_other": "mixed"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Longitudinal comparison of program and nonprogram science majors on trust and motivation; trust mattered more for program students."
+ },
+ {
+  "id": "EJ1020511",
+  "design": "pre_post",
+  "rigor": 2,
+  "n_youth": 417,
+  "country": "unclear",
+  "setting": "college_campus",
+  "format": "group",
+  "mentor_type": "teacher_school_staff",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "psychosocial_other": "positive",
+   "relationships_social": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Faculty-mentored capstone proposal writing; pre-post surveys show skill gains and more faculty relationships."
+ },
+ {
+  "id": "EJ1021979",
+  "design": "quasi_experimental",
+  "rigor": 3,
+  "n_youth": 154,
+  "country": "US",
+  "setting": "college_campus",
+  "format": "mixed",
+  "mentor_type": "adult_volunteer",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "other",
+  "bridging": "yes",
+  "outcomes": {
+   "graduation_persistence": "positive",
+   "academic_achievement": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Community college teacher-education students with professional mentors; better persistence and GPA than similar majors, with dose pattern."
+ },
+ {
+  "id": "EJ1022628",
+  "design": "quasi_experimental",
+  "rigor": 3,
+  "n_youth": 42,
+  "country": "US",
+  "setting": "college_campus",
+  "format": "unclear",
+  "mentor_type": "adult_volunteer",
+  "targets": [
+   "girls_women_stem",
+   "stem_general"
+  ],
+  "grade_band": "college",
+  "program_name": "WSU Women's Mentoring Program",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "yes",
+  "outcomes": {
+   "graduation_persistence": "positive"
+  },
+  "effect_sizes": [
+   {
+    "domain": "graduation_persistence",
+    "metric": "pct_points",
+    "value": 6,
+    "note": "74% mentored vs 68% all female freshmen"
+   },
+   {
+    "domain": "graduation_persistence",
+    "metric": "pct_points",
+    "value": 23,
+    "note": "74% mentored vs 51% past-year average"
+   }
+  ],
+  "review_details": null,
+  "notes": "Alumna engineer mentors for women freshmen; descriptive retention comparison against all female freshmen and prior years."
+ },
+ {
+  "id": "EJ1022867",
+  "design": "correlational",
+  "rigor": 2,
+  "n_youth": 374,
+  "country": "US",
+  "setting": "college_campus",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "racial_ethnic_minority"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {
+   "mental_health": "mixed"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Cross-sectional regression of depression on relational health with mentors, friends and community among two groups of college women."
+ },
+ {
+  "id": "EJ1023493",
+  "design": "correlational",
+  "rigor": 2,
+  "n_youth": 162,
+  "country": "US",
+  "setting": "unclear",
+  "format": "mixed",
+  "mentor_type": "college_student",
+  "targets": [
+   "at_risk_behavior"
+  ],
+  "grade_band": "middle",
+  "program_name": null,
+  "duration_months": 12,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "self_efficacy_confidence": "mixed",
+   "psychosocial_other": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "College women mentoring at-risk girls; mentor peer support predicted improvement, but self-esteem effect depended on baseline scores."
+ },
+ {
+  "id": "EJ1023495",
+  "design": "correlational",
+  "rigor": 2,
+  "n_youth": 24,
+  "country": "unclear",
+  "setting": "school_based",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "at_risk_behavior"
+  ],
+  "grade_band": "k12_mixed",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "psychosocial_other": "mixed"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Small pre-post sample; family SES and structure related to gains in developmental assets among school-mentored at-risk youth."
+ },
+ {
+  "id": "EJ1023497",
+  "design": "pre_post",
+  "rigor": 2,
+  "n_youth": 3,
+  "country": "unclear",
+  "setting": "college_campus",
+  "format": "one_to_one",
+  "mentor_type": "college_student",
+  "targets": [
+   "disability"
+  ],
+  "grade_band": "college",
+  "program_name": "Strategies for College Learning",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "psychosocial_other": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Pilot of peer mentoring for three students with Asperger syndrome; learning strategies acquired and intervention judged acceptable."
+ },
+ {
+  "id": "EJ1026920",
+  "design": "pre_post",
+  "rigor": 2,
+  "n_youth": null,
+  "country": "US",
+  "setting": "unclear",
+  "format": "one_to_one",
+  "mentor_type": "unclear",
+  "targets": [
+   "disability"
+  ],
+  "grade_band": "high",
+  "program_name": null,
+  "duration_months": 9,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {
+   "college_access_enrollment": "positive",
+   "self_efficacy_confidence": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Pilot one-on-one mentoring for seniors with disabilities; improved accommodation-request attitudes and enrollment above national estimates."
+ },
+ {
+  "id": "EJ1027296",
+  "design": "other",
+  "rigor": 1,
+  "n_youth": null,
+  "country": "US",
+  "setting": "college_campus",
+  "format": "unclear",
+  "mentor_type": "older_peer",
+  "targets": [
+   "first_generation"
+  ],
+  "grade_band": "college",
+  "program_name": "SEEK Scholars",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {},
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Program description of peer mentoring at a city college with assessment tools; outcome results not specified in the summary."
+ },
+ {
+  "id": "EJ1028864",
+  "design": "quasi_experimental",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "unclear",
+  "setting": "school_based",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "k12_mixed",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "engagement_attendance": "positive",
+   "behavior_delinquency": "positive",
+   "belonging_connectedness": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Participants versus controls: fewer absences and referrals, higher connectedness; effect sizes described only in words."
+ },
+ {
+  "id": "EJ1029752",
+  "design": "quasi_experimental",
+  "rigor": 3,
+  "n_youth": 94,
+  "country": "US",
+  "setting": "school_based",
+  "format": "group",
+  "mentor_type": "unclear",
+  "targets": [
+   "at_risk_behavior",
+   "rural"
+  ],
+  "grade_band": "high",
+  "program_name": "One Life",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "behavior_delinquency": "positive",
+   "relationships_social": "positive",
+   "psychosocial_other": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Intervention versus control in rural schools; lower tobacco, alcohol and inhalant use, plus higher education interest."
+ },
+ {
+  "id": "EJ1031658",
+  "design": "rct",
+  "rigor": 5,
+  "n_youth": null,
+  "country": "US",
+  "setting": "unclear",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "low_income",
+   "first_generation"
+  ],
+  "grade_band": "out_of_school",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "yes",
+  "outcomes": {
+   "college_access_enrollment": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Chapter summarizing randomized summer outreach trials including peer mentoring to reduce summer melt among low-income graduates."
+ },
+ {
+  "id": "EJ1031678",
+  "design": "correlational",
+  "rigor": 2,
+  "n_youth": null,
+  "country": "unclear",
+  "setting": "college_campus",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "psychosocial_other": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Survey regression on transfer student capital; mentoring component predicted active coping among community college transfers."
+ },
+ {
+  "id": "EJ1031785",
+  "design": "other",
+  "rigor": 1,
+  "n_youth": null,
+  "country": "US",
+  "setting": "college_campus",
+  "format": "mixed",
+  "mentor_type": "unclear",
+  "targets": [
+   "racial_ethnic_minority"
+  ],
+  "grade_band": "college",
+  "program_name": "Leadership Alliance",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "yes",
+  "outcomes": {
+   "graduation_persistence": "positive",
+   "career_employment": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Descriptive study of a research pipeline consortium for underrepresented students; reports favorable academic and career pathways."
+ },
+ {
+  "id": "EJ1033116",
+  "design": "quasi_experimental",
+  "rigor": 3,
+  "n_youth": 372,
+  "country": "UK",
+  "setting": "school_based",
+  "format": "unclear",
+  "mentor_type": "older_peer",
+  "targets": [
+   "at_risk_behavior"
+  ],
+  "grade_band": "k12_mixed",
+  "program_name": null,
+  "duration_months": 9,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "behavior_delinquency": "negative",
+   "psychosocial_other": "positive",
+   "belonging_connectedness": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Peer mentoring for bullied children versus comparison group; higher reported bullying, better life and school satisfaction."
+ },
+ {
+  "id": "EJ1033648",
+  "design": "quasi_experimental",
+  "rigor": 4,
+  "n_youth": 1513,
+  "country": "US",
+  "setting": "school_based",
+  "format": "one_to_one",
+  "mentor_type": "unclear",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "k12_mixed",
+  "program_name": "Big Brothers Big Sisters school-based; Student Mentoring Program",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "academic_achievement": "null",
+   "behavior_delinquency": "null",
+   "relationships_social": "null"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Secondary analysis comparing same- and cross-gender matches for boys; mostly similar processes and outcomes, nonexperimental."
+ },
+ {
+  "id": "EJ1034259",
+  "design": "review",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "unclear",
+  "setting": "college_campus",
+  "format": "mixed",
+  "mentor_type": "unclear",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {},
+  "effect_sizes": [],
+  "review_details": {
+   "n_studies": 20,
+   "pooled_metric": null,
+   "pooled_value": null
+  },
+  "notes": "Systematic review of undergraduate mentoring studies, assessing definition, theory, methods; limited progress and missing program detail."
+ },
+ {
+  "id": "EJ1039430",
+  "design": "other",
+  "rigor": 1,
+  "n_youth": null,
+  "country": "other",
+  "setting": "college_campus",
+  "format": "group",
+  "mentor_type": "unclear",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {},
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Ethnographic study of a mentor guiding a student team in a game design practicum."
+ },
+ {
+  "id": "EJ1039463",
+  "design": "quasi_experimental",
+  "rigor": 4,
+  "n_youth": 317,
+  "country": "other",
+  "setting": "school_based",
+  "format": "unclear",
+  "mentor_type": "teacher_school_staff",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "middle",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "academic_achievement": "positive",
+   "engagement_attendance": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Portuguese school mentoring by teachers; mentored students had fewer absences and better grades than controls, with mixed psychological needs findings."
+ },
+ {
+  "id": "EJ1041495",
+  "design": "correlational",
+  "rigor": 2,
+  "n_youth": 80,
+  "country": "US",
+  "setting": "college_campus",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "psychosocial_other": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Regression among first-semester undergraduates; relational health with mentors strongest predictor of adjustment."
+ },
+ {
+  "id": "EJ1042158",
+  "design": "correlational",
+  "rigor": 2,
+  "n_youth": 191,
+  "country": "unclear",
+  "setting": "college_campus",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "racial_ethnic_minority"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "psychosocial_other": "mixed"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Model of Hispanic undergraduates' cultural orientation, desired mentor functions and benefits; some moderating effects found."
+ },
+ {
+  "id": "EJ1043041",
+  "design": "quasi_experimental",
+  "rigor": 3,
+  "n_youth": 417,
+  "country": "other",
+  "setting": "college_campus",
+  "format": "group",
+  "mentor_type": "college_student",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "college",
+  "program_name": "Cascaded Blended Mentoring",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "academic_achievement": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Participants outperformed nonparticipants on grades and courses passed; mentoring style made no specific difference."
+ }
+]

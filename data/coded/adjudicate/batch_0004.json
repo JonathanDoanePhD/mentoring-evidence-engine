@@ -1,0 +1,521 @@
+[
+ {
+  "id": "ED544233",
+  "design": "pre_post",
+  "rigor": 2,
+  "n_youth": null,
+  "country": "US",
+  "setting": "community_based",
+  "format": "one_to_one",
+  "mentor_type": "unclear",
+  "targets": [
+   "at_risk_behavior"
+  ],
+  "grade_band": "unclear",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "mental_health": "positive",
+   "academic_achievement": "positive",
+   "relationships_social": "mixed",
+   "behavior_delinquency": "null"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Risk profiles showed similar benefits; depressive symptoms fell; parent relations and behavior unchanged; design not stated."
+ },
+ {
+  "id": "ED546446",
+  "design": "correlational",
+  "rigor": 3,
+  "n_youth": 119,
+  "country": "US",
+  "setting": "community_based",
+  "format": "one_to_one",
+  "mentor_type": "adult_volunteer",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "unclear",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "psychosocial_other": "mixed"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Regression on 119 pairs; relationship quality predicted future possible self; mentor attributes varied in effect."
+ },
+ {
+  "id": "ED547218",
+  "design": "other",
+  "rigor": 1,
+  "n_youth": 36,
+  "country": "US",
+  "setting": "school_based",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "middle",
+  "program_name": "Jones-Zimmermann Academic Mentoring Program",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "graduation_persistence": "mixed"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Follow-up of first middle-school cohort; 12 of 36 graduated with plans, others unknown; interviews positive."
+ },
+ {
+  "id": "ED548171",
+  "design": "other",
+  "rigor": 2,
+  "n_youth": 3,
+  "country": "US",
+  "setting": "school_based",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "racial_ethnic_minority",
+   "at_risk_behavior",
+   "urban"
+  ],
+  "grade_band": "unclear",
+  "program_name": "Check-In Check-Out",
+  "duration_months": null,
+  "frequency": "weekly_or_more",
+  "bridging": "no",
+  "outcomes": {
+   "academic_achievement": "mixed",
+   "behavior_delinquency": "positive",
+   "psychosocial_other": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Single-case design, three Black male students; checklist completion up, grades up for two, discipline down."
+ },
+ {
+  "id": "ED548699",
+  "design": "other",
+  "rigor": 1,
+  "n_youth": null,
+  "country": "unclear",
+  "setting": "school_based",
+  "format": "one_to_one",
+  "mentor_type": "teacher_school_staff",
+  "targets": [
+   "at_risk_behavior"
+  ],
+  "grade_band": "unclear",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "academic_achievement": "positive",
+   "self_efficacy_confidence": "positive",
+   "relationships_social": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Mixed-methods study of learning plans with adult advocates; reported academic, self-esteem and social gains."
+ },
+ {
+  "id": "ED551944",
+  "design": "other",
+  "rigor": 1,
+  "n_youth": null,
+  "country": "US",
+  "setting": "school_based",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "racial_ethnic_minority",
+   "at_risk_behavior"
+  ],
+  "grade_band": "elementary",
+  "program_name": "Gentlemen on a Mission",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "academic_achievement": "positive",
+   "behavior_delinquency": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Qualitative, descriptive evaluation of elementary boys mentoring; benchmarks progressed and referrals declined."
+ },
+ {
+  "id": "ED552324",
+  "design": "review",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "US",
+  "setting": "college_campus",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "racial_ethnic_minority",
+   "first_generation"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "graduation_persistence": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": {
+   "n_studies": null,
+   "pooled_metric": null,
+   "pooled_value": null
+  },
+  "notes": "Narrative literature review of mentoring for underrepresented community college students' completion; benefits reported."
+ },
+ {
+  "id": "ED554888",
+  "design": "correlational",
+  "rigor": 2,
+  "n_youth": 162,
+  "country": "US",
+  "setting": "workplace_career",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "girls_women_stem",
+   "stem_general"
+  ],
+  "grade_band": "college",
+  "program_name": "Langley Aerospace Research Student Scholars",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "yes",
+  "outcomes": {
+   "career_employment": "mixed"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Survey of former NASA engineering interns; men rated mentoring higher; internship underprepared 17 of 20 skills."
+ },
+ {
+  "id": "ED555218",
+  "design": "correlational",
+  "rigor": 2,
+  "n_youth": null,
+  "country": "US",
+  "setting": "college_campus",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "college",
+  "program_name": "Collegiate DECA",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {},
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Survey of DECA students; organization commitment and psychological capital predicted career commitment; mentoring result unstated."
+ },
+ {
+  "id": "ED556468",
+  "design": "review",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "unclear",
+  "setting": "mixed",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "low_income"
+  ],
+  "grade_band": "high",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {
+   "college_access_enrollment": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": {
+   "n_studies": null,
+   "pooled_metric": null,
+   "pooled_value": null
+  },
+  "notes": "Research brief: limited college counseling helps explain low-income students' application and college choice gaps."
+ },
+ {
+  "id": "ED558065",
+  "design": "correlational",
+  "rigor": 2,
+  "n_youth": null,
+  "country": "US",
+  "setting": "unclear",
+  "format": "mixed",
+  "mentor_type": "mixed",
+  "targets": [
+   "at_risk_behavior"
+  ],
+  "grade_band": "unclear",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {},
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "National youth survey on mentoring gap; higher-risk youth less often have natural, more often structured mentors."
+ },
+ {
+  "id": "ED562266",
+  "design": "quasi_experimental",
+  "rigor": 4,
+  "n_youth": null,
+  "country": "US",
+  "setting": "school_based",
+  "format": "one_to_one",
+  "mentor_type": "adult_volunteer",
+  "targets": [
+   "low_income"
+  ],
+  "grade_band": "unclear",
+  "program_name": "Big Brothers Big Sisters school-based mentoring",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "academic_achievement": "positive",
+   "self_efficacy_confidence": "positive"
+  },
+  "effect_sizes": [
+   {
+    "domain": "academic_achievement",
+    "metric": "d",
+    "value": 0.13,
+    "note": "overall academic performance, closeness effect"
+   },
+   {
+    "domain": "self_efficacy_confidence",
+    "metric": "d",
+    "value": 0.13,
+    "note": "scholastic efficacy, closeness effect"
+   },
+   {
+    "domain": "academic_achievement",
+    "metric": "d",
+    "value": 0.18,
+    "note": "completeness of schoolwork, closeness effect"
+   }
+  ],
+  "review_details": null,
+  "notes": "Secondary analysis of BBBS school-based trial sample; closeness not randomized; closer relationships improved academics."
+ },
+ {
+  "id": "ED564074",
+  "design": "rct",
+  "rigor": 5,
+  "n_youth": 2209,
+  "country": "US",
+  "setting": "unclear",
+  "format": "peer_cross_age",
+  "mentor_type": "college_student",
+  "targets": [
+   "low_income"
+  ],
+  "grade_band": "high",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "yes",
+  "outcomes": {},
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Randomized summer college-peer outreach to 907 of 2209 graduates; enrollment results pending."
+ },
+ {
+  "id": "ED564920",
+  "design": "quasi_experimental",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "unclear",
+  "setting": "unclear",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "girls_women_stem"
+  ],
+  "grade_band": "middle",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {
+   "psychosocial_other": "null"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Science-focused versus traditional mentoring for middle school girls; science attitudes did not differ."
+ },
+ {
+  "id": "ED565557",
+  "design": "quasi_experimental",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "US",
+  "setting": "school_based",
+  "format": "mixed",
+  "mentor_type": "mixed",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "high",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "belonging_connectedness": "null",
+   "engagement_attendance": "null"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Freshman peer and adult mentoring versus control; pre-post connectedness and engagement differences not significant."
+ },
+ {
+  "id": "ED566085",
+  "design": "correlational",
+  "rigor": 2,
+  "n_youth": 283,
+  "country": "US",
+  "setting": "college_campus",
+  "format": "natural_mentor",
+  "mentor_type": "natural_informal",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "academic_achievement": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Cross-sectional nursing student survey; mentors often family; course passers met mentors more; persistence link unstated."
+ },
+ {
+  "id": "ED566814",
+  "design": "pre_post",
+  "rigor": 2,
+  "n_youth": null,
+  "country": "US",
+  "setting": "school_based",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "at_risk_behavior",
+   "urban"
+  ],
+  "grade_band": "k12_mixed",
+  "program_name": "I Believe I Achieve",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "behavior_delinquency": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Mixed-methods urban school program evaluation, grades 4-8; significant improvement in discipline referrals only stated."
+ },
+ {
+  "id": "ED567085",
+  "design": "other",
+  "rigor": 1,
+  "n_youth": null,
+  "country": "other",
+  "setting": "college_campus",
+  "format": "peer_cross_age",
+  "mentor_type": "older_peer",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "academic_achievement": "positive",
+   "graduation_persistence": "positive",
+   "relationships_social": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Action research on peer mentoring in two Pakistani universities; feedback reported better results and retention."
+ },
+ {
+  "id": "ED568333",
+  "design": "review",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "US",
+  "setting": "college_campus",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "racial_ethnic_minority"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {},
+  "effect_sizes": [],
+  "review_details": {
+   "n_studies": null,
+   "pooled_metric": null,
+   "pooled_value": null
+  },
+  "notes": "Narrative literature review on Latino college persistence: mentoring, faith, affordability; findings direction not stated."
+ },
+ {
+  "id": "ED569099",
+  "design": "other",
+  "rigor": 1,
+  "n_youth": null,
+  "country": "US",
+  "setting": "college_campus",
+  "format": "one_to_one",
+  "mentor_type": "teacher_school_staff",
+  "targets": [
+   "racial_ethnic_minority"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {},
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Action research on faculty reciprocal mentoring of minority male community college students; persistence direction not stated."
+ }
+]

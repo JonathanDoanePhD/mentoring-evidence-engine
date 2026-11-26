@@ -1,0 +1,190 @@
+id,design,rigor,domain,direction,rigor_band,year,n_youth,program_name,grade_band,setting
+ED278448,quasi_experimental,3,graduation_persistence,positive,3,1986,388.0,Puente Project,college,college_campus
+ED278448,quasi_experimental,3,college_access_enrollment,positive,3,1986,388.0,Puente Project,college,college_campus
+ED337536,quasi_experimental,3,graduation_persistence,null,3,1991,,Project RAISE,middle,school_based
+ED340788,pre_post,2,graduation_persistence,positive,1-2,1991,,BRIDGE,k12_mixed,school_based
+ED365698,quasi_experimental,3,graduation_persistence,positive,3,1993,32.0,Austin Youth River Watch,high,unclear
+ED368527,pre_post,2,graduation_persistence,positive,1-2,1993,45.0,,high,school_based
+ED371096,other,2,graduation_persistence,positive,1-2,1987,118.0,Project LIVE,middle,workplace_career
+ED371096,other,2,college_access_enrollment,positive,1-2,1987,118.0,Project LIVE,middle,workplace_career
+ED403319,other,1,graduation_persistence,positive,1-2,1996,26.0,Austin Youth River Watch,high,unclear
+ED412269,pre_post,2,college_access_enrollment,positive,1-2,1997,95.0,Project SOAR,k12_mixed,school_based
+ED416755,quasi_experimental,3,graduation_persistence,positive,3,1994,,Early Employee Selector Program,college,workplace_career
+ED418609,quasi_experimental,3,graduation_persistence,positive,3,1997,,IUPUI student mentoring,college,college_campus
+ED420735,quasi_experimental,3,graduation_persistence,positive,3,1995,100.0,Quantum Opportunities Program,high,community_based
+ED420735,quasi_experimental,3,college_access_enrollment,positive,3,1995,100.0,Quantum Opportunities Program,high,community_based
+ED423593,pre_post,2,graduation_persistence,positive,1-2,1998,,Partnership Academy,high,school_based
+ED423593,pre_post,2,college_access_enrollment,positive,1-2,1998,,Partnership Academy,high,school_based
+ED434881,pre_post,2,graduation_persistence,positive,1-2,1999,,Target Success Mentor Program,middle,school_based
+ED444424,correlational,3,college_access_enrollment,positive,3,2000,300.0,,middle,unclear
+ED460294,quasi_experimental,3,college_access_enrollment,positive,3,1996,,Wisconsin Youth Apprenticeship Program in Printing,high,workplace_career
+ED477438,pre_post,2,graduation_persistence,positive,1-2,2003,150.0,Project CONNECT,college,college_campus
+ED480766,quasi_experimental,4,graduation_persistence,mixed,4-5,2002,,New Dimensions,college,college_campus
+ED489958,other,1,graduation_persistence,positive,1-2,2005,,National Guard Youth Challenge Academy,high,unclear
+ED490840,correlational,4,college_access_enrollment,positive,4-5,2005,,,high,workplace_career
+ED495728,rct,5,graduation_persistence,positive,4-5,2007,219.0,Twelve Together,middle,school_based
+ED497614,rct,5,graduation_persistence,null,4-5,2007,1100.0,Quantum Opportunity Program,high,unclear
+ED504645,rct,5,graduation_persistence,positive,4-5,2009,3000.0,National Guard Youth ChalleNGe,out_of_school,unclear
+ED504645,rct,5,college_access_enrollment,positive,4-5,2009,3000.0,National Guard Youth ChalleNGe,out_of_school,unclear
+ED505845,rct,5,graduation_persistence,positive,4-5,2009,1000.0,National Guard Youth ChalleNGe,out_of_school,unclear
+ED505845,rct,5,college_access_enrollment,positive,4-5,2009,1000.0,National Guard Youth ChalleNGe,out_of_school,unclear
+ED509889,quasi_experimental,3,college_access_enrollment,positive,3,2010,,Washington State Achievers,high,mixed
+ED514652,rct,5,graduation_persistence,positive,4-5,2010,3000.0,National Guard Youth ChalleNGe,out_of_school,unclear
+ED514652,rct,5,college_access_enrollment,positive,4-5,2010,3000.0,National Guard Youth ChalleNGe,out_of_school,unclear
+ED514661,rct,5,graduation_persistence,positive,4-5,2010,3000.0,National Guard Youth ChalleNGe,out_of_school,unclear
+ED514661,rct,5,college_access_enrollment,positive,4-5,2010,3000.0,National Guard Youth ChalleNGe,out_of_school,unclear
+ED517656,correlational,4,graduation_persistence,null,4-5,2010,,,unclear,unclear
+ED517927,quasi_experimental,3,graduation_persistence,mixed,3,2011,,Beacon Mentoring Program,college,college_campus
+ED524388,other,1,graduation_persistence,mixed,1-2,2011,32.0,Latham Way,elementary,mixed
+ED529438,correlational,4,college_access_enrollment,positive,4-5,2011,,McNair Postbaccalaureate Achievement Program,college,college_campus
+ED534208,rct,5,graduation_persistence,mixed,4-5,2012,13500.0,InsideTrack,college,unclear
+ED534670,correlational,2,graduation_persistence,mixed,1-2,2011,,,college,college_campus
+ED540880,quasi_experimental,3,college_access_enrollment,positive,3,2012,,,high,school_based
+ED546388,pre_post,2,graduation_persistence,null,1-2,2012,,,college,online
+ED553650,quasi_experimental,3,graduation_persistence,positive,3,2013,,Ninth Grade Academy and Link Crew,high,school_based
+ED554437,correlational,2,graduation_persistence,null,1-2,2012,,,college,college_campus
+ED556097,correlational,3,graduation_persistence,mixed,3,2013,,,college,college_campus
+ED556300,other,1,graduation_persistence,positive,1-2,2013,112.0,,college,college_campus
+ED560173,correlational,2,college_access_enrollment,positive,1-2,2013,,,k12_mixed,unclear
+ED563324,correlational,4,graduation_persistence,null,4-5,2013,19869.0,,college,online
+ED566769,pre_post,2,graduation_persistence,positive,1-2,2015,46.0,Just One Mentoring Program,college,college_campus
+ED567085,other,1,graduation_persistence,positive,1-2,2012,,,college,college_campus
+ED568185,correlational,2,graduation_persistence,mixed,1-2,2013,,,college,college_campus
+ED568233,correlational,2,graduation_persistence,positive,1-2,2014,237.0,,college,college_campus
+ED569074,correlational,2,graduation_persistence,positive,1-2,2014,168.0,,college,college_campus
+ED572060,correlational,2,graduation_persistence,positive,1-2,2015,348.0,,college,college_campus
+ED578235,correlational,4,graduation_persistence,null,4-5,2017,416.0,,college,college_campus
+ED579020,quasi_experimental,3,graduation_persistence,positive,3,2017,70.0,,college,college_campus
+ED581210,quasi_experimental,4,graduation_persistence,positive,4-5,2017,45.0,Urban College S-STEM,college,college_campus
+ED584161,quasi_experimental,4,graduation_persistence,null,4-5,2018,,12 for Life,high,unclear
+ED591554,quasi_experimental,3,college_access_enrollment,null,3,2017,,iMentor College Ready,high,school_based
+ED593039,other,1,graduation_persistence,positive,1-2,2018,24.0,Culturally Strategic Mentoring,college,college_campus
+ED593732,quasi_experimental,4,graduation_persistence,positive,4-5,2019,,UNISON,high,school_based
+ED600326,quasi_experimental,3,graduation_persistence,positive,3,2018,,,college,college_campus
+ED602984,pre_post,2,graduation_persistence,positive,1-2,2020,,Chicago Young Parents Program,out_of_school,community_based
+ED604474,rct,5,graduation_persistence,null,4-5,2017,553.0,Check & Connect,high,school_based
+ED604884,quasi_experimental,4,graduation_persistence,null,4-5,2019,,,college,college_campus
+ED607927,correlational,4,college_access_enrollment,mixed,4-5,2019,,,unclear,unclear
+ED607927,correlational,4,graduation_persistence,mixed,4-5,2019,,,unclear,unclear
+ED609230,other,1,college_access_enrollment,positive,1-2,2020,3021.0,Health Sciences and Technology Academy,high,unclear
+ED609230,other,1,graduation_persistence,positive,1-2,2020,3021.0,Health Sciences and Technology Academy,high,unclear
+ED611487,rct,5,graduation_persistence,positive,4-5,2020,1462.0,Research Aligned Mentorship Program,college,college_campus
+ED618297,rct,5,college_access_enrollment,mixed,4-5,2013,,College Coaching,high,unclear
+ED618297,rct,5,graduation_persistence,mixed,4-5,2013,,College Coaching,high,unclear
+ED618302,quasi_experimental,4,graduation_persistence,positive,4-5,2019,115748.0,Youth CareerConnect,high,school_based
+ED623497,quasi_experimental,3,college_access_enrollment,positive,3,2022,,Math Corps,middle,community_based
+ED632181,quasi_experimental,4,graduation_persistence,null,4-5,2018,,,college,college_campus
+ED632384,correlational,1,graduation_persistence,positive,1-2,2015,75.0,,college,college_campus
+EJ1013457,correlational,4,graduation_persistence,mixed,4-5,2012,10925.0,,unclear,unclear
+EJ1019184,rct,5,graduation_persistence,positive,4-5,2014,,InsideTrack,college,college_campus
+EJ1021979,quasi_experimental,3,graduation_persistence,positive,3,2013,154.0,,college,college_campus
+EJ1022628,quasi_experimental,3,graduation_persistence,positive,3,2013,42.0,WSU Women's Mentoring Program,college,college_campus
+EJ1026920,pre_post,2,college_access_enrollment,positive,1-2,2013,,,high,unclear
+EJ1031658,rct,5,college_access_enrollment,positive,4-5,2013,,,out_of_school,unclear
+EJ1031785,other,1,graduation_persistence,positive,1-2,2014,,Leadership Alliance SR-EIP/LANS,college,college_campus
+EJ1044900,quasi_experimental,4,graduation_persistence,positive,4-5,2014,109.0,,college,college_campus
+EJ1046973,other,2,college_access_enrollment,positive,1-2,2014,,McNair Scholars,college,college_campus
+EJ1050937,other,1,graduation_persistence,positive,1-2,2015,,LEARN,college,college_campus
+EJ1053283,quasi_experimental,3,graduation_persistence,positive,3,2014,,,college,college_campus
+EJ1055692,other,1,college_access_enrollment,positive,1-2,2015,,AIME,high,unclear
+EJ1056114,pre_post,2,graduation_persistence,positive,1-2,2012,,,college,college_campus
+EJ1069843,quasi_experimental,3,graduation_persistence,positive,3,2015,,,college,college_campus
+EJ1070122,other,1,graduation_persistence,positive,1-2,2015,,STEM Ambassador,college,college_campus
+EJ1076285,correlational,4,graduation_persistence,null,4-5,2014,139.0,,college,college_campus
+EJ1107071,other,1,graduation_persistence,positive,1-2,2016,9.0,Luce Pathways Project,college,college_campus
+EJ1108112,other,1,graduation_persistence,positive,1-2,2016,40.0,Catalyst Scholarship Program,college,college_campus
+EJ1108415,correlational,3,graduation_persistence,positive,3,2016,237.0,,college,college_campus
+EJ1111419,quasi_experimental,4,graduation_persistence,null,4-5,2016,348.0,,college,college_campus
+EJ1116953,correlational,3,graduation_persistence,negative,3,2016,124.0,,college,college_campus
+EJ1123468,pre_post,2,graduation_persistence,positive,1-2,2017,900.0,STAR Scholars,college,college_campus
+EJ1124459,rct,5,college_access_enrollment,positive,4-5,2016,,,high,unclear
+EJ1125253,pre_post,2,graduation_persistence,positive,1-2,2016,113.0,Freshmen Focus,high,school_based
+EJ1139964,quasi_experimental,4,graduation_persistence,null,4-5,2017,,,college,college_campus
+EJ1141075,pre_post,2,college_access_enrollment,positive,1-2,2017,100.0,BASE Camp,high,college_campus
+EJ1146494,other,1,college_access_enrollment,positive,1-2,2017,,,elementary,school_based
+EJ1146621,quasi_experimental,3,college_access_enrollment,null,3,2014,20.0,,high,school_based
+EJ1161342,correlational,3,graduation_persistence,null,3,2017,,,college,college_campus
+EJ1170313,rct,5,graduation_persistence,null,4-5,2018,553.0,Check & Connect,high,school_based
+EJ1174555,correlational,4,college_access_enrollment,positive,4-5,2018,,,college,unclear
+EJ1174555,correlational,4,graduation_persistence,positive,4-5,2018,,,college,unclear
+EJ1174877,quasi_experimental,4,graduation_persistence,positive,4-5,2018,66.0,Cannon Scholar Program,college,college_campus
+EJ1181945,pre_post,2,college_access_enrollment,positive,1-2,2018,220.0,SMART,high,mixed
+EJ1182025,pre_post,2,graduation_persistence,positive,1-2,2018,,Campus Mentors,high,school_based
+EJ1195330,pre_post,2,college_access_enrollment,positive,1-2,2018,,,middle,unclear
+EJ1208097,quasi_experimental,4,graduation_persistence,positive,4-5,2017,,Access and Opportunity Program,high,school_based
+EJ1210063,other,1,graduation_persistence,positive,1-2,2019,,RAMP,college,college_campus
+EJ1210267,quasi_experimental,4,graduation_persistence,positive,4-5,2019,,,unclear,workplace_career
+EJ1213317,other,1,graduation_persistence,positive,1-2,2018,,Research Apprenticeship Program,college,college_campus
+EJ1216969,correlational,4,graduation_persistence,mixed,4-5,2019,2217.0,,high,school_based
+EJ1217656,quasi_experimental,4,graduation_persistence,positive,4-5,2019,500.0,CUNY Research Scholars Program,college,college_campus
+EJ1217656,quasi_experimental,4,college_access_enrollment,positive,4-5,2019,500.0,CUNY Research Scholars Program,college,college_campus
+EJ1227143,other,1,graduation_persistence,positive,1-2,2019,,Gender Equity through Education,high,unclear
+EJ1232146,pre_post,2,graduation_persistence,positive,1-2,2019,,TIERA,college,college_campus
+EJ1234820,correlational,4,graduation_persistence,mixed,4-5,2019,,,high,school_based
+EJ1240951,quasi_experimental,3,graduation_persistence,positive,3,2020,,BBVA scholarship and mentoring program,middle,unclear
+EJ1245968,quasi_experimental,3,graduation_persistence,positive,3,2019,,Benjamin Banneker Scholars Program,college,college_campus
+EJ1251531,quasi_experimental,3,graduation_persistence,positive,3,2020,,,college,college_campus
+EJ1253865,correlational,3,graduation_persistence,positive,3,2020,3461.0,,high,unclear
+EJ1256100,pre_post,2,college_access_enrollment,positive,1-2,2020,63.0,SCOPE,college,college_campus
+EJ1259112,other,1,graduation_persistence,positive,1-2,2018,41.0,NINDS summer internship,college,workplace_career
+EJ1271651,pre_post,2,graduation_persistence,mixed,1-2,2020,,,college,college_campus
+EJ1273702,pre_post,2,graduation_persistence,positive,1-2,2020,20.0,,college,college_campus
+EJ1275694,quasi_experimental,3,graduation_persistence,positive,3,2020,62.0,SURE,college,college_campus
+EJ1292464,rct,5,graduation_persistence,null,4-5,2021,178.0,First-year experience plus mentoring,college,college_campus
+EJ1293798,pre_post,2,college_access_enrollment,positive,1-2,2021,32.0,,high,unclear
+EJ1302189,correlational,4,graduation_persistence,positive,4-5,2021,,,high,unclear
+EJ1313796,correlational,4,graduation_persistence,positive,4-5,2021,681.0,,college,college_campus
+EJ1316940,quasi_experimental,3,graduation_persistence,null,3,2021,49.0,FYE Peer Mentor Program,college,college_campus
+EJ1324330,correlational,3,graduation_persistence,positive,3,2022,1425.0,,high,school_based
+EJ1324723,quasi_experimental,4,graduation_persistence,positive,4-5,2021,437.0,BIOME,college,college_campus
+EJ1325648,other,1,graduation_persistence,positive,1-2,2020,220.0,Base Pair,high,unclear
+EJ1325648,other,1,college_access_enrollment,positive,1-2,2020,220.0,Base Pair,high,unclear
+EJ1325673,other,1,college_access_enrollment,positive,1-2,2020,3021.0,HSTA,high,community_based
+EJ1325673,other,1,graduation_persistence,positive,1-2,2020,3021.0,HSTA,high,community_based
+EJ1347418,correlational,2,college_access_enrollment,positive,1-2,2022,189.0,,high,unclear
+EJ1354485,other,1,college_access_enrollment,positive,1-2,2022,20.0,,college,college_campus
+EJ1358601,other,1,graduation_persistence,positive,1-2,2022,20.0,,college,mixed
+EJ1360785,correlational,3,graduation_persistence,positive,3,2023,,,high,school_based
+EJ1360785,correlational,3,college_access_enrollment,positive,3,2023,,,high,school_based
+EJ1363722,quasi_experimental,3,graduation_persistence,positive,3,2022,,Class Leader,college,college_campus
+EJ1369899,correlational,3,graduation_persistence,mixed,3,2022,104.0,,high,unclear
+EJ1384349,quasi_experimental,3,graduation_persistence,positive,3,2023,,,college,college_campus
+EJ1390948,quasi_experimental,3,graduation_persistence,positive,3,2023,,,college,college_campus
+EJ1395921,quasi_experimental,4,graduation_persistence,positive,4-5,2023,,,college,college_campus
+EJ413424,other,1,graduation_persistence,positive,1-2,1990,,,k12_mixed,unclear
+EJ435206,other,1,graduation_persistence,positive,1-2,1991,,National Academy Foundation academies,high,school_based
+EJ436975,other,1,graduation_persistence,null,1-2,1991,,Project RAISE,middle,mixed
+EJ460870,quasi_experimental,4,graduation_persistence,null,4-5,1993,64.0,,high,school_based
+EJ506162,quasi_experimental,3,graduation_persistence,positive,3,1995,,Ethnic Mentor Undergraduate Program,college,college_campus
+EJ529558,correlational,4,graduation_persistence,mixed,4-5,1996,,,college,college_campus
+EJ550588,other,1,college_access_enrollment,positive,1-2,1997,90.0,,high,school_based
+EJ558379,quasi_experimental,4,graduation_persistence,positive,4-5,1997,339.0,,college,college_campus
+EJ561413,quasi_experimental,3,graduation_persistence,positive,3,1998,,,college,online
+EJ590879,pre_post,2,graduation_persistence,positive,1-2,1999,18.0,Model transition demonstration,unclear,unclear
+EJ590879,pre_post,2,college_access_enrollment,positive,1-2,1999,18.0,Model transition demonstration,unclear,unclear
+EJ668205,quasi_experimental,3,graduation_persistence,positive,3,2003,53.0,,college,college_campus
+EJ673979,correlational,3,graduation_persistence,positive,3,2003,198.0,,high,community_based
+EJ816234,quasi_experimental,4,graduation_persistence,mixed,4-5,2007,678.0,,college,college_campus
+EJ816234,quasi_experimental,4,college_access_enrollment,positive,4-5,2007,678.0,,college,college_campus
+EJ823641,other,1,graduation_persistence,positive,1-2,2003,49.0,food and nutritional sciences mentoring program,college,college_campus
+EJ827008,quasi_experimental,3,college_access_enrollment,positive,3,2008,50.0,college culture project,middle,mixed
+EJ834506,correlational,4,graduation_persistence,positive,4-5,2009,381.0,,college,college_campus
+EJ837242,pre_post,2,graduation_persistence,positive,1-2,2005,,Cathedral peer program,high,school_based
+EJ839770,quasi_experimental,3,graduation_persistence,positive,3,2009,35.0,,college,college_campus
+EJ840893,other,1,college_access_enrollment,positive,1-2,2006,,HHURP,college,college_campus
+EJ845710,other,1,graduation_persistence,positive,1-2,2009,,African Atlantic Research Team,college,college_campus
+EJ845710,other,1,college_access_enrollment,positive,1-2,2009,,African Atlantic Research Team,college,college_campus
+EJ885052,other,1,graduation_persistence,positive,1-2,2010,,,college,online
+EJ898867,other,1,college_access_enrollment,positive,1-2,2010,,UETPS,high,college_campus
+EJ901361,correlational,3,graduation_persistence,positive,3,2010,,Washington State Achievers,college,college_campus
+EJ913881,correlational,3,graduation_persistence,positive,3,2010,320.0,,college,college_campus
+EJ937716,correlational,3,graduation_persistence,positive,3,2012,,,college,college_campus
+EJ942899,correlational,3,graduation_persistence,mixed,3,2011,447.0,,high,unclear
+EJ944163,quasi_experimental,3,college_access_enrollment,positive,3,2011,50.0,,k12_mixed,unclear
+EJ944163,quasi_experimental,3,graduation_persistence,positive,3,2011,50.0,,k12_mixed,unclear
+EJ947367,correlational,3,college_access_enrollment,mixed,3,2011,,,unclear,unclear
+EJ949503,rct,5,graduation_persistence,positive,4-5,2011,307.0,MIRES,college,college_campus
+EJ974599,correlational,3,graduation_persistence,positive,3,2010,,,high,unclear
+EJ991722,correlational,3,graduation_persistence,positive,3,2012,541.0,,high,unclear
+EJ993476,correlational,2,college_access_enrollment,positive,1-2,2012,18.0,,high,unclear
+EJ999515,correlational,3,graduation_persistence,positive,3,2013,,,unclear,unclear

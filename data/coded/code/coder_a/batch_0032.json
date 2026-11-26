@@ -1,0 +1,625 @@
+[
+ {
+  "id": "EJ670267",
+  "design": "other",
+  "rigor": 1,
+  "n_youth": null,
+  "country": "unclear",
+  "setting": "community_based",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "unclear",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {
+   "self_efficacy_confidence": "positive",
+   "psychosocial_other": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Summary of three camp studies with self-reported gains from counselors, campers and staff."
+ },
+ {
+  "id": "EJ670907",
+  "design": "quasi_experimental",
+  "rigor": 3,
+  "n_youth": 90,
+  "country": "unclear",
+  "setting": "workplace_career",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "high",
+  "program_name": null,
+  "duration_months": 12,
+  "frequency": "not_reported",
+  "bridging": "yes",
+  "outcomes": {
+   "psychosocial_other": "positive",
+   "self_efficacy_confidence": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Four-group comparison of work-based mentoring; small groups; self-esteem higher versus unemployed only."
+ },
+ {
+  "id": "EJ671154",
+  "design": "quasi_experimental",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "unclear",
+  "setting": "mixed",
+  "format": "one_to_one",
+  "mentor_type": "unclear",
+  "targets": [
+   "at_risk_behavior"
+  ],
+  "grade_band": "middle",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "yes",
+  "outcomes": {
+   "behavior_delinquency": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Employment-site community mentors for at-risk eighth graders; fewer suspensions and infractions."
+ },
+ {
+  "id": "EJ673979",
+  "design": "correlational",
+  "rigor": 3,
+  "n_youth": 198,
+  "country": "unclear",
+  "setting": "community_based",
+  "format": "natural_mentor",
+  "mentor_type": "natural_informal",
+  "targets": [
+   "racial_ethnic_minority"
+  ],
+  "grade_band": "high",
+  "program_name": null,
+  "duration_months": 24,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {
+   "graduation_persistence": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Adolescent mothers with lasting natural mentors more often stayed in or finished school."
+ },
+ {
+  "id": "EJ683630",
+  "design": "correlational",
+  "rigor": 2,
+  "n_youth": 65,
+  "country": "unclear",
+  "setting": "college_campus",
+  "format": "unclear",
+  "mentor_type": "teacher_school_staff",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "college",
+  "program_name": "Faculty Mentoring Program",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {
+   "academic_achievement": "positive",
+   "psychosocial_other": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Path analysis of faculty mentoring; ethnic match and contact frequency linked to adjustment and grades."
+ },
+ {
+  "id": "EJ690344",
+  "design": "correlational",
+  "rigor": 2,
+  "n_youth": null,
+  "country": "unclear",
+  "setting": "college_campus",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "racial_ethnic_minority"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {},
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Examines mentoring and comfort among first-year Latina/o students; no findings stated."
+ },
+ {
+  "id": "EJ690963",
+  "design": "review",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "unclear",
+  "setting": "online",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "k12_mixed",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {},
+  "effect_sizes": [],
+  "review_details": {
+   "n_studies": null,
+   "pooled_metric": null,
+   "pooled_value": null
+  },
+  "notes": "Narrative discussion of telementoring relationships and strategies beyond training; no pooled results."
+ },
+ {
+  "id": "EJ696462",
+  "design": "rct",
+  "rigor": 5,
+  "n_youth": 1138,
+  "country": "US",
+  "setting": "community_based",
+  "format": "one_to_one",
+  "mentor_type": "adult_volunteer",
+  "targets": [
+   "urban"
+  ],
+  "grade_band": "k12_mixed",
+  "program_name": "Big Brothers Big Sisters",
+  "duration_months": 18,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "academic_achievement": "positive",
+   "psychosocial_other": "positive",
+   "relationships_social": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Randomized BBBS data; relationship styles with moderate structure and activity yielded most benefits."
+ },
+ {
+  "id": "EJ724757",
+  "design": "other",
+  "rigor": 1,
+  "n_youth": null,
+  "country": "unclear",
+  "setting": "unclear",
+  "format": "one_to_one",
+  "mentor_type": "unclear",
+  "targets": [
+   "girls_women_stem"
+  ],
+  "grade_band": "elementary",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "academic_achievement": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Descriptive account of a science curriculum delivered by individual mentors; skill mastery reported."
+ },
+ {
+  "id": "EJ727038",
+  "design": "correlational",
+  "rigor": 2,
+  "n_youth": null,
+  "country": "unclear",
+  "setting": "college_campus",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "racial_ethnic_minority"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {
+   "career_employment": "mixed"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Compares career locus of control, work knowledge and career-related mentoring across race and institution type."
+ },
+ {
+  "id": "EJ735161",
+  "design": "other",
+  "rigor": 1,
+  "n_youth": null,
+  "country": "unclear",
+  "setting": "school_based",
+  "format": "one_to_one",
+  "mentor_type": "unclear",
+  "targets": [
+   "urban"
+  ],
+  "grade_band": "unclear",
+  "program_name": "Team-Mates",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "behavior_delinquency": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Statewide school mentoring in urban versus nonurban schools; perceived behavior change but fewer matches."
+ },
+ {
+  "id": "EJ741388",
+  "design": "correlational",
+  "rigor": 2,
+  "n_youth": null,
+  "country": "unclear",
+  "setting": "college_campus",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {
+   "mental_health": "mixed"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Relational health predictors of distress in college students; mentor relationships were one of several predictors."
+ },
+ {
+  "id": "EJ743443",
+  "design": "quasi_experimental",
+  "rigor": 3,
+  "n_youth": 60,
+  "country": "unclear",
+  "setting": "unclear",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "at_risk_behavior"
+  ],
+  "grade_band": "elementary",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "behavior_delinquency": "positive",
+   "psychosocial_other": "positive",
+   "relationships_social": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Mentored youth with psychiatric disorders versus waitlist; better family functioning, mediated by parenting stress."
+ },
+ {
+  "id": "EJ747773",
+  "design": "review",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "unclear",
+  "setting": "college_campus",
+  "format": "unclear",
+  "mentor_type": "older_peer",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {},
+  "effect_sizes": [],
+  "review_details": {
+   "n_studies": null,
+   "pooled_metric": null,
+   "pooled_value": null
+  },
+  "notes": "Literature review of higher education mentoring concluding research is weak methodologically."
+ },
+ {
+  "id": "EJ749698",
+  "design": "correlational",
+  "rigor": 2,
+  "n_youth": 78,
+  "country": "unclear",
+  "setting": "unclear",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "high",
+  "program_name": "GEAR UP",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {
+   "self_efficacy_confidence": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "GEAR UP adolescents; family, peer and mentor relationships linked to self-concept."
+ },
+ {
+  "id": "EJ750079",
+  "design": "correlational",
+  "rigor": 2,
+  "n_youth": null,
+  "country": "unclear",
+  "setting": "unclear",
+  "format": "natural_mentor",
+  "mentor_type": "natural_informal",
+  "targets": [
+   "racial_ethnic_minority"
+  ],
+  "grade_band": "high",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {
+   "career_employment": "null"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Mexican American students described mentor help; mentor presence did not differentiate career outcomes."
+ },
+ {
+  "id": "EJ761792",
+  "design": "rct",
+  "rigor": 5,
+  "n_youth": 73,
+  "country": "unclear",
+  "setting": "unclear",
+  "format": "peer_cross_age",
+  "mentor_type": "older_peer",
+  "targets": [
+   "rural"
+  ],
+  "grade_band": "unclear",
+  "program_name": "Developmental Mentoring",
+  "duration_months": 6,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "belonging_connectedness": "positive",
+   "psychosocial_other": "mixed"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Randomized cross-age mentoring; connectedness gains, but mentor absences tied to declines."
+ },
+ {
+  "id": "EJ764215",
+  "design": "other",
+  "rigor": 1,
+  "n_youth": null,
+  "country": "UK",
+  "setting": "community_based",
+  "format": "unclear",
+  "mentor_type": "adult_volunteer",
+  "targets": [
+   "at_risk_behavior"
+  ],
+  "grade_band": "unclear",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {},
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Independent evaluation of a volunteer mentoring scheme for at-risk youth; findings not detailed."
+ },
+ {
+  "id": "EJ771996",
+  "design": "correlational",
+  "rigor": 2,
+  "n_youth": 80,
+  "country": "unclear",
+  "setting": "school_based",
+  "format": "natural_mentor",
+  "mentor_type": "natural_informal",
+  "targets": [
+   "urban"
+  ],
+  "grade_band": "high",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {
+   "mental_health": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Mixed-methods study of inner-city teen mothers; female mentor support protective against depression."
+ },
+ {
+  "id": "EJ772713",
+  "design": "correlational",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "US",
+  "setting": "college_campus",
+  "format": "unclear",
+  "mentor_type": "teacher_school_staff",
+  "targets": [
+   "girls_women_stem"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {
+   "self_efficacy_confidence": "mixed"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Survey of IT students; mentoring and mentor gender predicted computer self-efficacy in differing ways."
+ },
+ {
+  "id": "EJ773523",
+  "design": "correlational",
+  "rigor": 2,
+  "n_youth": 118,
+  "country": "unclear",
+  "setting": "college_campus",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "first_generation",
+   "racial_ethnic_minority"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {
+   "psychosocial_other": "positive",
+   "graduation_persistence": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Survey on support services including a faculty mentoring program; adjustment tied to college commitment."
+ },
+ {
+  "id": "EJ783030",
+  "design": "correlational",
+  "rigor": 2,
+  "n_youth": 866,
+  "country": "other",
+  "setting": "school_based",
+  "format": "unclear",
+  "mentor_type": "teacher_school_staff",
+  "targets": [
+   "lgbtq"
+  ],
+  "grade_band": "high",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "mental_health": "negative",
+   "academic_achievement": "negative",
+   "relationships_social": "negative"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Dutch survey: youth with same-sex attraction fared worse, mediated by relationship quality including class mentors."
+ },
+ {
+  "id": "EJ783308",
+  "design": "pre_post",
+  "rigor": 2,
+  "n_youth": 23,
+  "country": "unclear",
+  "setting": "school_based",
+  "format": "peer_cross_age",
+  "mentor_type": "older_peer",
+  "targets": [
+   "immigrant_ell",
+   "racial_ethnic_minority"
+  ],
+  "grade_band": "high",
+  "program_name": null,
+  "duration_months": 12,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "relationships_social": "positive",
+   "belonging_connectedness": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Year-long peer mentoring for new immigrants; peer attachment improved from pre to post."
+ },
+ {
+  "id": "EJ783381",
+  "design": "quasi_experimental",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "unclear",
+  "setting": "school_based",
+  "format": "one_to_one",
+  "mentor_type": "college_student",
+  "targets": [
+   "at_risk_behavior"
+  ],
+  "grade_band": "elementary",
+  "program_name": "Jumpstart",
+  "duration_months": null,
+  "frequency": "weekly_or_more",
+  "bridging": "no",
+  "outcomes": {
+   "academic_achievement": "positive",
+   "psychosocial_other": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Jumpstart preschool program; children outpaced comparison peers; main study examines mentor benefits."
+ },
+ {
+  "id": "EJ789347",
+  "design": "review",
+  "rigor": 4,
+  "n_youth": null,
+  "country": "unclear",
+  "setting": "mixed",
+  "format": "unclear",
+  "mentor_type": "mixed",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "unclear",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {
+   "psychosocial_other": "positive",
+   "career_employment": "positive",
+   "mental_health": "positive",
+   "relationships_social": "positive",
+   "behavior_delinquency": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": {
+   "n_studies": null,
+   "pooled_metric": null,
+   "pooled_value": null
+  },
+  "notes": "Cross-domain meta-analysis of mentored versus non-mentored; small favorable effects, larger in academic and workplace."
+ }
+]

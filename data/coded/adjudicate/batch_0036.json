@@ -1,0 +1,216 @@
+[
+ {
+  "id": "EJ927864",
+  "design": "rct",
+  "rigor": 5,
+  "n_youth": 891,
+  "country": "unclear",
+  "setting": "mixed",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "at_risk_behavior"
+  ],
+  "grade_band": "k12_mixed",
+  "program_name": "Fast Track",
+  "duration_months": 120,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "mental_health": "mixed"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Ten-year multi-component prevention trial, mentoring one element; diagnoses prevented only among highest-risk children."
+ },
+ {
+  "id": "EJ927867",
+  "design": "rct",
+  "rigor": 5,
+  "n_youth": 1139,
+  "country": "US",
+  "setting": "school_based",
+  "format": "one_to_one",
+  "mentor_type": "unclear",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "k12_mixed",
+  "program_name": "Big Brothers Big Sisters School-Based Mentoring",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "academic_achievement": "mixed",
+   "self_efficacy_confidence": "mixed",
+   "relationships_social": "mixed",
+   "engagement_attendance": "null",
+   "behavior_delinquency": "null"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Randomized multi-city trial; first-year academic gains not sustained; more had a special adult; behavior unchanged."
+ },
+ {
+  "id": "EJ930855",
+  "design": "pre_post",
+  "rigor": 2,
+  "n_youth": 22,
+  "country": "unclear",
+  "setting": "online",
+  "format": "group",
+  "mentor_type": "unclear",
+  "targets": [
+   "disability"
+  ],
+  "grade_band": "unclear",
+  "program_name": null,
+  "duration_months": 6,
+  "frequency": "weekly_or_more",
+  "bridging": "no",
+  "outcomes": {
+   "relationships_social": "positive",
+   "belonging_connectedness": "positive",
+   "self_efficacy_confidence": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Pilot online group sessions with mentors sharing disabilities; less loneliness, more community; quantitative trends only."
+ },
+ {
+  "id": "EJ938186",
+  "design": "quasi_experimental",
+  "rigor": 3,
+  "n_youth": 175,
+  "country": "unclear",
+  "setting": "unclear",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "urban",
+   "racial_ethnic_minority"
+  ],
+  "grade_band": "k12_mixed",
+  "program_name": "Cool Girls, Inc.",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "self_efficacy_confidence": "positive",
+   "psychosocial_other": "positive",
+   "relationships_social": "positive",
+   "behavior_delinquency": "positive"
+  },
+  "effect_sizes": [
+   {
+    "domain": "behavior_delinquency",
+    "metric": "or",
+    "value": 4,
+    "note": "mentored over four times likelier to expect avoiding drugs"
+   }
+  ],
+  "review_details": null,
+  "notes": "Non-equivalent comparison of girls' youth development program; mentored participants gained more in acceptance, body image."
+ },
+ {
+  "id": "EJ942844",
+  "design": "other",
+  "rigor": 2,
+  "n_youth": 16,
+  "country": "unclear",
+  "setting": "school_based",
+  "format": "one_to_one",
+  "mentor_type": "college_student",
+  "targets": [
+   "disability",
+   "at_risk_behavior"
+  ],
+  "grade_band": "k12_mixed",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "behavior_delinquency": "mixed"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Single-case data, preservice teacher mentors for students with EBD; behavior improved for only some."
+ },
+ {
+  "id": "EJ944163",
+  "design": "quasi_experimental",
+  "rigor": 3,
+  "n_youth": 50,
+  "country": "unclear",
+  "setting": "unclear",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "at_risk_behavior"
+  ],
+  "grade_band": "k12_mixed",
+  "program_name": null,
+  "duration_months": 60,
+  "frequency": "not_reported",
+  "bridging": "yes",
+  "outcomes": {
+   "academic_achievement": "positive",
+   "college_access_enrollment": "positive",
+   "graduation_persistence": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Year-five report of seven-year cohort; college visits, career activities linked to better perceptions, scores, perseverance."
+ },
+ {
+  "id": "EJ947363",
+  "design": "quasi_experimental",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "unclear",
+  "setting": "school_based",
+  "format": "peer_cross_age",
+  "mentor_type": "older_peer",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "middle",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "psychosocial_other": "positive",
+   "behavior_delinquency": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Peer mentoring raised emotional literacy for low-to-average mentees; attendance linked to fewer conduct problems."
+ },
+ {
+  "id": "EJ950346",
+  "design": "correlational",
+  "rigor": 3,
+  "n_youth": 60,
+  "country": "unclear",
+  "setting": "school_based",
+  "format": "peer_cross_age",
+  "mentor_type": "older_peer",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "elementary",
+  "program_name": "Chapel Buddy",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "belonging_connectedness": "positive",
+   "academic_achievement": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Sixth graders paired with kindergarteners for school year; relationship quality predicted adjustment for both."
+ }
+]

@@ -1,0 +1,205 @@
+[
+ {
+  "id": "EJ1338591",
+  "design": "correlational",
+  "rigor": 4,
+  "n_youth": 1955,
+  "country": "US",
+  "setting": "college_campus",
+  "format": "natural_mentor",
+  "mentor_type": "teacher_school_staff",
+  "targets": [
+   "girls_women_stem",
+   "stem_general"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "psychosocial_other": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Longitudinal regression: faculty mentorship associated with computing leadership identity; belonging was a predictor, not outcome."
+ },
+ {
+  "id": "EJ1345577",
+  "design": "pre_post",
+  "rigor": 2,
+  "n_youth": 80,
+  "country": "UK",
+  "setting": "college_campus",
+  "format": "group",
+  "mentor_type": "unclear",
+  "targets": [
+   "immigrant_ell"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": 4,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "academic_achievement": "positive",
+   "relationships_social": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Semester of peer-assisted learning with translanguaging; pre-post scores rose; qualitative reports of closer peer relationships."
+ },
+ {
+  "id": "EJ1346050",
+  "design": "correlational",
+  "rigor": 2,
+  "n_youth": null,
+  "country": "US",
+  "setting": "college_campus",
+  "format": "one_to_one",
+  "mentor_type": "teacher_school_staff",
+  "targets": [
+   "racial_ethnic_minority",
+   "stem_general"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "relationships_social": "positive",
+   "career_employment": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Faculty-mentored Hispanic STEM seniors; similarity and contact frequency related to mentorship quality, career commitment."
+ },
+ {
+  "id": "EJ1347418",
+  "design": "correlational",
+  "rigor": 2,
+  "n_youth": 189,
+  "country": "unclear",
+  "setting": "unclear",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "racial_ethnic_minority",
+   "stem_general"
+  ],
+  "grade_band": "high",
+  "program_name": null,
+  "duration_months": 1.6,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {
+   "college_access_enrollment": "positive",
+   "belonging_connectedness": "positive",
+   "psychosocial_other": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Longitudinal participant survey, no comparison group; research experience tied to STEM majors, mentoring to connection."
+ },
+ {
+  "id": "EJ1352826",
+  "design": "rct",
+  "rigor": 5,
+  "n_youth": 188,
+  "country": "US",
+  "setting": "community_based",
+  "format": "one_to_one",
+  "mentor_type": "adult_volunteer",
+  "targets": [
+   "at_risk_behavior",
+   "urban"
+  ],
+  "grade_band": "middle",
+  "program_name": "Big Brothers Big Sisters (Take Charge!)",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "self_efficacy_confidence": "positive",
+   "behavior_delinquency": "mixed",
+   "engagement_attendance": "null"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "RCT for assault-injured youth: less fighting, more parent-reported aggression; null commitment to learning."
+ },
+ {
+  "id": "EJ1353204",
+  "design": "review",
+  "rigor": 4,
+  "n_youth": null,
+  "country": "unclear",
+  "setting": "unclear",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "k12_mixed",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "mental_health": "positive",
+   "self_efficacy_confidence": "positive"
+  },
+  "effect_sizes": [
+   {
+    "domain": "mental_health",
+    "metric": "d",
+    "value": 0.2,
+    "note": "reduction in negative affect"
+   },
+   {
+    "domain": "mental_health",
+    "metric": "d",
+    "value": 0.45,
+    "note": "reduction in internalizing behavior"
+   },
+   {
+    "domain": "self_efficacy_confidence",
+    "metric": "d",
+    "value": 0.45,
+    "note": "increase in self-esteem"
+   }
+  ],
+  "review_details": {
+   "n_studies": null,
+   "pooled_metric": null,
+   "pooled_value": null
+  },
+  "notes": "Meta-analysis on school-aged youth emotional well-being; small-to-moderate overall benefit; study count not given."
+ },
+ {
+  "id": "EJ1354475",
+  "design": "other",
+  "rigor": 1,
+  "n_youth": null,
+  "country": "US",
+  "setting": "workplace_career",
+  "format": "mixed",
+  "mentor_type": "mixed",
+  "targets": [
+   "stem_general"
+  ],
+  "grade_band": "college",
+  "program_name": "Geo-Launchpad",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "yes",
+  "outcomes": {
+   "career_employment": "positive",
+   "psychosocial_other": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Summer pre-REU internship with multi-level mentoring, career exposure; evaluation reports interest, capacity, soft skills."
+ }
+]

@@ -1,0 +1,518 @@
+[
+ {
+  "id": "ED489958",
+  "design": "other",
+  "rigor": 1,
+  "n_youth": null,
+  "country": "US",
+  "setting": "unclear",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "at_risk_behavior"
+  ],
+  "grade_band": "high",
+  "program_name": "National Guard Youth Challenge Academy",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {
+   "graduation_persistence": "positive",
+   "academic_achievement": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Descriptive dissertation on graduation/GED rates and administrator survey; mentoring one of three components."
+ },
+ {
+  "id": "ED490840",
+  "design": "correlational",
+  "rigor": 4,
+  "n_youth": null,
+  "country": "US",
+  "setting": "workplace_career",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "high",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "yes",
+  "outcomes": {
+   "college_access_enrollment": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "National longitudinal survey of school-to-work activities; mentoring tied to more postsecondary schooling for men."
+ },
+ {
+  "design": "rct",
+  "rigor": 5,
+  "n_youth": 219,
+  "country": "US",
+  "setting": "school_based",
+  "format": "group",
+  "mentor_type": "adult_volunteer",
+  "targets": [
+   "at_risk_behavior"
+  ],
+  "grade_band": "middle",
+  "program_name": "Twelve Together",
+  "duration_months": 12,
+  "frequency": "weekly_or_more",
+  "bridging": "unclear",
+  "outcomes": {
+   "graduation_persistence": "positive",
+   "academic_achievement": "null"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Single randomized trial of weekly peer discussion groups; some benefit for staying in school, none for progress.",
+  "id": "ED495728"
+ },
+ {
+  "design": "rct",
+  "rigor": 5,
+  "n_youth": 1100,
+  "country": "US",
+  "setting": "unclear",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "at_risk_behavior"
+  ],
+  "grade_band": "high",
+  "program_name": "Quantum Opportunity Program",
+  "duration_months": 54,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {
+   "graduation_persistence": "null",
+   "academic_achievement": "null"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Randomized trial of multi-service program with mentoring component; no discernible effects on school progress or completion.",
+  "id": "ED497614"
+ },
+ {
+  "design": "rct",
+  "rigor": 5,
+  "n_youth": 2573,
+  "country": "US",
+  "setting": "school_based",
+  "format": "unclear",
+  "mentor_type": "adult_volunteer",
+  "targets": [
+   "at_risk_behavior"
+  ],
+  "grade_band": "k12_mixed",
+  "program_name": "Student Mentoring Program",
+  "duration_months": 9,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "academic_achievement": "null",
+   "engagement_attendance": "mixed",
+   "self_efficacy_confidence": "mixed",
+   "behavior_delinquency": "null",
+   "relationships_social": "mixed"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Randomized national evaluation found no overall impacts; scattered subgroup differences by gender and age.",
+  "id": "ED504310"
+ },
+ {
+  "id": "ED509889",
+  "design": "quasi_experimental",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "US",
+  "setting": "mixed",
+  "format": "one_to_one",
+  "mentor_type": "unclear",
+  "targets": [
+   "low_income"
+  ],
+  "grade_band": "high",
+  "program_name": "Washington State Achievers",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {
+   "college_access_enrollment": "positive",
+   "psychosocial_other": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Scholarship program with one-on-one mentoring; recipients fared better than non-recipients on early outcomes."
+ },
+ {
+  "design": "review",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "unclear",
+  "setting": "unclear",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "low_income",
+   "foster_care"
+  ],
+  "grade_band": "unclear",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {
+   "academic_achievement": "positive",
+   "career_employment": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": {
+   "n_studies": 31,
+   "pooled_metric": null,
+   "pooled_value": null
+  },
+  "notes": "Synthesis of 31 randomized evaluations for older youth; mentoring named as strategy linked with success.",
+  "id": "ED510690"
+ },
+ {
+  "id": "ED511479",
+  "design": "other",
+  "rigor": 1,
+  "n_youth": 50,
+  "country": "US",
+  "setting": "community_based",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "low_income"
+  ],
+  "grade_band": "unclear",
+  "program_name": "Cargill Scholars",
+  "duration_months": 60,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {
+   "academic_achievement": "positive",
+   "relationships_social": "positive",
+   "psychosocial_other": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Descriptive annual results for multi-component program; scholars doing well, no comparison group."
+ },
+ {
+  "design": "quasi_experimental",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "US",
+  "setting": "school_based",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "at_risk_behavior"
+  ],
+  "grade_band": "k12_mixed",
+  "program_name": "Student Mentoring Program",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "academic_achievement": "null",
+   "behavior_delinquency": "null",
+   "relationships_social": "null"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Federal grant-funded school programs showed no significant student-level impacts after one school year; brief summary.",
+  "id": "ED511780"
+ },
+ {
+  "design": "quasi_experimental",
+  "rigor": 3,
+  "n_youth": 44,
+  "country": "US",
+  "setting": "school_based",
+  "format": "peer_cross_age",
+  "mentor_type": "older_peer",
+  "targets": [
+   "disability"
+  ],
+  "grade_band": "high",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "psychosocial_other": "null"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Self-determination lessons helped students; adding a school peer mentoring program gave no extra benefit.",
+  "id": "ED513771"
+ },
+ {
+  "design": "quasi_experimental",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "US",
+  "setting": "college_campus",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "college",
+  "program_name": "Beacon Mentoring Program",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "academic_achievement": "mixed",
+   "engagement_attendance": "positive",
+   "graduation_persistence": "mixed"
+  },
+  "effect_sizes": [
+   {
+    "domain": "academic_achievement",
+    "metric": "pct_points",
+    "value": 6.6,
+    "note": "math pass rate, part-time students, program over controls"
+   }
+  ],
+  "review_details": null,
+  "notes": "Campus mentoring raised tutoring use, cut math withdrawals; overall pass rates unchanged, subgroups gained.",
+  "id": "ED517927"
+ },
+ {
+  "design": "other",
+  "rigor": 1,
+  "n_youth": null,
+  "country": "unclear",
+  "setting": "college_campus",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {},
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Leadership development program with mentoring among community college undergraduates; abstract states aims, not results.",
+  "id": "ED519092"
+ },
+ {
+  "id": "ED519114",
+  "design": "rct",
+  "rigor": 5,
+  "n_youth": null,
+  "country": "UK",
+  "setting": "school_based",
+  "format": "one_to_one",
+  "mentor_type": "adult_volunteer",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "elementary",
+  "program_name": "Time to Read",
+  "duration_months": null,
+  "frequency": "weekly_or_more",
+  "bridging": "no",
+  "outcomes": {
+   "academic_achievement": "positive",
+   "psychosocial_other": "mixed",
+   "self_efficacy_confidence": "null"
+  },
+  "effect_sizes": [
+   {
+    "domain": "psychosocial_other",
+    "metric": "d",
+    "value": 0.17,
+    "note": "aspirations, first trial; metric unstated"
+   }
+  ],
+  "review_details": null,
+  "notes": "Follow-up trial in 50 Northern Ireland schools; reading gains clear, aspirations effect only in earlier trial."
+ },
+ {
+  "id": "ED519394",
+  "design": "correlational",
+  "rigor": 2,
+  "n_youth": null,
+  "country": "US",
+  "setting": "school_based",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "urban"
+  ],
+  "grade_band": "middle",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {},
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Cross-sectional survey of Boston eighth graders; mentorship a minor variable, literacy instruction strongest predictor of efficacy."
+ },
+ {
+  "design": "review",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "US",
+  "setting": "unclear",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "unclear",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {},
+  "effect_sizes": [],
+  "review_details": {
+   "n_studies": null,
+   "pooled_metric": null,
+   "pooled_value": null
+  },
+  "notes": "Narrative review: close, enduring relationships work best; programs show modest, inconsistent effects; policy recommendations.",
+  "id": "ED521751"
+ },
+ {
+  "design": "pre_post",
+  "rigor": 2,
+  "n_youth": 68,
+  "country": "US",
+  "setting": "school_based",
+  "format": "one_to_one",
+  "mentor_type": "unclear",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "k12_mixed",
+  "program_name": "One-to-One Mentoring Initiative",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "academic_achievement": "mixed",
+   "engagement_attendance": "mixed",
+   "behavior_delinquency": "mixed"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Small three-year school evaluation with unexpected results; longer matches linked to fewer unexcused absences.",
+  "id": "ED523166"
+ },
+ {
+  "design": "quasi_experimental",
+  "rigor": 3,
+  "n_youth": 317,
+  "country": "other",
+  "setting": "workplace_career",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "out_of_school",
+  "program_name": null,
+  "duration_months": 12,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {
+   "career_employment": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Coached young entrepreneurs outscored information-only group on employability skills in survey comparison.",
+  "id": "ED529061"
+ },
+ {
+  "design": "correlational",
+  "rigor": 2,
+  "n_youth": null,
+  "country": "US",
+  "setting": "college_campus",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "at_risk_behavior"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "graduation_persistence": "mixed"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Action research on freshman retention; mentoring helped retain some students at specific non-cognitive risk levels.",
+  "id": "ED534670"
+ },
+ {
+  "design": "review",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "US",
+  "setting": "unclear",
+  "format": "one_to_one",
+  "mentor_type": "unclear",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "k12_mixed",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {},
+  "effect_sizes": [],
+  "review_details": {
+   "n_studies": null,
+   "pooled_metric": null,
+   "pooled_value": null
+  },
+  "notes": "Short district research summary of mentoring impacts and relationship characteristics; no pooled estimates or result directions stated.",
+  "id": "ED541087"
+ },
+ {
+  "design": "pre_post",
+  "rigor": 2,
+  "n_youth": null,
+  "country": "US",
+  "setting": "unclear",
+  "format": "one_to_one",
+  "mentor_type": "unclear",
+  "targets": [
+   "at_risk_behavior"
+  ],
+  "grade_band": "unclear",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {},
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Executive summary of risk-profile study of program-assigned mentors; no outcome directions or design details given.",
+  "id": "ED544230"
+ }
+]

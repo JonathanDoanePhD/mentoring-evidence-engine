@@ -1,0 +1,680 @@
+[
+ {
+  "id": "ED390973",
+  "design": "rct",
+  "rigor": 5,
+  "n_youth": 959,
+  "country": "US",
+  "setting": "community_based",
+  "format": "one_to_one",
+  "mentor_type": "adult_volunteer",
+  "targets": [
+   "low_income",
+   "at_risk_behavior"
+  ],
+  "grade_band": "k12_mixed",
+  "program_name": "Big Brothers Big Sisters",
+  "duration_months": 18,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "behavior_delinquency": "positive",
+   "academic_achievement": "positive",
+   "engagement_attendance": "positive",
+   "relationships_social": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Randomized waitlist trial across eight sites; 18-month follow-up showed less substance use and fighting, better school and relationships."
+ },
+ {
+  "id": "ED391138",
+  "design": "review",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "Canada",
+  "setting": "school_based",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "at_risk_behavior"
+  ],
+  "grade_band": "high",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {},
+  "effect_sizes": [],
+  "review_details": {
+   "n_studies": null,
+   "pooled_metric": null,
+   "pooled_value": null
+  },
+  "notes": "Narrative overview of formal mentoring for dropout-risk students; evidence of effectiveness judged promising but unproven."
+ },
+ {
+  "id": "ED394094",
+  "design": "pre_post",
+  "rigor": 2,
+  "n_youth": 25,
+  "country": "US",
+  "setting": "school_based",
+  "format": "mixed",
+  "mentor_type": "teacher_school_staff",
+  "targets": [
+   "racial_ethnic_minority",
+   "at_risk_behavior"
+  ],
+  "grade_band": "middle",
+  "program_name": null,
+  "duration_months": 3,
+  "frequency": "weekly_or_more",
+  "bridging": "unclear",
+  "outcomes": {
+   "behavior_delinquency": "mixed",
+   "academic_achievement": "null"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Small group counseling plus mentor pairing for minority boys; only the behavior-change objective was reached."
+ },
+ {
+  "id": "ED395083",
+  "design": "pre_post",
+  "rigor": 2,
+  "n_youth": null,
+  "country": "US",
+  "setting": "school_based",
+  "format": "one_to_one",
+  "mentor_type": "college_student",
+  "targets": [
+   "at_risk_behavior",
+   "urban",
+   "racial_ethnic_minority"
+  ],
+  "grade_band": "elementary",
+  "program_name": "School-University Partnership (Rodriguez Elementary)",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "self_efficacy_confidence": "null"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "College students mentored at-risk elementary pupils; self-concept pre-post gains trended positive but were not significant."
+ },
+ {
+  "id": "ED403319",
+  "design": "other",
+  "rigor": 1,
+  "n_youth": 26,
+  "country": "US",
+  "setting": "school_based",
+  "format": "peer_cross_age",
+  "mentor_type": "older_peer",
+  "targets": [
+   "at_risk_behavior",
+   "racial_ethnic_minority"
+  ],
+  "grade_band": "high",
+  "program_name": "Austin Youth River Watch",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {
+   "graduation_persistence": "positive",
+   "academic_achievement": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Paid student mentors tutored at-risk minority teens in water monitoring; descriptive retention and GPA outcomes only."
+ },
+ {
+  "id": "ED404410",
+  "design": "review",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "US",
+  "setting": "community_based",
+  "format": "one_to_one",
+  "mentor_type": "adult_volunteer",
+  "targets": [
+   "urban"
+  ],
+  "grade_band": "k12_mixed",
+  "program_name": "Big Brothers Big Sisters",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {},
+  "effect_sizes": [],
+  "review_details": {
+   "n_studies": 10,
+   "pooled_metric": null,
+   "pooled_value": null
+  },
+  "notes": "Narrative synthesis of a research organization own mentoring studies; stresses trust and mentor support, cites BBBS impact."
+ },
+ {
+  "id": "ED405240",
+  "design": "pre_post",
+  "rigor": 2,
+  "n_youth": 9,
+  "country": "US",
+  "setting": "school_based",
+  "format": "peer_cross_age",
+  "mentor_type": "older_peer",
+  "targets": [
+   "at_risk_behavior"
+  ],
+  "grade_band": "elementary",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "behavior_delinquency": "positive",
+   "relationships_social": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Art-class peer mentorship for behaviorally difficult fifth graders; all objectives reported met in pre-post checks."
+ },
+ {
+  "id": "ED412005",
+  "design": "pre_post",
+  "rigor": 2,
+  "n_youth": null,
+  "country": "US",
+  "setting": "school_based",
+  "format": "peer_cross_age",
+  "mentor_type": "older_peer",
+  "targets": [
+   "urban"
+  ],
+  "grade_band": "elementary",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "relationships_social": "positive",
+   "psychosocial_other": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Multi-component social skills program including peer mentors; mentoring one ingredient; skills improved, achievement not directly reported."
+ },
+ {
+  "id": "ED412269",
+  "design": "pre_post",
+  "rigor": 2,
+  "n_youth": 95,
+  "country": "US",
+  "setting": "school_based",
+  "format": "one_to_one",
+  "mentor_type": "college_student",
+  "targets": [
+   "at_risk_behavior"
+  ],
+  "grade_band": "k12_mixed",
+  "program_name": "Project SOAR",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "yes",
+  "outcomes": {
+   "engagement_attendance": "positive",
+   "behavior_delinquency": "positive",
+   "academic_achievement": "null",
+   "self_efficacy_confidence": "positive",
+   "college_access_enrollment": "positive",
+   "career_employment": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Education-major mentors supported at-risk middle and high schoolers; attendance and confidence improved, overall GPA did not."
+ },
+ {
+  "id": "ED412652",
+  "design": "pre_post",
+  "rigor": 2,
+  "n_youth": 12,
+  "country": "US",
+  "setting": "school_based",
+  "format": "one_to_one",
+  "mentor_type": "teacher_school_staff",
+  "targets": [
+   "at_risk_behavior"
+  ],
+  "grade_band": "high",
+  "program_name": null,
+  "duration_months": 3,
+  "frequency": "weekly_or_more",
+  "bridging": "no",
+  "outcomes": {
+   "behavior_delinquency": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Faculty mentors met weekly with tenth graders; suspensions and infractions fell as targeted."
+ },
+ {
+  "id": "ED416755",
+  "design": "quasi_experimental",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "US",
+  "setting": "workplace_career",
+  "format": "mixed",
+  "mentor_type": "mixed",
+  "targets": [
+   "first_generation",
+   "urban"
+  ],
+  "grade_band": "college",
+  "program_name": "Early Employee Selector Program",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "yes",
+  "outcomes": {
+   "academic_achievement": "positive",
+   "graduation_persistence": "positive",
+   "career_employment": "positive"
+  },
+  "effect_sizes": [
+   {
+    "domain": "career_employment",
+    "metric": "pct_points",
+    "value": 15,
+    "note": "100% continued or employed vs 85% co-op comparison"
+   }
+  ],
+  "review_details": null,
+  "notes": "Co-op plus workplace and college mentors; completers beat co-op students on placement or continued study."
+ },
+ {
+  "id": "ED417241",
+  "design": "review",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "US",
+  "setting": "unclear",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "at_risk_behavior",
+   "urban"
+  ],
+  "grade_band": "k12_mixed",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {},
+  "effect_sizes": [],
+  "review_details": {
+   "n_studies": null,
+   "pooled_metric": null,
+   "pooled_value": null
+  },
+  "notes": "Broad narrative review of youth violence prevention; some mentoring programs classed among less effective approaches."
+ },
+ {
+  "id": "ED418609",
+  "design": "quasi_experimental",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "US",
+  "setting": "college_campus",
+  "format": "group",
+  "mentor_type": "college_student",
+  "targets": [
+   "at_risk_behavior"
+  ],
+  "grade_band": "college",
+  "program_name": "IUPUI student mentoring",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "academic_achievement": "positive",
+   "graduation_persistence": "positive"
+  },
+  "effect_sizes": [
+   {
+    "domain": "graduation_persistence",
+    "metric": "pct_points",
+    "value": 15,
+    "note": "retention up to 15 percent; maximum, group rates not given"
+   },
+   {
+    "domain": "academic_achievement",
+    "metric": "other",
+    "value": 0.5,
+    "note": "up to half grade point on average"
+   }
+  ],
+  "review_details": null,
+  "notes": "One of five support programs; trained student mentors with groups raised grades and retention most among them."
+ },
+ {
+  "id": "ED419028",
+  "design": "quasi_experimental",
+  "rigor": 3,
+  "n_youth": 40,
+  "country": "US",
+  "setting": "school_based",
+  "format": "group",
+  "mentor_type": "adult_volunteer",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "elementary",
+  "program_name": null,
+  "duration_months": 6,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "academic_achievement": "null",
+   "behavior_delinquency": "null",
+   "self_efficacy_confidence": "null"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Mentored pupils versus 40 comparison pupils showed no significant test or behavior differences; surveys perceived growth."
+ },
+ {
+  "id": "ED420735",
+  "design": "quasi_experimental",
+  "rigor": 3,
+  "n_youth": 100,
+  "country": "US",
+  "setting": "community_based",
+  "format": "mixed",
+  "mentor_type": "adult_volunteer",
+  "targets": [
+   "low_income",
+   "racial_ethnic_minority",
+   "urban"
+  ],
+  "grade_band": "high",
+  "program_name": "Quantum Opportunities Program",
+  "duration_months": 48,
+  "frequency": "weekly_or_more",
+  "bridging": "yes",
+  "outcomes": {
+   "academic_achievement": "positive",
+   "graduation_persistence": "positive",
+   "college_access_enrollment": "positive",
+   "psychosocial_other": "positive",
+   "career_employment": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Four-year multi-component program with lasting adult mentors; participants outperformed sampled peers on skills, graduation and postsecondary entry."
+ },
+ {
+  "id": "ED423593",
+  "design": "pre_post",
+  "rigor": 2,
+  "n_youth": null,
+  "country": "US",
+  "setting": "school_based",
+  "format": "mixed",
+  "mentor_type": "mixed",
+  "targets": [
+   "at_risk_behavior",
+   "racial_ethnic_minority"
+  ],
+  "grade_band": "high",
+  "program_name": "Partnership Academy",
+  "duration_months": 24,
+  "frequency": "not_reported",
+  "bridging": "yes",
+  "outcomes": {
+   "engagement_attendance": "positive",
+   "academic_achievement": "positive",
+   "graduation_persistence": "positive",
+   "college_access_enrollment": "positive",
+   "career_employment": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "School-within-school academy with employer mentoring and job shadowing; mentoring minor component; favorable indicators on all measures."
+ },
+ {
+  "id": "ED424911",
+  "design": "pre_post",
+  "rigor": 2,
+  "n_youth": null,
+  "country": "US",
+  "setting": "school_based",
+  "format": "peer_cross_age",
+  "mentor_type": "older_peer",
+  "targets": [
+   "at_risk_behavior"
+  ],
+  "grade_band": "middle",
+  "program_name": null,
+  "duration_months": 8,
+  "frequency": "weekly_or_more",
+  "bridging": "no",
+  "outcomes": {
+   "behavior_delinquency": "positive",
+   "engagement_attendance": "positive",
+   "academic_achievement": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Older students mentored and tutored incoming sixth graders; referrals and absences fell."
+ },
+ {
+  "id": "ED427201",
+  "design": "correlational",
+  "rigor": 2,
+  "n_youth": 1020,
+  "country": "US",
+  "setting": "unclear",
+  "format": "mixed",
+  "mentor_type": "mixed",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "middle",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "yes",
+  "outcomes": {
+   "career_employment": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Statewide survey of career activities; talking with adults linked to clearer career interest; mentoring only peripheral."
+ },
+ {
+  "id": "ED429244",
+  "design": "pre_post",
+  "rigor": 2,
+  "n_youth": null,
+  "country": "US",
+  "setting": "school_based",
+  "format": "one_to_one",
+  "mentor_type": "adult_volunteer",
+  "targets": [
+   "at_risk_behavior"
+  ],
+  "grade_band": "high",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "psychosocial_other": "positive",
+   "relationships_social": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Parenting classes, home visits and mentors for teen mothers; knowledge, sensitivity and perceived support rose."
+ },
+ {
+  "id": "ED429260",
+  "design": "quasi_experimental",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "US",
+  "setting": "school_based",
+  "format": "one_to_one",
+  "mentor_type": "adult_volunteer",
+  "targets": [
+   "at_risk_behavior"
+  ],
+  "grade_band": "elementary",
+  "program_name": "Lunch Buddies and Caring Adult",
+  "duration_months": null,
+  "frequency": "weekly_or_more",
+  "bridging": "no",
+  "outcomes": {
+   "academic_achievement": "mixed",
+   "engagement_attendance": "mixed",
+   "self_efficacy_confidence": "mixed",
+   "relationships_social": "mixed",
+   "psychosocial_other": "mixed"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Teacher ratings compared two volunteer programs with nonparticipants; lunch buddies better on attitudes, tutoring group on test change."
+ },
+ {
+  "id": "ED430096",
+  "design": "other",
+  "rigor": 1,
+  "n_youth": null,
+  "country": "US",
+  "setting": "school_based",
+  "format": "peer_cross_age",
+  "mentor_type": "older_peer",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "k12_mixed",
+  "program_name": "PALS (FFA)",
+  "duration_months": null,
+  "frequency": "weekly_or_more",
+  "bridging": "no",
+  "outcomes": {
+   "psychosocial_other": "positive",
+   "self_efficacy_confidence": "positive",
+   "engagement_attendance": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Site visits and surveys of high-schooler mentors for younger pupils; attitudes and self-esteem improved, sustainability weak."
+ },
+ {
+  "id": "ED431062",
+  "design": "other",
+  "rigor": 1,
+  "n_youth": null,
+  "country": "US",
+  "setting": "community_based",
+  "format": "one_to_one",
+  "mentor_type": "adult_volunteer",
+  "targets": [
+   "at_risk_behavior",
+   "urban"
+  ],
+  "grade_band": "k12_mixed",
+  "program_name": "Juvenile Mentoring Program (JUMP)",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "behavior_delinquency": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Descriptive federal report of 93 projects; self-reported benefits including less substance use and fighting."
+ },
+ {
+  "id": "ED433320",
+  "design": "quasi_experimental",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "US",
+  "setting": "school_based",
+  "format": "one_to_one",
+  "mentor_type": "adult_volunteer",
+  "targets": [
+   "at_risk_behavior"
+  ],
+  "grade_band": "k12_mixed",
+  "program_name": "California Academic Volunteer and Mentor Service Program",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "academic_achievement": "mixed",
+   "engagement_attendance": "mixed",
+   "behavior_delinquency": "mixed"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Treatment-comparison analysis of volunteer academic mentoring; only weak, school-specific benefits found."
+ },
+ {
+  "id": "ED434287",
+  "design": "quasi_experimental",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "US",
+  "setting": "community_based",
+  "format": "one_to_one",
+  "mentor_type": "adult_volunteer",
+  "targets": [
+   "low_income",
+   "at_risk_behavior"
+  ],
+  "grade_band": "high",
+  "program_name": "Sister Friend",
+  "duration_months": 6,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "psychosocial_other": "positive",
+   "relationships_social": "positive",
+   "engagement_attendance": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Small comparison study of teen mothers with mentors versus services only; mentored group had better parenting and child outcomes."
+ },
+ {
+  "id": "ED434299",
+  "design": "pre_post",
+  "rigor": 2,
+  "n_youth": null,
+  "country": "US",
+  "setting": "school_based",
+  "format": "peer_cross_age",
+  "mentor_type": "older_peer",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "elementary",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "academic_achievement": "positive",
+   "behavior_delinquency": "positive",
+   "relationships_social": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Social skills curriculum with peer mentoring as one part; behavior and academic gains reported after intervention."
+ }
+]

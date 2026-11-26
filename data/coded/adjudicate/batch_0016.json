@@ -1,0 +1,292 @@
+[
+ {
+  "id": "EJ1073273",
+  "n_youth": null,
+  "country": "US",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "effect_sizes": [],
+  "review_details": null,
+  "design": "pre_post",
+  "rigor": 2,
+  "setting": "college_campus",
+  "format": "peer_cross_age",
+  "mentor_type": "older_peer",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "college",
+  "outcomes": {
+   "academic_achievement": "mixed"
+  },
+  "notes": "Paired tests and regressions: fully engaged students gained in performance, but gains flattened without further intervention."
+ },
+ {
+  "id": "EJ1076139",
+  "n_youth": null,
+  "country": "US",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "effect_sizes": [],
+  "review_details": null,
+  "design": "other",
+  "rigor": 1,
+  "setting": "college_campus",
+  "format": "peer_cross_age",
+  "mentor_type": "college_student",
+  "targets": [
+   "stem_general"
+  ],
+  "grade_band": "college",
+  "outcomes": {
+   "engagement_attendance": "positive",
+   "career_employment": "positive"
+  },
+  "notes": "Seniors supervised freshmen on capstone pieces; over 90% found it worthwhile, career learning; no comparison."
+ },
+ {
+  "id": "EJ1076285",
+  "n_youth": 139,
+  "country": "US",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "effect_sizes": [],
+  "review_details": null,
+  "design": "correlational",
+  "rigor": 4,
+  "setting": "college_campus",
+  "format": "unclear",
+  "mentor_type": "teacher_school_staff",
+  "targets": [
+   "racial_ethnic_minority",
+   "urban"
+  ],
+  "grade_band": "college",
+  "outcomes": {
+   "graduation_persistence": "null"
+  },
+  "notes": "Faculty mentorship not a significant persistence predictor; only utility value and self-efficacy were."
+ },
+ {
+  "id": "EJ1077444",
+  "n_youth": 231,
+  "country": "Australia",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "effect_sizes": [],
+  "review_details": null,
+  "design": "pre_post",
+  "rigor": 2,
+  "setting": "college_campus",
+  "format": "group",
+  "mentor_type": "college_student",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "college",
+  "outcomes": {
+   "psychosocial_other": "positive"
+  },
+  "notes": "In-class third-year peer mentors; first-years' self-rated psychological literacy rose on 8 of 9 areas."
+ },
+ {
+  "id": "EJ1078100",
+  "n_youth": 315,
+  "country": "US",
+  "program_name": "Campus Corps",
+  "duration_months": 3,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "effect_sizes": [],
+  "review_details": null,
+  "design": "quasi_experimental",
+  "rigor": 4,
+  "setting": "community_based",
+  "format": "unclear",
+  "mentor_type": "college_student",
+  "targets": [
+   "at_risk_behavior",
+   "juvenile_justice"
+  ],
+  "grade_band": "k12_mixed",
+  "outcomes": {
+   "behavior_delinquency": "positive",
+   "psychosocial_other": "mixed"
+  },
+  "notes": "Covariate-adjusted comparison: less problem behavior, marijuana autonomy better; no difference for refusal skills or alcohol."
+ },
+ {
+  "id": "EJ1085444",
+  "n_youth": null,
+  "country": "US",
+  "program_name": "4-H Tech Wizards",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "effect_sizes": [],
+  "review_details": null,
+  "design": "pre_post",
+  "rigor": 2,
+  "setting": "community_based",
+  "format": "group",
+  "mentor_type": "unclear",
+  "targets": [
+   "low_income"
+  ],
+  "grade_band": "unclear",
+  "outcomes": {},
+  "notes": "Start and end relationship-quality questionnaires in small group Extension mentoring; no outcome direction stated."
+ },
+ {
+  "id": "EJ1085545",
+  "n_youth": 228,
+  "country": "US",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "effect_sizes": [],
+  "review_details": null,
+  "design": "correlational",
+  "rigor": 3,
+  "setting": "unclear",
+  "format": "natural_mentor",
+  "mentor_type": "natural_informal",
+  "targets": [
+   "disability"
+  ],
+  "grade_band": "high",
+  "outcomes": {
+   "psychosocial_other": "positive"
+  },
+  "notes": "Cross-sectional relationships and adjustment among high schoolers with disabilities; mentors predicted life satisfaction."
+ },
+ {
+  "id": "EJ1087237",
+  "n_youth": 167,
+  "country": "other",
+  "program_name": "Perach",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "effect_sizes": [],
+  "review_details": null,
+  "design": "correlational",
+  "rigor": 3,
+  "setting": "community_based",
+  "format": "one_to_one",
+  "mentor_type": "unclear",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "elementary",
+  "outcomes": {
+   "psychosocial_other": "mixed"
+  },
+  "notes": "Israel; protege personality traits linked positively or negatively to relationship quality and end adjustment."
+ },
+ {
+  "id": "EJ1087832",
+  "n_youth": null,
+  "country": "unclear",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "effect_sizes": [],
+  "review_details": null,
+  "design": "quasi_experimental",
+  "rigor": 3,
+  "setting": "mixed",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "unclear",
+  "outcomes": {
+   "academic_achievement": "null"
+  },
+  "notes": "Chat-based versus face-to-face mentoring in an epistemic game; learning comparable across modes."
+ },
+ {
+  "id": "EJ1088389",
+  "n_youth": null,
+  "country": "US",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "effect_sizes": [],
+  "review_details": {
+   "n_studies": null,
+   "pooled_metric": null,
+   "pooled_value": null
+  },
+  "design": "review",
+  "rigor": 3,
+  "setting": "school_based",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "middle",
+  "outcomes": {},
+  "notes": "Narrative review of school-based mentoring practices, with case of two randomized evaluations; no results stated."
+ },
+ {
+  "id": "EJ1095173",
+  "n_youth": null,
+  "country": "US",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "effect_sizes": [],
+  "review_details": null,
+  "design": "other",
+  "rigor": 1,
+  "setting": "school_based",
+  "format": "unclear",
+  "mentor_type": "college_student",
+  "targets": [
+   "stem_general"
+  ],
+  "grade_band": "k12_mixed",
+  "outcomes": {},
+  "notes": "Teacher candidates mentored fourth and eighth graders on science fair projects; abstract gives aim only."
+ },
+ {
+  "id": "EJ1095479",
+  "n_youth": 238,
+  "country": "unclear",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "effect_sizes": [],
+  "review_details": null,
+  "design": "correlational",
+  "rigor": 3,
+  "setting": "college_campus",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "racial_ethnic_minority"
+  ],
+  "grade_band": "college",
+  "outcomes": {
+   "psychosocial_other": "mixed"
+  },
+  "notes": "Cultural fit and mentoring predicting college and life satisfaction; relationships differed by site and mentor status."
+ }
+]

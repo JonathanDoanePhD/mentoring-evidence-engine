@@ -1,0 +1,7 @@
+domain,n_effects,n_studies,median,p25,p75,n_with_sample_size,pooled_re,pooled_re_low,pooled_re_high,tau2,rct_median,rct_n
+academic_achievement,13,5,0.240,0.150,0.330,11,0.271,0.212,0.330,0.001,0.220,7
+behavior_delinquency,2,1,0.390,0.350,0.430,2,,,,,0.390,2
+engagement_attendance,3,1,-0.120,-0.170,0.010,3,-0.067,-0.277,0.144,0.023,-0.120,3
+psychosocial_other,7,5,0.359,0.140,0.424,6,0.247,0.005,0.489,0.051,0.140,4
+relationships_social,1,1,-0.100,-0.100,-0.100,1,,,,,-0.100,1
+self_efficacy_confidence,1,1,0.130,0.130,0.130,0,,,,,,0

@@ -1,0 +1,378 @@
+[
+ {
+  "id": "EJ837242",
+  "design": "pre_post",
+  "rigor": 2,
+  "n_youth": null,
+  "country": "US",
+  "setting": "school_based",
+  "format": "peer_cross_age",
+  "mentor_type": "older_peer",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "high",
+  "program_name": "Cathedral peer program",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "graduation_persistence": "positive"
+  },
+  "effect_sizes": [
+   {
+    "domain": "graduation_persistence",
+    "metric": "other",
+    "value": 10,
+    "note": "transfer rate fell 10% since 1986; no comparison"
+   }
+  ],
+  "review_details": null,
+  "notes": "Senior-to-freshman transition mentoring; pre/post surveys positive; school transfer rate declined since program began."
+ },
+ {
+  "id": "EJ839770",
+  "design": "quasi_experimental",
+  "rigor": 3,
+  "n_youth": 35,
+  "country": "US",
+  "setting": "college_campus",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "racial_ethnic_minority"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "graduation_persistence": "positive",
+   "academic_achievement": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Mentored paraprofessional cohort at Hispanic-serving two-year college versus control; higher retention, completion, success."
+ },
+ {
+  "id": "EJ840893",
+  "design": "other",
+  "rigor": 1,
+  "n_youth": null,
+  "country": "US",
+  "setting": "college_campus",
+  "format": "unclear",
+  "mentor_type": "teacher_school_staff",
+  "targets": [
+   "stem_general"
+  ],
+  "grade_band": "college",
+  "program_name": "HHURP",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {
+   "self_efficacy_confidence": "positive",
+   "academic_achievement": "positive",
+   "college_access_enrollment": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Faculty-mentored undergraduate research plus seminar; evaluations, interviews, alumni survey report confidence, literacy, graduate admission."
+ },
+ {
+  "id": "EJ842834",
+  "design": "pre_post",
+  "rigor": 2,
+  "n_youth": null,
+  "country": "US",
+  "setting": "school_based",
+  "format": "peer_cross_age",
+  "mentor_type": "older_peer",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "middle",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "relationships_social": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Relational aggression program for middle school girls with high school mentors; pre-post relationship skill gains."
+ },
+ {
+  "id": "EJ845710",
+  "design": "other",
+  "rigor": 1,
+  "n_youth": null,
+  "country": "US",
+  "setting": "college_campus",
+  "format": "group",
+  "mentor_type": "unclear",
+  "targets": [
+   "racial_ethnic_minority"
+  ],
+  "grade_band": "college",
+  "program_name": "African Atlantic Research Team",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {
+   "graduation_persistence": "positive",
+   "college_access_enrollment": "positive"
+  },
+  "effect_sizes": [
+   {
+    "domain": "graduation_persistence",
+    "metric": "other",
+    "value": 95,
+    "note": "percent completed bachelor's degree; no comparison"
+   },
+   {
+    "domain": "college_access_enrollment",
+    "metric": "other",
+    "value": 80,
+    "note": "percent applied to graduate study; no comparison"
+   }
+  ],
+  "review_details": null,
+  "notes": "Small case study of collective research team mentoring underrepresented students toward doctoral study over ten years."
+ },
+ {
+  "id": "EJ856083",
+  "design": "correlational",
+  "rigor": 2,
+  "n_youth": 60,
+  "country": "unclear",
+  "setting": "unclear",
+  "format": "natural_mentor",
+  "mentor_type": "natural_informal",
+  "targets": [
+   "low_income",
+   "urban"
+  ],
+  "grade_band": "high",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {},
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Survey of girls with healthcare aspirations; more mentor sources and contexts linked to more mentoring functions."
+ },
+ {
+  "id": "EJ860814",
+  "design": "pre_post",
+  "rigor": 2,
+  "n_youth": 16,
+  "country": "US",
+  "setting": "school_based",
+  "format": "one_to_one",
+  "mentor_type": "adult_volunteer",
+  "targets": [
+   "at_risk_behavior"
+  ],
+  "grade_band": "elementary",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "relationships_social": "positive",
+   "behavior_delinquency": "positive",
+   "academic_achievement": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Volunteer mentoring for 16 children at risk of EBD; ratings show better social competence, behavior, grades."
+ },
+ {
+  "id": "EJ864841",
+  "design": "correlational",
+  "rigor": 3,
+  "n_youth": 213,
+  "country": "US",
+  "setting": "school_based",
+  "format": "natural_mentor",
+  "mentor_type": "natural_informal",
+  "targets": [
+   "racial_ethnic_minority",
+   "urban",
+   "at_risk_behavior"
+  ],
+  "grade_band": "middle",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "behavior_delinquency": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Sixth graders in persistently dangerous schools; lacking nonparental adult mentor associated with more fighting."
+ },
+ {
+  "id": "EJ870342",
+  "design": "other",
+  "rigor": 2,
+  "n_youth": 3,
+  "country": "unclear",
+  "setting": "unclear",
+  "format": "peer_cross_age",
+  "mentor_type": "unclear",
+  "targets": [
+   "at_risk_behavior"
+  ],
+  "grade_band": "unclear",
+  "program_name": "Peer Engagement Program",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "relationships_social": "positive",
+   "mental_health": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Multiple-baseline single-subject study; peer mentoring plus social skills training raised interaction, improved CBCL, SSRS."
+ },
+ {
+  "id": "EJ876890",
+  "design": "correlational",
+  "rigor": 2,
+  "n_youth": 200,
+  "country": "unclear",
+  "setting": "unclear",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "at_risk_behavior"
+  ],
+  "grade_band": "unclear",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "behavior_delinquency": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Residential care file review; more off-grounds passes with adult weakly associated with fewer runaways."
+ },
+ {
+  "id": "EJ878310",
+  "design": "other",
+  "rigor": 1,
+  "n_youth": null,
+  "country": "US",
+  "setting": "mixed",
+  "format": "peer_cross_age",
+  "mentor_type": "college_student",
+  "targets": [
+   "racial_ethnic_minority",
+   "at_risk_behavior",
+   "stem_general"
+  ],
+  "grade_band": "middle",
+  "program_name": "Project BEST",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {
+   "academic_achievement": "positive",
+   "psychosocial_other": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Two-tier faculty-college-middle school mentoring with math/science enrichment; reported achievement gains, no design details."
+ },
+ {
+  "id": "EJ885052",
+  "design": "other",
+  "rigor": 1,
+  "n_youth": null,
+  "country": "other",
+  "setting": "online",
+  "format": "peer_cross_age",
+  "mentor_type": "unclear",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "graduation_persistence": "positive"
+  },
+  "effect_sizes": [
+   {
+    "domain": "graduation_persistence",
+    "metric": "other",
+    "value": 20,
+    "note": "apparent retention gains up to 20%; basis unclear"
+   }
+  ],
+  "review_details": null,
+  "notes": "Three student-student mentoring projects in UK, Korea, New Zealand distance education; apparent retention gains."
+ },
+ {
+  "id": "EJ889307",
+  "design": "correlational",
+  "rigor": 4,
+  "n_youth": null,
+  "country": "unclear",
+  "setting": "unclear",
+  "format": "natural_mentor",
+  "mentor_type": "natural_informal",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "k12_mixed",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "academic_achievement": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Nationally representative data; informal mentors, especially teachers, predict educational success, more for disadvantaged youth."
+ },
+ {
+  "id": "EJ889539",
+  "design": "quasi_experimental",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "unclear",
+  "setting": "college_campus",
+  "format": "group",
+  "mentor_type": "unclear",
+  "targets": [
+   "stem_general"
+  ],
+  "grade_band": "college",
+  "program_name": "Entering Research",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {
+   "self_efficacy_confidence": "positive",
+   "academic_achievement": "positive",
+   "belonging_connectedness": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Course for beginning STEM undergraduate researchers; larger skill, knowledge, confidence gains than control researchers."
+ }
+]

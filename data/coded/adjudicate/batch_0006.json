@@ -1,0 +1,263 @@
+[
+ {
+  "id": "ED511780",
+  "design": "quasi_experimental",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "US",
+  "setting": "school_based",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "at_risk_behavior"
+  ],
+  "grade_band": "k12_mixed",
+  "program_name": "Student Mentoring Program",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "academic_achievement": "null",
+   "behavior_delinquency": "null",
+   "relationships_social": "null"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Federal school-based grantee programs; no significant student-level impacts after one school year; design not described."
+ },
+ {
+  "id": "ED513771",
+  "design": "quasi_experimental",
+  "rigor": 3,
+  "n_youth": 44,
+  "country": "US",
+  "setting": "school_based",
+  "format": "peer_cross_age",
+  "mentor_type": "unclear",
+  "targets": [
+   "disability"
+  ],
+  "grade_band": "high",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "psychosocial_other": "null"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Self-determination lessons helped; adding school peer mentoring gave no extra gain. Three groups, pre-post."
+ },
+ {
+  "id": "ED517927",
+  "design": "quasi_experimental",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "US",
+  "setting": "college_campus",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "college",
+  "program_name": "Beacon Mentoring Program",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "academic_achievement": "mixed",
+   "engagement_attendance": "positive",
+   "graduation_persistence": "mixed"
+  },
+  "effect_sizes": [
+   {
+    "domain": "academic_achievement",
+    "metric": "pct_points",
+    "value": 6.6,
+    "note": "part-time students' math pass rate; group rates not given"
+   }
+  ],
+  "review_details": null,
+  "notes": "Campus mentoring raised tutoring use, cut math withdrawals; persistence, overall pass rates unchanged; subgroup gains."
+ },
+ {
+  "id": "ED519092",
+  "design": "other",
+  "rigor": 1,
+  "n_youth": null,
+  "country": "unclear",
+  "setting": "college_campus",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {},
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Leadership development initiative with mentoring for community college undergraduates; design and results not stated."
+ },
+ {
+  "id": "ED519114",
+  "design": "rct",
+  "rigor": 5,
+  "n_youth": null,
+  "country": "UK",
+  "setting": "school_based",
+  "format": "one_to_one",
+  "mentor_type": "adult_volunteer",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "elementary",
+  "program_name": "Time to Read",
+  "duration_months": null,
+  "frequency": "weekly_or_more",
+  "bridging": "no",
+  "outcomes": {
+   "academic_achievement": "positive",
+   "psychosocial_other": "mixed",
+   "self_efficacy_confidence": "null",
+   "engagement_attendance": "null"
+  },
+  "effect_sizes": [
+   {
+    "domain": "psychosocial_other",
+    "metric": "d",
+    "value": 0.17,
+    "note": "future aspirations, first trial; metric type unstated"
+   }
+  ],
+  "review_details": null,
+  "notes": "Follow-up RCT in 50 Northern Ireland schools: decoding, rate, fluency gains; aspirations not significant."
+ },
+ {
+  "id": "ED519394",
+  "design": "correlational",
+  "rigor": 2,
+  "n_youth": null,
+  "country": "US",
+  "setting": "school_based",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "urban"
+  ],
+  "grade_band": "middle",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {},
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Cross-sectional survey of Boston eighth graders; mentorship's link to efficacy not reported; literacy instruction strongest."
+ },
+ {
+  "id": "ED521751",
+  "design": "review",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "US",
+  "setting": "unclear",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "unclear",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {},
+  "effect_sizes": [],
+  "review_details": {
+   "n_studies": null,
+   "pooled_metric": null,
+   "pooled_value": null
+  },
+  "notes": "Narrative review: close, enduring matches work best; program effects modest and inconsistent; policy advice."
+ },
+ {
+  "id": "ED523166",
+  "design": "pre_post",
+  "rigor": 2,
+  "n_youth": 68,
+  "country": "US",
+  "setting": "school_based",
+  "format": "one_to_one",
+  "mentor_type": "unclear",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "k12_mixed",
+  "program_name": "One-to-One Mentoring Initiative",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "academic_achievement": "mixed",
+   "engagement_attendance": "mixed",
+   "behavior_delinquency": "mixed"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Small evaluation without comparison group; unexpected school results; longer matches linked to fewer absences."
+ },
+ {
+  "id": "ED529061",
+  "design": "quasi_experimental",
+  "rigor": 3,
+  "n_youth": 317,
+  "country": "other",
+  "setting": "workplace_career",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "out_of_school",
+  "program_name": null,
+  "duration_months": 12,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {
+   "career_employment": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Coached young entrepreneurs with mentor support outscored information-only group on employability skills."
+ },
+ {
+  "id": "ED534670",
+  "design": "correlational",
+  "rigor": 2,
+  "n_youth": null,
+  "country": "US",
+  "setting": "college_campus",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "at_risk_behavior"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "graduation_persistence": "mixed"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Action research; mentoring linked to retention for some freshmen at certain non-cognitive risk; comparison not described."
+ }
+]

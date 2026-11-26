@@ -1,0 +1,219 @@
+[
+ {
+  "id": "ED629296",
+  "design": "other",
+  "rigor": 1,
+  "n_youth": null,
+  "country": "US",
+  "setting": "school_based",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "at_risk_behavior",
+   "low_income",
+   "racial_ethnic_minority"
+  ],
+  "grade_band": "k12_mixed",
+  "program_name": "My Brother's Keeper",
+  "duration_months": 9,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {},
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "District report on mentors for chronically absent students at six campuses; abstract states no results."
+ },
+ {
+  "id": "ED632600",
+  "design": "quasi_experimental",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "US",
+  "setting": "college_campus",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "racial_ethnic_minority",
+   "stem_general"
+  ],
+  "grade_band": "college",
+  "program_name": "Louis Stokes North Star STEM Alliance",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {
+   "academic_achievement": "positive",
+   "self_efficacy_confidence": "positive",
+   "belonging_connectedness": "positive",
+   "psychosocial_other": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Mixed-methods dissertation; participants vs non-affiliated URM students show better preparation, confidence, belonging, STEM identity."
+ },
+ {
+  "id": "EJ1001683",
+  "design": "correlational",
+  "rigor": 3,
+  "n_youth": 526,
+  "country": "US",
+  "setting": "school_based",
+  "format": "one_to_one",
+  "mentor_type": "adult_volunteer",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "k12_mixed",
+  "program_name": "Big Brothers Big Sisters",
+  "duration_months": 9,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "relationships_social": "positive",
+   "psychosocial_other": "positive",
+   "engagement_attendance": "positive",
+   "behavior_delinquency": "positive"
+  },
+  "effect_sizes": [
+   {
+    "domain": "psychosocial_other",
+    "metric": "other",
+    "value": 0.12,
+    "note": "lowest association effect size, metric unstated"
+   },
+   {
+    "domain": "psychosocial_other",
+    "metric": "other",
+    "value": 0.52,
+    "note": "highest association effect size, metric unstated"
+   }
+  ],
+  "review_details": null,
+  "notes": "SEM within mentored arm of BBBS trial; relationship quality linked to outcomes via parent, teacher ties."
+ },
+ {
+  "id": "EJ1006883",
+  "design": "other",
+  "rigor": 1,
+  "n_youth": null,
+  "country": "US",
+  "setting": "college_campus",
+  "format": "unclear",
+  "mentor_type": "teacher_school_staff",
+  "targets": [
+   "racial_ethnic_minority",
+   "stem_general"
+  ],
+  "grade_band": "college",
+  "program_name": "Benjamin Banneker Scholars Program",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "academic_achievement": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "HBCU STEM program; satisfaction and evaluator surveys show students perceive faculty mentoring aided academics."
+ },
+ {
+  "id": "EJ1006936",
+  "design": "review",
+  "rigor": 4,
+  "n_youth": null,
+  "country": "unclear",
+  "setting": "mixed",
+  "format": "unclear",
+  "mentor_type": "mixed",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "unclear",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {
+   "psychosocial_other": "positive",
+   "career_employment": "positive",
+   "relationships_social": "positive"
+  },
+  "effect_sizes": [
+   {
+    "domain": "relationships_social",
+    "metric": "r",
+    "value": 0.41,
+    "note": "rho, psychosocial support with sense of affiliation"
+   },
+   {
+    "domain": "psychosocial_other",
+    "metric": "r",
+    "value": 0.38,
+    "note": "rho, relationship quality with situational satisfaction"
+   },
+   {
+    "domain": "relationships_social",
+    "metric": "r",
+    "value": 0.54,
+    "note": "rho, relationship quality with social capital"
+   }
+  ],
+  "review_details": {
+   "n_studies": null,
+   "pooled_metric": "rho",
+   "pooled_value": null
+  },
+  "notes": "Meta-analysis of 173 samples, youth, academic, workplace; mostly cross-sectional perception correlations."
+ },
+ {
+  "id": "EJ1010958",
+  "design": "correlational",
+  "rigor": 1,
+  "n_youth": null,
+  "country": "other",
+  "setting": "college_campus",
+  "format": "natural_mentor",
+  "mentor_type": "natural_informal",
+  "targets": [
+   "girls_women_stem",
+   "stem_general"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "career_employment": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Danish engineering student survey; women more influenced by mentors in choosing engineering than men."
+ },
+ {
+  "id": "EJ1015533",
+  "design": "pre_post",
+  "rigor": 2,
+  "n_youth": 1,
+  "country": "unclear",
+  "setting": "school_based",
+  "format": "one_to_one",
+  "mentor_type": "unclear",
+  "targets": [
+   "at_risk_behavior",
+   "disability"
+  ],
+  "grade_band": "elementary",
+  "program_name": "Check-In/Check-Out",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "behavior_delinquency": "positive",
+   "academic_achievement": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Single-student case study in residential facility; referrals fell, academic performance rose."
+ }
+]

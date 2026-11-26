@@ -1,0 +1,268 @@
+[
+ {
+  "id": "EJ988292",
+  "design": "review",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "unclear",
+  "setting": "unclear",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "low_income",
+   "racial_ethnic_minority"
+  ],
+  "grade_band": "unclear",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {
+   "graduation_persistence": "positive",
+   "engagement_attendance": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": {
+   "n_studies": 14,
+   "pooled_metric": null,
+   "pooled_value": null
+  },
+  "notes": "Systematic review of UK-focused post-16 interventions; adult mentors and incentives judged most promising; no pooled estimate."
+ },
+ {
+  "id": "EJ988335",
+  "design": "other",
+  "rigor": 1,
+  "n_youth": null,
+  "country": "unclear",
+  "setting": "unclear",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "at_risk_behavior",
+   "juvenile_justice",
+   "disability"
+  ],
+  "grade_band": "unclear",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {},
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Pilot of goal attainment scaling across five programs; method focus, no outcome directions reported."
+ },
+ {
+  "id": "EJ988337",
+  "design": "pre_post",
+  "rigor": 2,
+  "n_youth": null,
+  "country": "unclear",
+  "setting": "school_based",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "foster_care"
+  ],
+  "grade_band": "middle",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "academic_achievement": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "School-based support model with tutoring and mentoring for foster youth; preliminary reading growth, no comparison group."
+ },
+ {
+  "id": "EJ990271",
+  "design": "correlational",
+  "rigor": 2,
+  "n_youth": 142,
+  "country": "unclear",
+  "setting": "school_based",
+  "format": "mixed",
+  "mentor_type": "college_student",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "middle",
+  "program_name": null,
+  "duration_months": 8,
+  "frequency": "weekly_or_more",
+  "bridging": "no",
+  "outcomes": {
+   "self_efficacy_confidence": "mixed"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Mentor traits correlated with mentee satisfaction and self-reported competence; effects varied by pair race match."
+ },
+ {
+  "id": "EJ991722",
+  "design": "correlational",
+  "rigor": 3,
+  "n_youth": 541,
+  "country": "US",
+  "setting": "community_based",
+  "format": "natural_mentor",
+  "mentor_type": "natural_informal",
+  "targets": [
+   "racial_ethnic_minority",
+   "at_risk_behavior"
+  ],
+  "grade_band": "high",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "academic_achievement": "positive",
+   "psychosocial_other": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Longitudinal pathway analysis linking natural mentors to educational attainment via racial identity and school beliefs."
+ },
+ {
+  "id": "EJ993476",
+  "design": "correlational",
+  "rigor": 2,
+  "n_youth": 18,
+  "country": "Australia",
+  "setting": "school_based",
+  "format": "unclear",
+  "mentor_type": "college_student",
+  "targets": [
+   "rural"
+  ],
+  "grade_band": "high",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "yes",
+  "outcomes": {
+   "college_access_enrollment": "positive",
+   "belonging_connectedness": "positive"
+  },
+  "effect_sizes": [
+   {
+    "domain": "college_access_enrollment",
+    "metric": "r",
+    "value": 0.59,
+    "note": "mentor contact with perceived chance of attending university"
+   },
+   {
+    "domain": "belonging_connectedness",
+    "metric": "r",
+    "value": 0.75,
+    "note": "mentor contact with in-group identification with university students"
+   }
+  ],
+  "review_details": null,
+  "notes": "Small pilot linking university mentor contact to rural ninth-year students' university aspirations and identification."
+ },
+ {
+  "id": "EJ996339",
+  "design": "review",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "unclear",
+  "setting": "unclear",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "unclear",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {},
+  "effect_sizes": [],
+  "review_details": {
+   "n_studies": null,
+   "pooled_metric": null,
+   "pooled_value": null
+  },
+  "notes": "Narrative literature review identifying mentoring relationship types and best practices for programs and mentors."
+ },
+ {
+  "id": "EJ996590",
+  "design": "correlational",
+  "rigor": 3,
+  "n_youth": 357,
+  "country": "other",
+  "setting": "workplace_career",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "yes",
+  "outcomes": {
+   "career_employment": "positive",
+   "psychosocial_other": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Longitudinal survey of internship students; mentoring linked to job fit, satisfaction and professional commitment via structural model."
+ },
+ {
+  "id": "EJ997882",
+  "design": "rct",
+  "rigor": 5,
+  "n_youth": 94,
+  "country": "unclear",
+  "setting": "school_based",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "middle",
+  "program_name": null,
+  "duration_months": 9,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "academic_achievement": "positive",
+   "self_efficacy_confidence": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Cluster randomized classrooms; academic mentoring improved self-regulated learning and achievement, small to medium effects, no numbers given."
+ },
+ {
+  "id": "EJ999515",
+  "design": "correlational",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "other",
+  "setting": "unclear",
+  "format": "one_to_one",
+  "mentor_type": "unclear",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "unclear",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {
+   "graduation_persistence": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Regression analysis of Dutch dropout measures; mentoring and coaching associated with lower individual dropout."
+ }
+]

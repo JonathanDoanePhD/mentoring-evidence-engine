@@ -1,0 +1,214 @@
+[
+ {
+  "id": "EJ1214673",
+  "design": "quasi_experimental",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "unclear",
+  "setting": "college_campus",
+  "format": "peer_cross_age",
+  "mentor_type": "college_student",
+  "targets": [
+   "stem_general"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {},
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Peer mentoring for developmental math students compared with nonmentored peers; abstract gives no direction for success or persistence."
+ },
+ {
+  "id": "EJ1217327",
+  "design": "pre_post",
+  "rigor": 2,
+  "n_youth": null,
+  "country": "unclear",
+  "setting": "community_based",
+  "format": "peer_cross_age",
+  "mentor_type": "older_peer",
+  "targets": [
+   "at_risk_behavior"
+  ],
+  "grade_band": "elementary",
+  "program_name": null,
+  "duration_months": 12,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "academic_achievement": "positive",
+   "self_efficacy_confidence": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Case example: gifted high schoolers mentor at-risk elementary pupils; grades, self-efficacy improved; no comparison group."
+ },
+ {
+  "id": "EJ1219641",
+  "design": "other",
+  "rigor": 1,
+  "n_youth": null,
+  "country": "Australia",
+  "setting": "college_campus",
+  "format": "unclear",
+  "mentor_type": "adult_volunteer",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "yes",
+  "outcomes": {
+   "belonging_connectedness": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Survey and interviews on three alumni mentoring programs; n=197 mixes students and alumni; perceived benefits, better university engagement."
+ },
+ {
+  "id": "EJ1227143",
+  "design": "other",
+  "rigor": 1,
+  "n_youth": null,
+  "country": "other",
+  "setting": "unclear",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "high",
+  "program_name": "Gender Equity through Education",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "engagement_attendance": "positive",
+   "graduation_persistence": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "South Sudan scholarships plus mentoring for girls; enrolment and completion rose, gendered power relations unchanged; partial success."
+ },
+ {
+  "id": "EJ1228470",
+  "design": "quasi_experimental",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "US",
+  "setting": "college_campus",
+  "format": "peer_cross_age",
+  "mentor_type": "college_student",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "college",
+  "program_name": "Undergraduate Teaching Assistant Program",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "academic_achievement": "positive",
+   "engagement_attendance": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Undergraduate TA access raised performance indirectly via engagement; direct effects depended on selection and instructor use."
+ },
+ {
+  "id": "EJ1229265",
+  "design": "rct",
+  "rigor": 5,
+  "n_youth": 190,
+  "country": "US",
+  "setting": "unclear",
+  "format": "peer_cross_age",
+  "mentor_type": "unclear",
+  "targets": [
+   "at_risk_behavior"
+  ],
+  "grade_band": "elementary",
+  "program_name": "Early Risers Skills for Success",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "relationships_social": "positive",
+   "behavior_delinquency": "null"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "School-randomized summer program pairing well-adjusted buddies; high fidelity, no iatrogenic harm, teacher-rated social skills rose."
+ },
+ {
+  "id": "EJ1232146",
+  "design": "pre_post",
+  "rigor": 2,
+  "n_youth": null,
+  "country": "US",
+  "setting": "college_campus",
+  "format": "one_to_one",
+  "mentor_type": "teacher_school_staff",
+  "targets": [
+   "racial_ethnic_minority",
+   "stem_general"
+  ],
+  "grade_band": "college",
+  "program_name": "TIERA",
+  "duration_months": 24,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {
+   "graduation_persistence": "positive",
+   "career_employment": "positive",
+   "psychosocial_other": "positive"
+  },
+  "effect_sizes": [
+   {
+    "domain": "graduation_persistence",
+    "metric": "pct_points",
+    "value": 37,
+    "note": "retention 43% to 80% over four years"
+   },
+   {
+    "domain": "graduation_persistence",
+    "metric": "other",
+    "value": 2,
+    "note": "time to graduate fell almost two years"
+   }
+  ],
+  "review_details": null,
+  "notes": "Learning community plus faculty research mentoring at Hispanic-serving institution; retention rose, time to degree fell; no comparison."
+ },
+ {
+  "id": "EJ1234822",
+  "design": "correlational",
+  "rigor": 3,
+  "n_youth": 998,
+  "country": "unclear",
+  "setting": "online",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "girls_women_stem",
+   "gifted"
+  ],
+  "grade_band": "middle",
+  "program_name": null,
+  "duration_months": 12,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {
+   "psychosocial_other": "positive",
+   "engagement_attendance": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Year-long online STEM mentoring for talented girls; relationship quality linked to educational capital, STEM activities, elective intentions."
+ }
+]

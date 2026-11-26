@@ -1,0 +1,656 @@
+[
+ {
+  "id": "ED553640",
+  "design": "review",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "US",
+  "setting": "unclear",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "unclear",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {},
+  "effect_sizes": [],
+  "review_details": {
+   "n_studies": null,
+   "pooled_metric": null,
+   "pooled_value": null
+  },
+  "notes": "Narrative synthesis and stakeholder listening session on mentoring children with incarcerated parents; recommendations only."
+ },
+ {
+  "id": "ED553650",
+  "design": "quasi_experimental",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "US",
+  "setting": "school_based",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "high",
+  "program_name": "Ninth Grade Academy and Link Crew",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "engagement_attendance": "null",
+   "behavior_delinquency": "null",
+   "graduation_persistence": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Cohort comparison of ninth graders with and without transition academy plus mentoring; only dropout differed significantly."
+ },
+ {
+  "id": "ED554029",
+  "design": "quasi_experimental",
+  "rigor": 3,
+  "n_youth": 37,
+  "country": "US",
+  "setting": "online",
+  "format": "one_to_one",
+  "mentor_type": "unclear",
+  "targets": [
+   "racial_ethnic_minority",
+   "stem_general"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {
+   "career_employment": "null",
+   "psychosocial_other": "negative"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Computer-based mentor agent compared with human mentor; equal on career functions, worse on psychosocial ones."
+ },
+ {
+  "id": "ED554437",
+  "design": "correlational",
+  "rigor": 2,
+  "n_youth": null,
+  "country": "US",
+  "setting": "college_campus",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "graduation_persistence": "null"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Survey of retained adult first-year students found no link between mentor leadership style and retention."
+ },
+ {
+  "id": "ED554888",
+  "design": "correlational",
+  "rigor": 2,
+  "n_youth": 162,
+  "country": "US",
+  "setting": "workplace_career",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "girls_women_stem"
+  ],
+  "grade_band": "college",
+  "program_name": "LARSS internship",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "yes",
+  "outcomes": {
+   "psychosocial_other": "mixed"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Survey of former aerospace interns; men rated mentoring and research experience higher than women did."
+ },
+ {
+  "id": "ED555218",
+  "design": "correlational",
+  "rigor": 2,
+  "n_youth": null,
+  "country": "US",
+  "setting": "college_campus",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "college",
+  "program_name": "Collegiate DECA",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {
+   "career_employment": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Survey linking student organization commitment and psychological capital to career commitment; mentoring result not stated clearly."
+ },
+ {
+  "id": "ED556097",
+  "design": "correlational",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "US",
+  "setting": "college_campus",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "racial_ethnic_minority",
+   "stem_general"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {
+   "graduation_persistence": "mixed"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Regression on Black male science students; scientist identity predicted persistence intention, mentoring finding not stated."
+ },
+ {
+  "id": "ED556120",
+  "design": "review",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "US",
+  "setting": "school_based",
+  "format": "one_to_one",
+  "mentor_type": "unclear",
+  "targets": [
+   "disability",
+   "at_risk_behavior"
+  ],
+  "grade_band": "high",
+  "program_name": "Check & Connect",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "graduation_persistence": "mixed"
+  },
+  "effect_sizes": [],
+  "review_details": {
+   "n_studies": 2,
+   "pooled_metric": null,
+   "pooled_value": null
+  },
+  "notes": "Clearinghouse rating of dropout-prevention mentoring: positive on staying in school, none on completion."
+ },
+ {
+  "id": "ED556300",
+  "design": "other",
+  "rigor": 1,
+  "n_youth": 112,
+  "country": "US",
+  "setting": "college_campus",
+  "format": "unclear",
+  "mentor_type": "mixed",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {
+   "graduation_persistence": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Mixed-methods perception study of nursing students; mentoring seen as helpful for retention."
+ },
+ {
+  "id": "ED556468",
+  "design": "review",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "unclear",
+  "setting": "mixed",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "low_income"
+  ],
+  "grade_band": "high",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "yes",
+  "outcomes": {},
+  "effect_sizes": [],
+  "review_details": {
+   "n_studies": null,
+   "pooled_metric": null,
+   "pooled_value": null
+  },
+  "notes": "Research brief on counseling, coaching and mentoring shortfalls for low-income college applicants; no quantitative pooling."
+ },
+ {
+  "id": "ED556801",
+  "design": "rct",
+  "rigor": 5,
+  "n_youth": 68,
+  "country": "US",
+  "setting": "school_based",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "at_risk_behavior"
+  ],
+  "grade_band": "middle",
+  "program_name": "Tech Team",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "yes",
+  "outcomes": {
+   "academic_achievement": "positive",
+   "engagement_attendance": "null",
+   "behavior_delinquency": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Randomized multi-component career program including mentoring; better grades and fewer suspensions than controls."
+ },
+ {
+  "id": "ED557983",
+  "design": "review",
+  "rigor": 4,
+  "n_youth": null,
+  "country": "unclear",
+  "setting": "unclear",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "at_risk_behavior",
+   "juvenile_justice"
+  ],
+  "grade_band": "unclear",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {
+   "behavior_delinquency": "positive",
+   "academic_achievement": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": {
+   "n_studies": 46,
+   "pooled_metric": "standardized effect size",
+   "pooled_value": null
+  },
+  "notes": "Meta-analysis of mentoring for delinquency risk; modest positive effects, stronger with emotional support and advocacy."
+ },
+ {
+  "id": "ED558065",
+  "design": "correlational",
+  "rigor": 2,
+  "n_youth": null,
+  "country": "US",
+  "setting": "unclear",
+  "format": "mixed",
+  "mentor_type": "mixed",
+  "targets": [
+   "at_risk_behavior"
+  ],
+  "grade_band": "k12_mixed",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {},
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Nationally representative youth survey describing the mentoring gap, especially for at-risk young people."
+ },
+ {
+  "id": "ED558991",
+  "design": "correlational",
+  "rigor": 3,
+  "n_youth": 206,
+  "country": "US",
+  "setting": "school_based",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "disability"
+  ],
+  "grade_band": "high",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {
+   "academic_achievement": "null",
+   "behavior_delinquency": "null",
+   "mental_health": "positive",
+   "career_employment": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Structural model of support from several sources, including mentors, and school outcomes for students with disabilities."
+ },
+ {
+  "id": "ED560173",
+  "design": "correlational",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "US",
+  "setting": "unclear",
+  "format": "natural_mentor",
+  "mentor_type": "mixed",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "k12_mixed",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "college_access_enrollment": "positive",
+   "self_efficacy_confidence": "positive"
+  },
+  "effect_sizes": [
+   {
+    "domain": "college_access_enrollment",
+    "metric": "pct_points",
+    "value": 10,
+    "note": "82% with mentor vs 72% without"
+   },
+   {
+    "domain": "self_efficacy_confidence",
+    "metric": "pct_points",
+    "value": 10,
+    "note": "63% with mentor vs 53% without"
+   }
+  ],
+  "review_details": null,
+  "notes": "Fact sheet comparing youth with and without mentors on expected college graduation and confidence."
+ },
+ {
+  "id": "ED561426",
+  "design": "other",
+  "rigor": 2,
+  "n_youth": 7,
+  "country": "unclear",
+  "setting": "unclear",
+  "format": "unclear",
+  "mentor_type": "older_peer",
+  "targets": [
+   "disability"
+  ],
+  "grade_band": "unclear",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "psychosocial_other": "positive",
+   "relationships_social": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Single-case withdrawal design of peer mentoring for autistic youth; gains in daily living and social initiation."
+ },
+ {
+  "id": "ED562266",
+  "design": "quasi_experimental",
+  "rigor": 4,
+  "n_youth": null,
+  "country": "US",
+  "setting": "school_based",
+  "format": "one_to_one",
+  "mentor_type": "adult_volunteer",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "unclear",
+  "program_name": "Big Brothers Big Sisters school-based",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "academic_achievement": "positive",
+   "self_efficacy_confidence": "positive"
+  },
+  "effect_sizes": [
+   {
+    "domain": "academic_achievement",
+    "metric": "d",
+    "value": 0.13,
+    "note": "overall academic performance, in SD units"
+   },
+   {
+    "domain": "self_efficacy_confidence",
+    "metric": "d",
+    "value": 0.13,
+    "note": "scholastic efficacy, in SD units"
+   },
+   {
+    "domain": "academic_achievement",
+    "metric": "d",
+    "value": 0.18,
+    "note": "schoolwork completeness, in SD units"
+   }
+  ],
+  "review_details": null,
+  "notes": "Analysis within a randomized trial linking relationship closeness to academic outcomes; closer ties helped."
+ },
+ {
+  "id": "ED562323",
+  "design": "rct",
+  "rigor": 5,
+  "n_youth": null,
+  "country": "US",
+  "setting": "school_based",
+  "format": "one_to_one",
+  "mentor_type": "unclear",
+  "targets": [
+   "at_risk_behavior",
+   "urban"
+  ],
+  "grade_band": "high",
+  "program_name": "Check & Connect",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {},
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Randomized trial design and implementation description for Check & Connect; no results stated."
+ },
+ {
+  "id": "ED562351",
+  "design": "rct",
+  "rigor": 4,
+  "n_youth": null,
+  "country": "US",
+  "setting": "school_based",
+  "format": "unclear",
+  "mentor_type": "mixed",
+  "targets": [
+   "at_risk_behavior"
+  ],
+  "grade_band": "k12_mixed",
+  "program_name": "Student Mentoring Program",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "academic_achievement": "positive",
+   "self_efficacy_confidence": "positive",
+   "behavior_delinquency": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Secondary analysis of randomized evaluation; mentored students did better and closer-age mentors had stronger effects."
+ },
+ {
+  "id": "ED562481",
+  "design": "quasi_experimental",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "US",
+  "setting": "school_based",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "urban"
+  ],
+  "grade_band": "high",
+  "program_name": "iMentor",
+  "duration_months": 12,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {},
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Lagged cohort evaluation of whole-school college-readiness mentoring; analysis still underway, no results given."
+ },
+ {
+  "id": "ED563112",
+  "design": "rct",
+  "rigor": 5,
+  "n_youth": null,
+  "country": "US",
+  "setting": "college_campus",
+  "format": "unclear",
+  "mentor_type": "mixed",
+  "targets": [
+   "stem_general"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {},
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Randomized trial of faculty or staff mentoring and other STEM retention supports; results not yet reported."
+ },
+ {
+  "id": "ED563324",
+  "design": "correlational",
+  "rigor": 4,
+  "n_youth": 19869,
+  "country": "unclear",
+  "setting": "online",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "academic_achievement": "positive",
+   "graduation_persistence": "null"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Regression of survey responses at online university; mentoring satisfaction predicted performance but not on-time progress."
+ },
+ {
+  "id": "ED564074",
+  "design": "rct",
+  "rigor": 5,
+  "n_youth": 2209,
+  "country": "US",
+  "setting": "unclear",
+  "format": "one_to_one",
+  "mentor_type": "college_student",
+  "targets": [
+   "low_income"
+  ],
+  "grade_band": "out_of_school",
+  "program_name": "summer peer mentoring",
+  "duration_months": 3,
+  "frequency": "not_reported",
+  "bridging": "yes",
+  "outcomes": {
+   "college_access_enrollment": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Randomized summer peer outreach for college-intending graduates; prior pilots positive, enrollment data pending."
+ },
+ {
+  "id": "ED564094",
+  "design": "rct",
+  "rigor": 5,
+  "n_youth": null,
+  "country": "US",
+  "setting": "unclear",
+  "format": "unclear",
+  "mentor_type": "older_peer",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "out_of_school",
+  "program_name": "College Ambition Program",
+  "duration_months": 3,
+  "frequency": "not_reported",
+  "bridging": "yes",
+  "outcomes": {},
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Randomized summer near-age peer outreach study for college transition; ongoing, no outcome results stated."
+ },
+ {
+  "id": "ED564897",
+  "design": "quasi_experimental",
+  "rigor": 4,
+  "n_youth": null,
+  "country": "US",
+  "setting": "online",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "college",
+  "program_name": "Global Identity",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {
+   "psychosocial_other": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Matched comparison of study-abroad students with and without online cultural mentoring; better intercultural competence."
+ }
+]

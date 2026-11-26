@@ -1,0 +1,703 @@
+[
+ {
+  "id": "EJ1313796",
+  "design": "correlational",
+  "rigor": 4,
+  "n_youth": 681,
+  "country": "US",
+  "setting": "college_campus",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "stem_general"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {
+   "graduation_persistence": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "National longitudinal data; mentoring participation linked to higher odds of STEM bachelor's among transfer students."
+ },
+ {
+  "id": "EJ1314559",
+  "design": "review",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "unclear",
+  "setting": "college_campus",
+  "format": "unclear",
+  "mentor_type": "teacher_school_staff",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {},
+  "effect_sizes": [],
+  "review_details": {
+   "n_studies": null,
+   "pooled_metric": null,
+   "pooled_value": null
+  },
+  "notes": "Narrative literature review of faculty advising, mentoring and gatekeeping as undergraduate social support."
+ },
+ {
+  "id": "EJ1315019",
+  "design": "quasi_experimental",
+  "rigor": 3,
+  "n_youth": 35,
+  "country": "other",
+  "setting": "college_campus",
+  "format": "unclear",
+  "mentor_type": "college_student",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "academic_achievement": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Thai university peer-assisted writing center; treatment beat control group on writing skills."
+ },
+ {
+  "id": "EJ1316940",
+  "design": "quasi_experimental",
+  "rigor": 3,
+  "n_youth": 49,
+  "country": "US",
+  "setting": "college_campus",
+  "format": "unclear",
+  "mentor_type": "college_student",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "college",
+  "program_name": "FYE Peer Mentor Program",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "academic_achievement": "null",
+   "graduation_persistence": "null"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Case study of pilot peer mentors in first-year course; grade and retention gains were nonsignificant."
+ },
+ {
+  "id": "EJ1317575",
+  "design": "correlational",
+  "rigor": 1,
+  "n_youth": 120,
+  "country": "unclear",
+  "setting": "online",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "engagement_attendance": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Survey and interviews linking mentor facilitation to online learning engagement among undergraduates."
+ },
+ {
+  "id": "EJ1320643",
+  "design": "pre_post",
+  "rigor": 2,
+  "n_youth": null,
+  "country": "US",
+  "setting": "mixed",
+  "format": "peer_cross_age",
+  "mentor_type": "older_peer",
+  "targets": [
+   "racial_ethnic_minority",
+   "immigrant_ell",
+   "stem_general"
+  ],
+  "grade_band": "high",
+  "program_name": "CBESS",
+  "duration_months": 17,
+  "frequency": "not_reported",
+  "bridging": "yes",
+  "outcomes": {
+   "academic_achievement": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Bilingual STEM pipeline with peer mentors, adapted for COVID; science knowledge rose in pre-post surveys."
+ },
+ {
+  "id": "EJ1320667",
+  "design": "other",
+  "rigor": 2,
+  "n_youth": null,
+  "country": "US",
+  "setting": "mixed",
+  "format": "peer_cross_age",
+  "mentor_type": "college_student",
+  "targets": [
+   "low_income",
+   "racial_ethnic_minority",
+   "stem_general"
+  ],
+  "grade_band": "k12_mixed",
+  "program_name": "GEMS",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {
+   "psychosocial_other": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Compared virtual and in-person summer STEM years; attitude shifts toward STEM were similar."
+ },
+ {
+  "id": "EJ1322921",
+  "design": "pre_post",
+  "rigor": 2,
+  "n_youth": null,
+  "country": "US",
+  "setting": "school_based",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "at_risk_behavior"
+  ],
+  "grade_band": "high",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "engagement_attendance": "positive"
+  },
+  "effect_sizes": [
+   {
+    "domain": "engagement_attendance",
+    "metric": "pct_points",
+    "value": 8.42,
+    "note": "chronic absence fell 13.42% to 5.00% over six years"
+   }
+  ],
+  "review_details": null,
+  "notes": "School attendance program evaluation using six years of aggregate data; chronic absence declined."
+ },
+ {
+  "id": "EJ1323718",
+  "design": "correlational",
+  "rigor": 4,
+  "n_youth": null,
+  "country": "US",
+  "setting": "college_campus",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {
+   "career_employment": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Longitudinal national survey; mentorship experiences predicted initial IT employment and career persistence."
+ },
+ {
+  "id": "EJ1324185",
+  "design": "correlational",
+  "rigor": 4,
+  "n_youth": null,
+  "country": "US",
+  "setting": "college_campus",
+  "format": "natural_mentor",
+  "mentor_type": "teacher_school_staff",
+  "targets": [
+   "girls_women_stem",
+   "stem_general"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "psychosocial_other": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Longitudinal survey; faculty encouragement predicted Ph.D. aspirations among computing transfer students, especially women."
+ },
+ {
+  "id": "EJ1324330",
+  "design": "correlational",
+  "rigor": 3,
+  "n_youth": 1425,
+  "country": "unclear",
+  "setting": "school_based",
+  "format": "natural_mentor",
+  "mentor_type": "teacher_school_staff",
+  "targets": [
+   "girls_women_stem",
+   "stem_general"
+  ],
+  "grade_band": "high",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "graduation_persistence": "positive",
+   "belonging_connectedness": "mixed"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Retrospective survey of female graduates; STEM teacher mentors predicted STEM degree completion; peer belonging did not."
+ },
+ {
+  "id": "EJ1324723",
+  "design": "quasi_experimental",
+  "rigor": 4,
+  "n_youth": 437,
+  "country": "unclear",
+  "setting": "college_campus",
+  "format": "group",
+  "mentor_type": "college_student",
+  "targets": [
+   "stem_general"
+  ],
+  "grade_band": "college",
+  "program_name": "BIOME",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "academic_achievement": "positive",
+   "graduation_persistence": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Near-peer group mentoring for first-year biology students; regression showed better chemistry grades and retention."
+ },
+ {
+  "id": "EJ1324818",
+  "design": "other",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "unclear",
+  "setting": "unclear",
+  "format": "one_to_one",
+  "mentor_type": "unclear",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "unclear",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "psychosocial_other": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Lab experiment with mentor present versus absent; empathy, cognition and prosocial performance improved when present."
+ },
+ {
+  "id": "EJ1325335",
+  "design": "rct",
+  "rigor": 5,
+  "n_youth": null,
+  "country": "US",
+  "setting": "school_based",
+  "format": "unclear",
+  "mentor_type": "adult_volunteer",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "high",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "yes",
+  "outcomes": {
+   "academic_achievement": "positive",
+   "psychosocial_other": "positive"
+  },
+  "effect_sizes": [
+   {
+    "domain": "academic_achievement",
+    "metric": "other",
+    "value": 0.284,
+    "note": "effect size, type unspecified"
+   },
+   {
+    "domain": "psychosocial_other",
+    "metric": "other",
+    "value": 0.28,
+    "note": "attitudes toward scientists, type unspecified"
+   }
+  ],
+  "review_details": null,
+  "notes": "Cluster-randomized trial of module plus online scientist mentoring; gains in science achievement and attitudes."
+ },
+ {
+  "id": "EJ1325648",
+  "design": "other",
+  "rigor": 1,
+  "n_youth": 220,
+  "country": "US",
+  "setting": "mixed",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "stem_general"
+  ],
+  "grade_band": "high",
+  "program_name": "Base Pair",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "yes",
+  "outcomes": {
+   "graduation_persistence": "positive",
+   "college_access_enrollment": "positive",
+   "career_employment": "positive"
+  },
+  "effect_sizes": [
+   {
+    "domain": "graduation_persistence",
+    "metric": "pct_points",
+    "value": 12,
+    "note": "100% program graduation vs about 88% national"
+   }
+  ],
+  "review_details": null,
+  "notes": "Descriptive report of long-running faculty research mentorship; high graduation, college entry and advanced degree rates."
+ },
+ {
+  "id": "EJ1325673",
+  "design": "other",
+  "rigor": 1,
+  "n_youth": 3021,
+  "country": "US",
+  "setting": "community_based",
+  "format": "group",
+  "mentor_type": "mixed",
+  "targets": [
+   "racial_ethnic_minority",
+   "low_income",
+   "first_generation",
+   "rural",
+   "stem_general"
+  ],
+  "grade_band": "high",
+  "program_name": "HSTA",
+  "duration_months": 48,
+  "frequency": "not_reported",
+  "bridging": "yes",
+  "outcomes": {
+   "college_access_enrollment": "positive",
+   "graduation_persistence": "positive",
+   "career_employment": "positive"
+  },
+  "effect_sizes": [
+   {
+    "domain": "college_access_enrollment",
+    "metric": "pct_points",
+    "value": 43,
+    "note": "99% attend college vs 56% state"
+   },
+   {
+    "domain": "graduation_persistence",
+    "metric": "pct_points",
+    "value": 35,
+    "note": "about 85% vs under 50%; approximate"
+   }
+  ],
+  "review_details": null,
+  "notes": "Descriptive program summary; graduates show high college attendance, degree completion and STEM majors versus state figures."
+ },
+ {
+  "id": "EJ1327460",
+  "design": "correlational",
+  "rigor": 1,
+  "n_youth": null,
+  "country": "US",
+  "setting": "college_campus",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "racial_ethnic_minority"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "academic_achievement": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Web survey of Black male undergraduates at a predominantly white institution; engagement and GPA correlations."
+ },
+ {
+  "id": "EJ1330534",
+  "design": "pre_post",
+  "rigor": 2,
+  "n_youth": null,
+  "country": "US",
+  "setting": "school_based",
+  "format": "group",
+  "mentor_type": "adult_volunteer",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "elementary",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "yes",
+  "outcomes": {
+   "psychosocial_other": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Science outreach with scientist mentors in classrooms; students' science understanding and attitudes improved."
+ },
+ {
+  "id": "EJ1332924",
+  "design": "pre_post",
+  "rigor": 2,
+  "n_youth": null,
+  "country": "US",
+  "setting": "community_based",
+  "format": "mixed",
+  "mentor_type": "mixed",
+  "targets": [
+   "girls_women_stem",
+   "urban",
+   "stem_general"
+  ],
+  "grade_band": "high",
+  "program_name": "Training Future Scientists",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "yes",
+  "outcomes": {
+   "academic_achievement": "positive",
+   "psychosocial_other": "positive",
+   "career_employment": "negative"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Action research with urban girls; science knowledge and attitudes rose but interest in science careers trended down."
+ },
+ {
+  "id": "EJ1335255",
+  "design": "pre_post",
+  "rigor": 2,
+  "n_youth": 52,
+  "country": "US",
+  "setting": "school_based",
+  "format": "peer_cross_age",
+  "mentor_type": "older_peer",
+  "targets": [
+   "rural"
+  ],
+  "grade_band": "middle",
+  "program_name": "Mentoring to Be Active",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "psychosocial_other": "positive"
+  },
+  "effect_sizes": [
+   {
+    "domain": "psychosocial_other",
+    "metric": "g",
+    "value": 0.798,
+    "note": "sedentary time decreased 36.7%"
+   },
+   {
+    "domain": "psychosocial_other",
+    "metric": "g",
+    "value": 0.359,
+    "note": "moderate activity increased 16.5%"
+   },
+   {
+    "domain": "psychosocial_other",
+    "metric": "g",
+    "value": 0.359,
+    "note": "vigorous activity increased 88%"
+   }
+  ],
+  "review_details": null,
+  "notes": "Teen peer mentors in rural pilot; physical activity rose and sugar intake fell pre to post."
+ },
+ {
+  "id": "EJ1335256",
+  "design": "pre_post",
+  "rigor": 2,
+  "n_youth": 30,
+  "country": "unclear",
+  "setting": "college_campus",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "disability"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "academic_achievement": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Structured university mentoring for students with psychiatric diagnoses; GPA increased significantly among graduates."
+ },
+ {
+  "id": "EJ1335509",
+  "design": "quasi_experimental",
+  "rigor": 3,
+  "n_youth": 356,
+  "country": "US",
+  "setting": "college_campus",
+  "format": "unclear",
+  "mentor_type": "teacher_school_staff",
+  "targets": [
+   "stem_general"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "academic_achievement": "positive",
+   "engagement_attendance": "positive"
+  },
+  "effect_sizes": [
+   {
+    "domain": "academic_achievement",
+    "metric": "other",
+    "value": 0.13,
+    "note": "higher first-year GPA points vs general population"
+   },
+   {
+    "domain": "engagement_attendance",
+    "metric": "other",
+    "value": 42,
+    "note": "percent higher campus engagement among participants"
+   }
+  ],
+  "review_details": null,
+  "notes": "Faculty-mentored undergraduate research participants compared with general students; slightly higher GPA and engagement."
+ },
+ {
+  "id": "EJ1336694",
+  "design": "pre_post",
+  "rigor": 2,
+  "n_youth": null,
+  "country": "US",
+  "setting": "school_based",
+  "format": "group",
+  "mentor_type": "adult_volunteer",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "elementary",
+  "program_name": "WOW Jr.",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "yes",
+  "outcomes": {
+   "academic_achievement": "positive",
+   "psychosocial_other": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Watershed classroom program with scientist mentors; pre-post surveys showed gains in knowledge and views of scientists."
+ },
+ {
+  "id": "EJ1337395",
+  "design": "pre_post",
+  "rigor": 2,
+  "n_youth": null,
+  "country": "unclear",
+  "setting": "community_based",
+  "format": "group",
+  "mentor_type": "adult_volunteer",
+  "targets": [
+   "girls_women_stem",
+   "stem_general"
+  ],
+  "grade_band": "elementary",
+  "program_name": "Future Girls of STEM",
+  "duration_months": 0.13,
+  "frequency": "other",
+  "bridging": "yes",
+  "outcomes": {
+   "self_efficacy_confidence": "positive",
+   "psychosocial_other": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Four-day girls engineering camp with industry engineers; interest and understanding rose, self-efficacy stayed high."
+ },
+ {
+  "id": "EJ1337413",
+  "design": "other",
+  "rigor": 2,
+  "n_youth": null,
+  "country": "US",
+  "setting": "community_based",
+  "format": "group",
+  "mentor_type": "adult_volunteer",
+  "targets": [
+   "rural",
+   "stem_general"
+  ],
+  "grade_band": "high",
+  "program_name": "Teen Science Cafe",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "yes",
+  "outcomes": {
+   "psychosocial_other": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Rural afterschool STEM program adapted to first responders; repeat attendance shifted career views and interest."
+ }
+]

@@ -1,0 +1,324 @@
+[
+ {
+  "id": "EJ1100909",
+  "design": "rct",
+  "rigor": 5,
+  "n_youth": 72,
+  "country": "unclear",
+  "setting": "school_based",
+  "format": "unclear",
+  "mentor_type": "college_student",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "middle",
+  "program_name": null,
+  "duration_months": 1.8,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "academic_achievement": "positive",
+   "engagement_attendance": "positive",
+   "psychosocial_other": "positive",
+   "behavior_delinquency": "null"
+  },
+  "effect_sizes": [
+   {
+    "domain": "academic_achievement",
+    "metric": "d",
+    "value": 0.42,
+    "note": "math grades"
+   },
+   {
+    "domain": "academic_achievement",
+    "metric": "d",
+    "value": 0.59,
+    "note": "English grades"
+   },
+   {
+    "domain": "psychosocial_other",
+    "metric": "d",
+    "value": 0.49,
+    "note": "life satisfaction"
+   },
+   {
+    "domain": "academic_achievement",
+    "metric": "d",
+    "value": 0.25,
+    "note": "science grades, not significant"
+   },
+   {
+    "domain": "academic_achievement",
+    "metric": "d",
+    "value": 0.15,
+    "note": "history grades, not significant"
+   },
+   {
+    "domain": "engagement_attendance",
+    "metric": "other",
+    "value": 0.82,
+    "note": "0.82 fewer absences than control"
+   }
+  ],
+  "review_details": null,
+  "notes": "Small randomized trial of eight-week goal-focused mentoring; grades, life satisfaction, attendance improved; behavior unchanged."
+ },
+ {
+  "id": "EJ1101206",
+  "design": "correlational",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "unclear",
+  "setting": "college_campus",
+  "format": "mixed",
+  "mentor_type": "mixed",
+  "targets": [
+   "stem_general"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "psychosocial_other": "positive",
+   "career_employment": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "National survey of undergraduate researcher mentoring triads; faculty involvement and closed triads linked to larger gains."
+ },
+ {
+  "id": "EJ1107173",
+  "design": "other",
+  "rigor": 1,
+  "n_youth": 20,
+  "country": "unclear",
+  "setting": "unclear",
+  "format": "unclear",
+  "mentor_type": "college_student",
+  "targets": [
+   "girls_women_stem"
+  ],
+  "grade_band": "middle",
+  "program_name": null,
+  "duration_months": 4,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {
+   "psychosocial_other": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Case study: college course students mentored middle school girls over a semester; math attitudes reportedly improved."
+ },
+ {
+  "id": "EJ1108415",
+  "design": "correlational",
+  "rigor": 3,
+  "n_youth": 237,
+  "country": "unclear",
+  "setting": "college_campus",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "graduation_persistence": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Freshman survey regression; perceived mentorship and self-efficacy strongest predictors of intent to persist."
+ },
+ {
+  "id": "EJ1110078",
+  "design": "pre_post",
+  "rigor": 2,
+  "n_youth": null,
+  "country": "US",
+  "setting": "college_campus",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "racial_ethnic_minority",
+   "stem_general"
+  ],
+  "grade_band": "college",
+  "program_name": "Summer Research Early Identification Program",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "yes",
+  "outcomes": {
+   "career_employment": "positive",
+   "psychosocial_other": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Pre-post surveys of underrepresented students in summer research placements; mentorship among components supporting research career commitment."
+ },
+ {
+  "id": "EJ1110669",
+  "design": "correlational",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "US",
+  "setting": "college_campus",
+  "format": "one_to_one",
+  "mentor_type": "unclear",
+  "targets": [
+   "stem_general"
+  ],
+  "grade_band": "college",
+  "program_name": "Research Experience for Undergraduates",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {
+   "relationships_social": "positive",
+   "academic_achievement": "positive",
+   "career_employment": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Survey of REU students; six mentor key actions correlated with relationship ratings, scholarly output, graduate school plans."
+ },
+ {
+  "id": "EJ1110929",
+  "design": "correlational",
+  "rigor": 3,
+  "n_youth": 227,
+  "country": "US",
+  "setting": "college_campus",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "racial_ethnic_minority",
+   "stem_general"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "psychosocial_other": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Covariate-adjusted survey models at Hispanic-serving university; mentorship quality strongest correlate of research experience gains."
+ },
+ {
+  "id": "EJ1111419",
+  "design": "quasi_experimental",
+  "rigor": 4,
+  "n_youth": 348,
+  "country": "US",
+  "setting": "college_campus",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "racial_ethnic_minority",
+   "first_generation",
+   "stem_general"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "academic_achievement": "positive",
+   "graduation_persistence": "null",
+   "psychosocial_other": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Mentored researchers vs matched peers: higher GPA, similar graduation; survey links mentoring strategies to skill gains."
+ },
+ {
+  "id": "EJ1114766",
+  "design": "rct",
+  "rigor": 5,
+  "n_youth": null,
+  "country": "unclear",
+  "setting": "workplace_career",
+  "format": "one_to_one",
+  "mentor_type": "unclear",
+  "targets": [
+   "disability"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": 12,
+  "frequency": "not_reported",
+  "bridging": "yes",
+  "outcomes": {
+   "self_efficacy_confidence": "positive",
+   "career_employment": "null"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Randomized career mentoring by visually impaired mentors; job-hunting assertiveness rose, employment rate unchanged; small sample."
+ },
+ {
+  "id": "EJ1116953",
+  "design": "correlational",
+  "rigor": 3,
+  "n_youth": 124,
+  "country": "UK",
+  "setting": "college_campus",
+  "format": "peer_cross_age",
+  "mentor_type": "college_student",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "psychosocial_other": "negative",
+   "graduation_persistence": "negative",
+   "belonging_connectedness": "negative"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Peer mentoring usage study; high mentor-support users had lower well-being, integration, likely vulnerable students seeking help."
+ },
+ {
+  "id": "EJ1121864",
+  "design": "review",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "unclear",
+  "setting": "school_based",
+  "format": "mixed",
+  "mentor_type": "unclear",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "unclear",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "psychosocial_other": "positive",
+   "self_efficacy_confidence": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": {
+   "n_studies": 24,
+   "pooled_metric": null,
+   "pooled_value": null
+  },
+  "notes": "Systematic review of 24 school-based youth development programs including peer mentorship; narrative synthesis, no pooled estimate."
+ }
+]

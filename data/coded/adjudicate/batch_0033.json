@@ -1,0 +1,141 @@
+[
+ {
+  "id": "EJ793686",
+  "design": "correlational",
+  "rigor": 3,
+  "n_youth": 3103,
+  "country": "other",
+  "setting": "workplace_career",
+  "format": "natural_mentor",
+  "mentor_type": "natural_informal",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "high",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {
+   "career_employment": "positive",
+   "self_efficacy_confidence": "positive",
+   "psychosocial_other": "positive",
+   "behavior_delinquency": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Survey of Swiss apprentices and US working teens; workplace mentoring linked to competencies and less substance use, deviance."
+ },
+ {
+  "id": "EJ816234",
+  "design": "quasi_experimental",
+  "rigor": 4,
+  "n_youth": 678,
+  "country": "unclear",
+  "setting": "college_campus",
+  "format": "one_to_one",
+  "mentor_type": "teacher_school_staff",
+  "targets": [
+   "racial_ethnic_minority",
+   "at_risk_behavior"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": 12,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "academic_achievement": "mixed",
+   "graduation_persistence": "mixed",
+   "college_access_enrollment": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Matched controls; first-year GPA and retention gains faded by graduation; more graduate study; ethnic matching helped."
+ },
+ {
+  "id": "EJ821151",
+  "design": "quasi_experimental",
+  "rigor": 3,
+  "n_youth": 70,
+  "country": "unclear",
+  "setting": "school_based",
+  "format": "unclear",
+  "mentor_type": "mixed",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "middle",
+  "program_name": "Mediator Mentors",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "psychosocial_other": "positive",
+   "academic_achievement": "positive",
+   "relationships_social": "positive"
+  },
+  "effect_sizes": [
+   {
+    "domain": "academic_achievement",
+    "metric": "r",
+    "value": 0.6,
+    "note": "mediator role with language arts scores"
+   }
+  ],
+  "review_details": null,
+  "notes": "Peer mediators mentored by teacher candidates, interns, teachers outgained non-mediators socially; language arts correlated."
+ },
+ {
+  "id": "EJ834506",
+  "design": "correlational",
+  "rigor": 4,
+  "n_youth": 381,
+  "country": "Australia",
+  "setting": "college_campus",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "graduation_persistence": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Retrospective cohort of health science freshmen; mentor scheme participation associated with second-year retention."
+ },
+ {
+  "id": "EJ835057",
+  "design": "quasi_experimental",
+  "rigor": 4,
+  "n_youth": null,
+  "country": "US",
+  "setting": "school_based",
+  "format": "mixed",
+  "mentor_type": "mixed",
+  "targets": [
+   "racial_ethnic_minority",
+   "urban",
+   "at_risk_behavior"
+  ],
+  "grade_band": "high",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "weekly_or_more",
+  "bridging": "no",
+  "outcomes": {
+   "relationships_social": "positive",
+   "behavior_delinquency": "positive",
+   "psychosocial_other": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Pilot: weekly peer-led groups plus adult mentoring for at-risk freshmen; better friendship skills, peer resistance, less misconduct."
+ }
+]

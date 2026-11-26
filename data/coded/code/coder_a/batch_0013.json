@@ -1,0 +1,678 @@
+[
+ {
+  "id": "ED629296",
+  "design": "other",
+  "rigor": 1,
+  "n_youth": null,
+  "country": "US",
+  "setting": "school_based",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "at_risk_behavior",
+   "low_income",
+   "racial_ethnic_minority"
+  ],
+  "grade_band": "k12_mixed",
+  "program_name": "My Brother's Keeper",
+  "duration_months": 9,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {},
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "District report describing a mentoring program for chronically absent students; no results stated."
+ },
+ {
+  "id": "ED632181",
+  "design": "quasi_experimental",
+  "rigor": 4,
+  "n_youth": null,
+  "country": "US",
+  "setting": "college_campus",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "academic_achievement": "null",
+   "graduation_persistence": "null"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Matched-control dissertation on sophomore mentoring; regression found no significant GPA or persistence effect, though raw rates favored mentored group."
+ },
+ {
+  "id": "ED632384",
+  "design": "correlational",
+  "rigor": 1,
+  "n_youth": 75,
+  "country": "US",
+  "setting": "college_campus",
+  "format": "unclear",
+  "mentor_type": "teacher_school_staff",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "graduation_persistence": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Survey of community college students; faculty mentoring correlated with barriers to completion, alongside other supports."
+ },
+ {
+  "id": "ED632600",
+  "design": "quasi_experimental",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "US",
+  "setting": "college_campus",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "racial_ethnic_minority",
+   "stem_general"
+  ],
+  "grade_band": "college",
+  "program_name": "Louis Stokes North Star STEM Alliance",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "yes",
+  "outcomes": {
+   "academic_achievement": "positive",
+   "self_efficacy_confidence": "positive",
+   "belonging_connectedness": "positive",
+   "graduation_persistence": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Mixed-methods evaluation of STEM alliance; research mentorship participants reported higher confidence and belonging than comparison students."
+ },
+ {
+  "id": "ED632716",
+  "design": "quasi_experimental",
+  "rigor": 3,
+  "n_youth": 107,
+  "country": "US",
+  "setting": "school_based",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "stem_general"
+  ],
+  "grade_band": "high",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "engagement_attendance": "null"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Mentor-facilitated science research course compared with advanced courses; no engagement difference between groups."
+ },
+ {
+  "id": "ED634093",
+  "design": "pre_post",
+  "rigor": 2,
+  "n_youth": null,
+  "country": "US",
+  "setting": "college_campus",
+  "format": "group",
+  "mentor_type": "unclear",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "college",
+  "program_name": "MAPPS",
+  "duration_months": 1,
+  "frequency": "weekly_or_more",
+  "bridging": "yes",
+  "outcomes": {
+   "self_efficacy_confidence": "positive",
+   "belonging_connectedness": "positive",
+   "career_employment": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Four-week pre-pharmacy mentorship program evaluated with mixed methods; mentees reported stronger belonging and intent to pursue pharmacy."
+ },
+ {
+  "id": "ED634328",
+  "design": "pre_post",
+  "rigor": 2,
+  "n_youth": null,
+  "country": "US",
+  "setting": "school_based",
+  "format": "peer_cross_age",
+  "mentor_type": "older_peer",
+  "targets": [
+   "disability"
+  ],
+  "grade_band": "middle",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "weekly_or_more",
+  "bridging": "no",
+  "outcomes": {
+   "academic_achievement": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Typical-peer mentors worked daily with special-program students; IEP goal progress reportedly improved."
+ },
+ {
+  "id": "ED635036",
+  "design": "correlational",
+  "rigor": 1,
+  "n_youth": 323,
+  "country": "US",
+  "setting": "school_based",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "racial_ethnic_minority"
+  ],
+  "grade_band": "high",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "belonging_connectedness": "positive",
+   "relationships_social": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Survey of ninth graders in a transition mentor program; viewed favorably on peer relations and teacher support."
+ },
+ {
+  "id": "ED635312",
+  "design": "pre_post",
+  "rigor": 2,
+  "n_youth": null,
+  "country": "US",
+  "setting": "school_based",
+  "format": "one_to_one",
+  "mentor_type": "adult_volunteer",
+  "targets": [
+   "racial_ethnic_minority",
+   "girls_women_stem",
+   "at_risk_behavior"
+  ],
+  "grade_band": "elementary",
+  "program_name": "New York State Mentoring Program",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "engagement_attendance": "null",
+   "academic_achievement": "null",
+   "self_efficacy_confidence": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Mixed-methods case study; no attendance or grade change, but mentors perceived gains in self-efficacy."
+ },
+ {
+  "id": "ED635442",
+  "design": "review",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "US",
+  "setting": "unclear",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "at_risk_behavior"
+  ],
+  "grade_band": "k12_mixed",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {
+   "behavior_delinquency": "positive",
+   "self_efficacy_confidence": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": {
+   "n_studies": null,
+   "pooled_metric": null,
+   "pooled_value": null
+  },
+  "notes": "Systematic literature review of mentoring for at-risk students; reports mostly favorable behavior, confidence and self-efficacy results."
+ },
+ {
+  "id": "ED635463",
+  "design": "pre_post",
+  "rigor": 2,
+  "n_youth": null,
+  "country": "US",
+  "setting": "online",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "racial_ethnic_minority",
+   "rural",
+   "stem_general"
+  ],
+  "grade_band": "high",
+  "program_name": null,
+  "duration_months": 2,
+  "frequency": "not_reported",
+  "bridging": "yes",
+  "outcomes": {
+   "self_efficacy_confidence": "positive",
+   "career_employment": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Eight-week online 3D modeling course with mentorship for rural underrepresented seniors; STEM self-efficacy and interest rose."
+ },
+ {
+  "id": "EJ1001683",
+  "design": "rct",
+  "rigor": 5,
+  "n_youth": 526,
+  "country": "US",
+  "setting": "school_based",
+  "format": "one_to_one",
+  "mentor_type": "adult_volunteer",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "k12_mixed",
+  "program_name": "Big Brothers Big Sisters school-based",
+  "duration_months": 9,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "relationships_social": "positive",
+   "psychosocial_other": "positive",
+   "academic_achievement": "positive",
+   "behavior_delinquency": "positive"
+  },
+  "effect_sizes": [
+   {
+    "domain": "psychosocial_other",
+    "metric": "other",
+    "value": 0.12,
+    "note": "lower bound of association effect size range"
+   },
+   {
+    "domain": "psychosocial_other",
+    "metric": "other",
+    "value": 0.52,
+    "note": "upper bound of association effect size range"
+   }
+  ],
+  "review_details": null,
+  "notes": "Randomized evaluation data analyzed with structural equation models; relationship quality linked to parent and teacher relationships, then outcomes."
+ },
+ {
+  "id": "EJ1002146",
+  "design": "pre_post",
+  "rigor": 2,
+  "n_youth": null,
+  "country": "US",
+  "setting": "college_campus",
+  "format": "peer_cross_age",
+  "mentor_type": "college_student",
+  "targets": [
+   "disability",
+   "stem_general"
+  ],
+  "grade_band": "college",
+  "program_name": "Peer-Led Team Learning",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "academic_achievement": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Adapted peer-led learning model with universal design training for mentors; early results for students with disabilities."
+ },
+ {
+  "id": "EJ1002571",
+  "design": "quasi_experimental",
+  "rigor": 4,
+  "n_youth": null,
+  "country": "US",
+  "setting": "college_campus",
+  "format": "group",
+  "mentor_type": "college_student",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "weekly_or_more",
+  "bridging": "no",
+  "outcomes": {
+   "academic_achievement": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Chemistry transition program with peer mentoring; underprepared students gained relative to others, controlling for prior knowledge."
+ },
+ {
+  "id": "EJ1004863",
+  "design": "pre_post",
+  "rigor": 2,
+  "n_youth": 16,
+  "country": "US",
+  "setting": "college_campus",
+  "format": "peer_cross_age",
+  "mentor_type": "college_student",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "academic_achievement": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Small study of peer-delivered reading comprehension program; fidelity high and comprehension gains significant."
+ },
+ {
+  "id": "EJ1006843",
+  "design": "correlational",
+  "rigor": 4,
+  "n_youth": null,
+  "country": "US",
+  "setting": "online",
+  "format": "one_to_one",
+  "mentor_type": "unclear",
+  "targets": [
+   "low_income"
+  ],
+  "grade_band": "high",
+  "program_name": null,
+  "duration_months": 9,
+  "frequency": "not_reported",
+  "bridging": "yes",
+  "outcomes": {
+   "self_efficacy_confidence": "positive",
+   "career_employment": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Longitudinal e-mentoring data; relationship quality predicted self-efficacy and in turn career aspirations of underprivileged youth."
+ },
+ {
+  "id": "EJ1006883",
+  "design": "other",
+  "rigor": 1,
+  "n_youth": null,
+  "country": "US",
+  "setting": "college_campus",
+  "format": "unclear",
+  "mentor_type": "teacher_school_staff",
+  "targets": [
+   "racial_ethnic_minority",
+   "stem_general"
+  ],
+  "grade_band": "college",
+  "program_name": "Benjamin Banneker Scholars Program",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "academic_achievement": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Satisfaction surveys and evaluator survey at an HBCU; students perceived mentoring as strongly aiding performance."
+ },
+ {
+  "id": "EJ1006936",
+  "design": "review",
+  "rigor": 4,
+  "n_youth": null,
+  "country": "other",
+  "setting": "mixed",
+  "format": "unclear",
+  "mentor_type": "mixed",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "unclear",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {
+   "psychosocial_other": "positive",
+   "career_employment": "positive",
+   "relationships_social": "positive"
+  },
+  "effect_sizes": [
+   {
+    "domain": "relationships_social",
+    "metric": "other",
+    "value": 0.41,
+    "note": "rho, psychosocial support with sense of affiliation"
+   },
+   {
+    "domain": "psychosocial_other",
+    "metric": "other",
+    "value": 0.38,
+    "note": "rho, relationship quality with situational satisfaction"
+   }
+  ],
+  "review_details": {
+   "n_studies": 173,
+   "pooled_metric": "rho",
+   "pooled_value": null
+  },
+  "notes": "Meta-analysis of correlations across youth, academic and workplace mentoring perceptions; cross-sectional evidence mainly."
+ },
+ {
+  "id": "EJ1010958",
+  "design": "correlational",
+  "rigor": 1,
+  "n_youth": null,
+  "country": "other",
+  "setting": "college_campus",
+  "format": "natural_mentor",
+  "mentor_type": "natural_informal",
+  "targets": [
+   "girls_women_stem",
+   "stem_general"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "career_employment": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Danish engineering student survey; women cited mentors as a motivating factor more than men did."
+ },
+ {
+  "id": "EJ1011828",
+  "design": "correlational",
+  "rigor": 1,
+  "n_youth": 313,
+  "country": "other",
+  "setting": "school_based",
+  "format": "natural_mentor",
+  "mentor_type": "natural_informal",
+  "targets": [
+   "low_income",
+   "at_risk_behavior"
+  ],
+  "grade_band": "middle",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "academic_achievement": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "New Zealand survey; presence and warmth of an important nonparental adult correlated with achievement."
+ },
+ {
+  "id": "EJ1012345",
+  "design": "quasi_experimental",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "US",
+  "setting": "school_based",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "gifted",
+   "racial_ethnic_minority",
+   "stem_general"
+  ],
+  "grade_band": "high",
+  "program_name": "Center Scholars Program",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "yes",
+  "outcomes": {
+   "career_employment": "positive"
+  },
+  "effect_sizes": [
+   {
+    "domain": "career_employment",
+    "metric": "pct_points",
+    "value": 36,
+    "note": "86% scholars vs 50% comparison plan science research career"
+   }
+  ],
+  "review_details": null,
+  "notes": "Case-comparison study of research-preparation program; more scholars planned science research careers."
+ },
+ {
+  "id": "EJ1013457",
+  "design": "correlational",
+  "rigor": 4,
+  "n_youth": 10925,
+  "country": "US",
+  "setting": "unclear",
+  "format": "natural_mentor",
+  "mentor_type": "natural_informal",
+  "targets": [
+   "disability"
+  ],
+  "grade_band": "k12_mixed",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "graduation_persistence": "mixed"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Add Health analysis; mentoring linked to graduation without chronic illness but not in multivariate model for ill youth."
+ },
+ {
+  "id": "EJ1014499",
+  "design": "other",
+  "rigor": 2,
+  "n_youth": 4,
+  "country": "US",
+  "setting": "school_based",
+  "format": "one_to_one",
+  "mentor_type": "teacher_school_staff",
+  "targets": [
+   "at_risk_behavior",
+   "disability"
+  ],
+  "grade_band": "elementary",
+  "program_name": "Check-in/Check-out",
+  "duration_months": null,
+  "frequency": "weekly_or_more",
+  "bridging": "no",
+  "outcomes": {
+   "behavior_delinquency": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Single-case study of daily mentor check-in routine in residential school; off-task behavior decreased."
+ },
+ {
+  "id": "EJ1015533",
+  "design": "pre_post",
+  "rigor": 2,
+  "n_youth": 1,
+  "country": "US",
+  "setting": "school_based",
+  "format": "one_to_one",
+  "mentor_type": "teacher_school_staff",
+  "targets": [
+   "at_risk_behavior",
+   "disability"
+  ],
+  "grade_band": "elementary",
+  "program_name": "Check-In/Check-Out",
+  "duration_months": null,
+  "frequency": "weekly_or_more",
+  "bridging": "no",
+  "outcomes": {
+   "behavior_delinquency": "positive",
+   "academic_achievement": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Case study of one student in residential facility; referrals fell and academic performance improved."
+ },
+ {
+  "id": "EJ1017074",
+  "design": "review",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "US",
+  "setting": "college_campus",
+  "format": "unclear",
+  "mentor_type": "teacher_school_staff",
+  "targets": [
+   "stem_general"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "graduation_persistence": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": {
+   "n_studies": null,
+   "pooled_metric": null,
+   "pooled_value": null
+  },
+  "notes": "Narrative literature review on supportive faculty-student relationships and STEM retention."
+ }
+]

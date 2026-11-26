@@ -1,0 +1,149 @@
+[
+ {
+  "id": "EJ1289179",
+  "design": "other",
+  "rigor": 1,
+  "n_youth": 31,
+  "country": "unclear",
+  "setting": "online",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "stem_general"
+  ],
+  "grade_band": "high",
+  "program_name": "MentorPal",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "yes",
+  "outcomes": {
+   "career_employment": "positive",
+   "self_efficacy_confidence": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Usability study of virtual STEM professional mentors; self-reported career knowledge and confidence gains; no comparison."
+ },
+ {
+  "id": "EJ1294160",
+  "design": "correlational",
+  "rigor": 2,
+  "n_youth": 696,
+  "country": "US",
+  "setting": "online",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "k12_mixed",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "psychosocial_other": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Cross-sectional SEM of online grade 8-12 learners; mentor presence predicted self-regulated learning strategy use."
+ },
+ {
+  "id": "EJ1298734",
+  "design": "rct",
+  "rigor": 5,
+  "n_youth": 38,
+  "country": "unclear",
+  "setting": "school_based",
+  "format": "mixed",
+  "mentor_type": "unclear",
+  "targets": [
+   "at_risk_behavior"
+  ],
+  "grade_band": "k12_mixed",
+  "program_name": "Resilience Education Program",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "mental_health": "null",
+   "psychosocial_other": "null"
+  },
+  "effect_sizes": [
+   {
+    "domain": "mental_health",
+    "metric": "other",
+    "value": 0.15,
+    "note": "partial eta-squared, internalizing, lower bound, ns"
+   },
+   {
+    "domain": "mental_health",
+    "metric": "other",
+    "value": 0.19,
+    "note": "partial eta-squared, internalizing, upper bound, ns"
+   },
+   {
+    "domain": "psychosocial_other",
+    "metric": "other",
+    "value": 0.38,
+    "note": "partial eta-squared, incl. change mechanisms, ns"
+   }
+  ],
+  "review_details": null,
+  "notes": "Underpowered pilot RCT of group CBT plus check-in/check-out mentoring; large non-significant internalizing effects."
+ },
+ {
+  "id": "EJ1308675",
+  "design": "review",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "unclear",
+  "setting": "unclear",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "gifted"
+  ],
+  "grade_band": "k12_mixed",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {
+   "psychosocial_other": "positive",
+   "academic_achievement": "positive",
+   "career_employment": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": {
+   "n_studies": null,
+   "pooled_metric": null,
+   "pooled_value": null
+  },
+  "notes": "Narrative review of mentoring for talented students; reports psychosocial, cognitive and career benefits; no pooling."
+ },
+ {
+  "id": "EJ1311642",
+  "design": "correlational",
+  "rigor": 1,
+  "n_youth": null,
+  "country": "US",
+  "setting": "college_campus",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "stem_general"
+  ],
+  "grade_band": "college",
+  "program_name": "M-STEM Academies",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {
+   "belonging_connectedness": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Exploratory survey and interviews; alumni engagement linked to better social community; differences by sex, race."
+ }
+]

@@ -1,0 +1,6 @@
+stratum,screened,population,include_outcome,include_review,include_other,relevant_rate,est_relevant_in_population,share_of_all_relevant
+A_core,8174,8174,830,90,1627,0.113,920.000,0.765
+A_peripheral,400,3027,16,1,33,0.043,128.648,0.107
+B,300,5233,7,1,54,0.027,139.547,0.116
+X,150,7647,0,0,13,0.000,0.000,0.000
+supplement_mentor3plus,114,114,15,0,13,0.132,15.000,0.012

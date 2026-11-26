@@ -1,0 +1,162 @@
+[
+ {
+  "id": "EJ892712",
+  "design": "quasi_experimental",
+  "rigor": 3,
+  "n_youth": 834,
+  "country": "other",
+  "setting": "unclear",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "low_income"
+  ],
+  "grade_band": "k12_mixed",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "academic_achievement": "positive"
+  },
+  "effect_sizes": [
+   {
+    "domain": "academic_achievement",
+    "metric": "d",
+    "value": 0.29,
+    "note": "vs control; ES type unstated; elementary (likely)"
+   },
+   {
+    "domain": "academic_achievement",
+    "metric": "d",
+    "value": 0.33,
+    "note": "vs control; ES type unstated; middle (likely)"
+   }
+  ],
+  "review_details": null,
+  "notes": "Seoul supervised mentoring vs controls; math and reading gains; longer relationships linked to more achievement."
+ },
+ {
+  "id": "EJ896061",
+  "design": "correlational",
+  "rigor": 2,
+  "n_youth": null,
+  "country": "other",
+  "setting": "college_campus",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "psychosocial_other": "mixed"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Within-program comparison: activity-focused mentoring improved adjustment; problem-solving or discussion-only did not."
+ },
+ {
+  "id": "EJ898867",
+  "design": "other",
+  "rigor": 1,
+  "n_youth": null,
+  "country": "other",
+  "setting": "college_campus",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "gifted",
+   "stem_general"
+  ],
+  "grade_band": "high",
+  "program_name": "UETPS",
+  "duration_months": 12,
+  "frequency": "not_reported",
+  "bridging": "yes",
+  "outcomes": {
+   "career_employment": "positive",
+   "college_access_enrollment": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Hong Kong gifted teens did year-long projects with engineering professors; evaluation reported raised engineering interest."
+ },
+ {
+  "id": "EJ915014",
+  "design": "correlational",
+  "rigor": 2,
+  "n_youth": 108,
+  "country": "other",
+  "setting": "online",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "high",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "yes",
+  "outcomes": {},
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "17 history experts mentored students online; satisfaction did not correlate with achieving intended outcomes."
+ },
+ {
+  "id": "EJ924289",
+  "design": "rct",
+  "rigor": 5,
+  "n_youth": 226,
+  "country": "US",
+  "setting": "school_based",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "at_risk_behavior"
+  ],
+  "grade_band": "elementary",
+  "program_name": "Rochester Resilience Project",
+  "duration_months": 4,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "behavior_delinquency": "positive",
+   "relationships_social": "mixed",
+   "mental_health": "positive"
+  },
+  "effect_sizes": [
+   {
+    "domain": "behavior_delinquency",
+    "metric": "d",
+    "value": 0.31,
+    "note": "teacher-rated problems, low end; ES type unstated"
+   },
+   {
+    "domain": "behavior_delinquency",
+    "metric": "d",
+    "value": 0.47,
+    "note": "teacher-rated problems, high end; ES type unstated"
+   },
+   {
+    "domain": "behavior_delinquency",
+    "metric": "other",
+    "value": 46,
+    "note": "percent mean decrease in disciplinary referrals"
+   },
+   {
+    "domain": "behavior_delinquency",
+    "metric": "other",
+    "value": 43,
+    "note": "percent decrease in suspensions"
+   }
+  ],
+  "review_details": null,
+  "notes": "Waitlist RCT; school mentors taught emotion regulation; fewer problems and referrals; peer skills improved girls only."
+ }
+]

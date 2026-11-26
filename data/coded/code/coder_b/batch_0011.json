@@ -1,0 +1,665 @@
+[
+ {
+  "id": "ED598499",
+  "design": "correlational",
+  "rigor": 2,
+  "n_youth": null,
+  "country": "US",
+  "setting": "college_campus",
+  "format": "peer_cross_age",
+  "mentor_type": "college_student",
+  "targets": [
+   "stem_general"
+  ],
+  "grade_band": "k12_mixed",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "yes",
+  "outcomes": {
+   "self_efficacy_confidence": "mixed"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Post hoc survey of tiered STEM mentoring; college mentors felt efficacious, secondary mentees reported low efficacy."
+ },
+ {
+  "id": "ED599595",
+  "design": "correlational",
+  "rigor": 2,
+  "n_youth": 51,
+  "country": "US",
+  "setting": "college_campus",
+  "format": "one_to_one",
+  "mentor_type": "college_student",
+  "targets": [
+   "racial_ethnic_minority"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": 8,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "relationships_social": "positive",
+   "self_efficacy_confidence": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Mixed-methods community college peer mentoring study linking activities, relationship quality and self-efficacy; small samples."
+ },
+ {
+  "id": "ED600039",
+  "design": "review",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "unclear",
+  "setting": "college_campus",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "stem_general",
+   "racial_ethnic_minority"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {},
+  "effect_sizes": [],
+  "review_details": {
+   "n_studies": null,
+   "pooled_metric": null,
+   "pooled_value": null
+  },
+  "notes": "Consensus report on mentoring in STEMM higher education; narrative synthesis, no pooled estimate."
+ },
+ {
+  "id": "ED600326",
+  "design": "quasi_experimental",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "US",
+  "setting": "college_campus",
+  "format": "one_to_one",
+  "mentor_type": "older_peer",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "graduation_persistence": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Community college retention compared peer-mentored and non-mentored first-year students; difference significant, no controls described."
+ },
+ {
+  "id": "ED601120",
+  "design": "other",
+  "rigor": 1,
+  "n_youth": null,
+  "country": "US",
+  "setting": "unclear",
+  "format": "group",
+  "mentor_type": "unclear",
+  "targets": [
+   "racial_ethnic_minority"
+  ],
+  "grade_band": "unclear",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {},
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Book club led by Black adult mentor for adolescent boys; reading attitudes measured, no results given."
+ },
+ {
+  "id": "ED601141",
+  "design": "rct",
+  "rigor": 5,
+  "n_youth": 480,
+  "country": "US",
+  "setting": "community_based",
+  "format": "one_to_one",
+  "mentor_type": "paid_staff",
+  "targets": [
+   "juvenile_justice",
+   "at_risk_behavior",
+   "urban"
+  ],
+  "grade_band": "out_of_school",
+  "program_name": "Bridges to Pathways",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "yes",
+  "outcomes": {},
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Small randomized feasibility trial of justice-involved young men with mentoring, case management, internship; findings not described directionally."
+ },
+ {
+  "id": "ED601369",
+  "design": "correlational",
+  "rigor": 2,
+  "n_youth": null,
+  "country": "US",
+  "setting": "college_campus",
+  "format": "natural_mentor",
+  "mentor_type": "natural_informal",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "psychosocial_other": "null",
+   "career_employment": "null",
+   "self_efficacy_confidence": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Survey of former athletes comparing coach gender; satisfaction and salary unrelated, female coaches linked to more self-efficacy."
+ },
+ {
+  "id": "ED601828",
+  "design": "quasi_experimental",
+  "rigor": 4,
+  "n_youth": 59,
+  "country": "unclear",
+  "setting": "college_campus",
+  "format": "one_to_one",
+  "mentor_type": "older_peer",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "psychosocial_other": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Treatment versus comparison first-term students, ANCOVA; peer mentoring raised satisfaction significantly."
+ },
+ {
+  "id": "ED602339",
+  "design": "quasi_experimental",
+  "rigor": 3,
+  "n_youth": 30,
+  "country": "unclear",
+  "setting": "school_based",
+  "format": "one_to_one",
+  "mentor_type": "adult_volunteer",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "elementary",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "weekly_or_more",
+  "bridging": "no",
+  "outcomes": {
+   "academic_achievement": "positive",
+   "psychosocial_other": "positive",
+   "behavior_delinquency": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Weekly community mentors in elementary school; perceived gains by mentors and teachers, small reading and math edge over non-mentored peers."
+ },
+ {
+  "id": "ED602877",
+  "design": "quasi_experimental",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "US",
+  "setting": "school_based",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "racial_ethnic_minority",
+   "at_risk_behavior",
+   "urban"
+  ],
+  "grade_band": "unclear",
+  "program_name": "Ascending to Men",
+  "duration_months": null,
+  "frequency": "weekly_or_more",
+  "bridging": "no",
+  "outcomes": {
+   "academic_achievement": "positive",
+   "engagement_attendance": "positive",
+   "behavior_delinquency": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "District evaluation of mentoring for boys of color; perceptions positive, pass rates above district without controls."
+ },
+ {
+  "id": "ED602984",
+  "design": "pre_post",
+  "rigor": 2,
+  "n_youth": null,
+  "country": "US",
+  "setting": "community_based",
+  "format": "one_to_one",
+  "mentor_type": "paid_staff",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "out_of_school",
+  "program_name": "Chicago Young Parents Program",
+  "duration_months": null,
+  "frequency": "weekly_or_more",
+  "bridging": "yes",
+  "outcomes": {
+   "graduation_persistence": "positive",
+   "career_employment": "positive",
+   "psychosocial_other": "positive",
+   "self_efficacy_confidence": "positive",
+   "mental_health": "positive",
+   "relationships_social": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Two-generation pilot for young parents with mentoring component; participants progressed on education, parenting, and personal growth."
+ },
+ {
+  "id": "ED603063",
+  "design": "review",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "US",
+  "setting": "community_based",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "at_risk_behavior"
+  ],
+  "grade_band": "out_of_school",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {},
+  "effect_sizes": [],
+  "review_details": {
+   "n_studies": null,
+   "pooled_metric": null,
+   "pooled_value": null
+  },
+  "notes": "Evidence summary of impact evaluations of case management and mentoring for homeless youth; no pooled results stated."
+ },
+ {
+  "id": "ED603124",
+  "design": "quasi_experimental",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "US",
+  "setting": "school_based",
+  "format": "unclear",
+  "mentor_type": "adult_volunteer",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "k12_mixed",
+  "program_name": "Houston Real Men Read",
+  "duration_months": null,
+  "frequency": "monthly",
+  "bridging": "no",
+  "outcomes": {
+   "academic_achievement": "mixed"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Monthly male reading mentors; mentor survey positive, school reading scores above district in two of three grades."
+ },
+ {
+  "id": "ED603940",
+  "design": "pre_post",
+  "rigor": 2,
+  "n_youth": null,
+  "country": "US",
+  "setting": "school_based",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "at_risk_behavior",
+   "urban"
+  ],
+  "grade_band": "middle",
+  "program_name": "Law Enforcement Mentoring Program",
+  "duration_months": 12,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "academic_achievement": "mixed",
+   "engagement_attendance": "negative",
+   "behavior_delinquency": "negative"
+  },
+  "effect_sizes": [
+   {
+    "domain": "engagement_attendance",
+    "metric": "other",
+    "value": 44.2,
+    "note": "percent increase in days missed, pre vs post"
+   }
+  ],
+  "review_details": null,
+  "notes": "Year-over-year comparison for mentored middle schoolers; some test gains, but absences and suspensions rose."
+ },
+ {
+  "id": "ED603942",
+  "design": "quasi_experimental",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "US",
+  "setting": "mixed",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "elementary",
+  "program_name": "Read Houston Read",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "academic_achievement": "mixed"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Compares online and face-to-face first-grade reading mentoring; results varied by language and mode, no non-mentored group."
+ },
+ {
+  "id": "ED604474",
+  "design": "rct",
+  "rigor": 5,
+  "n_youth": 553,
+  "country": "US",
+  "setting": "school_based",
+  "format": "one_to_one",
+  "mentor_type": "unclear",
+  "targets": [
+   "at_risk_behavior",
+   "urban"
+  ],
+  "grade_band": "high",
+  "program_name": "Check & Connect",
+  "duration_months": 36,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "engagement_attendance": "null",
+   "academic_achievement": "null",
+   "graduation_persistence": "null"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Randomized trial of three-year mentoring for at-risk ninth graders found no significant effects on engagement, progress or graduation."
+ },
+ {
+  "id": "ED604614",
+  "design": "pre_post",
+  "rigor": 2,
+  "n_youth": 17,
+  "country": "US",
+  "setting": "college_campus",
+  "format": "one_to_one",
+  "mentor_type": "older_peer",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": 2,
+  "frequency": "other",
+  "bridging": "no",
+  "outcomes": {},
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Pilot stress program with senior student mentors for nursing freshmen; mentoring rated most helpful, outcome direction unreported."
+ },
+ {
+  "id": "ED604884",
+  "design": "quasi_experimental",
+  "rigor": 4,
+  "n_youth": null,
+  "country": "unclear",
+  "setting": "college_campus",
+  "format": "unclear",
+  "mentor_type": "older_peer",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "academic_achievement": "null",
+   "graduation_persistence": "null"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Nonequivalent control group design compared peer mentorship with study skills course; no significant differences in predicted outcomes."
+ },
+ {
+  "id": "ED605168",
+  "design": "pre_post",
+  "rigor": 2,
+  "n_youth": 19,
+  "country": "US",
+  "setting": "college_campus",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "racial_ethnic_minority"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": 4,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "self_efficacy_confidence": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Tribal college mixed-methods study; retrospective pre-post survey showed self-efficacy gains in most mentoring goals."
+ },
+ {
+  "id": "ED606319",
+  "design": "quasi_experimental",
+  "rigor": 4,
+  "n_youth": null,
+  "country": "US",
+  "setting": "school_based",
+  "format": "mixed",
+  "mentor_type": "college_student",
+  "targets": [
+   "racial_ethnic_minority",
+   "low_income",
+   "stem_general"
+  ],
+  "grade_band": "middle",
+  "program_name": "Oregon MESA",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "yes",
+  "outcomes": {
+   "academic_achievement": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Afterschool STEM program with college mentors; matched comparison showed higher science and math grades."
+ },
+ {
+  "id": "ED607927",
+  "design": "correlational",
+  "rigor": 4,
+  "n_youth": null,
+  "country": "US",
+  "setting": "unclear",
+  "format": "natural_mentor",
+  "mentor_type": "natural_informal",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "unclear",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {
+   "college_access_enrollment": "mixed",
+   "graduation_persistence": "mixed"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Longitudinal national survey regressions linking mentor types to higher education outcomes; findings partly support prior qualitative work."
+ },
+ {
+  "id": "ED608188",
+  "design": "review",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "US",
+  "setting": "mixed",
+  "format": "one_to_one",
+  "mentor_type": "paid_staff",
+  "targets": [
+   "low_income",
+   "first_generation",
+   "racial_ethnic_minority",
+   "urban"
+  ],
+  "grade_band": "college",
+  "program_name": "Success Boston Coaching",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "yes",
+  "outcomes": {},
+  "effect_sizes": [],
+  "review_details": {
+   "n_studies": 7,
+   "pooled_metric": null,
+   "pooled_value": null
+  },
+  "notes": "What Works Clearinghouse coaching report; no quantitative pooling, effect direction not stated in abstract."
+ },
+ {
+  "id": "ED608189",
+  "design": "review",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "US",
+  "setting": "mixed",
+  "format": "one_to_one",
+  "mentor_type": "paid_staff",
+  "targets": [
+   "low_income",
+   "first_generation",
+   "racial_ethnic_minority",
+   "urban"
+  ],
+  "grade_band": "college",
+  "program_name": "Success Boston Coaching",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "yes",
+  "outcomes": {},
+  "effect_sizes": [],
+  "review_details": {
+   "n_studies": 7,
+   "pooled_metric": null,
+   "pooled_value": null
+  },
+  "notes": "What Works Clearinghouse coaching report; no quantitative pooling, effect direction not stated in abstract."
+ },
+ {
+  "id": "ED608190",
+  "design": "review",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "US",
+  "setting": "mixed",
+  "format": "one_to_one",
+  "mentor_type": "paid_staff",
+  "targets": [
+   "low_income",
+   "first_generation",
+   "racial_ethnic_minority",
+   "urban"
+  ],
+  "grade_band": "college",
+  "program_name": "Success Boston Coaching",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "yes",
+  "outcomes": {},
+  "effect_sizes": [],
+  "review_details": {
+   "n_studies": 2,
+   "pooled_metric": null,
+   "pooled_value": null
+  },
+  "notes": "What Works Clearinghouse coaching report; no quantitative pooling, effect direction not stated in abstract."
+ },
+ {
+  "id": "ED608529",
+  "design": "rct",
+  "rigor": 5,
+  "n_youth": null,
+  "country": "US",
+  "setting": "school_based",
+  "format": "one_to_one",
+  "mentor_type": "unclear",
+  "targets": [
+   "at_risk_behavior",
+   "urban",
+   "low_income"
+  ],
+  "grade_band": "k12_mixed",
+  "program_name": "Check & Connect",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "engagement_attendance": "mixed",
+   "academic_achievement": "null"
+  },
+  "effect_sizes": [
+   {
+    "domain": "engagement_attendance",
+    "metric": "other",
+    "value": -4.2,
+    "note": "fewer absences in grades 5-7, days"
+   },
+   {
+    "domain": "engagement_attendance",
+    "metric": "other",
+    "value": -22.9,
+    "note": "percent fewer absences, grades 5-7"
+   }
+  ],
+  "review_details": null,
+  "notes": "Large randomized trial in Chicago; absences fell for grades 5-7 only, no test score or GPA effect."
+ }
+]

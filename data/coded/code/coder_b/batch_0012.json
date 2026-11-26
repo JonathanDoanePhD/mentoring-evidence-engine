@@ -1,0 +1,716 @@
+[
+ {
+  "id": "ED608581",
+  "design": "other",
+  "rigor": 1,
+  "n_youth": null,
+  "country": "US",
+  "setting": "unclear",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "racial_ethnic_minority"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {},
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Initial phase of study on mentoring Black male college freshmen, using digital contact; ethnic identity measured, no results given."
+ },
+ {
+  "id": "ED609230",
+  "design": "other",
+  "rigor": 1,
+  "n_youth": 3021,
+  "country": "US",
+  "setting": "mixed",
+  "format": "group",
+  "mentor_type": "mixed",
+  "targets": [
+   "rural",
+   "racial_ethnic_minority",
+   "low_income",
+   "first_generation",
+   "stem_general"
+  ],
+  "grade_band": "high",
+  "program_name": "HSTA",
+  "duration_months": 48,
+  "frequency": "other",
+  "bridging": "yes",
+  "outcomes": {
+   "college_access_enrollment": "positive",
+   "graduation_persistence": "positive"
+  },
+  "effect_sizes": [
+   {
+    "domain": "college_access_enrollment",
+    "metric": "pct_points",
+    "value": 43,
+    "note": "99% HSTA vs 56% state graduates attend college"
+   },
+   {
+    "domain": "graduation_persistence",
+    "metric": "pct_points",
+    "value": 35,
+    "note": "85% vs under 50% earn four-year degree; at least 35"
+   }
+  ],
+  "review_details": null,
+  "notes": "Descriptive program account; graduates compared with state averages rather than a matched group."
+ },
+ {
+  "id": "ED609326",
+  "design": "quasi_experimental",
+  "rigor": 3,
+  "n_youth": 1600,
+  "country": "US",
+  "setting": "school_based",
+  "format": "one_to_one",
+  "mentor_type": "adult_volunteer",
+  "targets": [
+   "low_income",
+   "racial_ethnic_minority",
+   "urban"
+  ],
+  "grade_band": "high",
+  "program_name": "iMentor College Ready",
+  "duration_months": 48,
+  "frequency": "other",
+  "bridging": "yes",
+  "outcomes": {},
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Final evaluation of online-plus-events mentoring versus comparison students; outcome directions not given in abstract."
+ },
+ {
+  "id": "ED609340",
+  "design": "quasi_experimental",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "US",
+  "setting": "school_based",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "low_income",
+   "racial_ethnic_minority",
+   "immigrant_ell",
+   "urban"
+  ],
+  "grade_band": "high",
+  "program_name": "iMentor College Ready",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {},
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Technical appendices describing samples and analysis methods for the iMentor evaluation; no results reported."
+ },
+ {
+  "id": "ED611215",
+  "design": "correlational",
+  "rigor": 1,
+  "n_youth": 1001,
+  "country": "US",
+  "setting": "school_based",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "racial_ethnic_minority"
+  ],
+  "grade_band": "k12_mixed",
+  "program_name": "ROSES",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {},
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "District report on a girls' mentoring program using surveys, focus groups and regression; no findings stated."
+ },
+ {
+  "id": "ED611255",
+  "design": "quasi_experimental",
+  "rigor": 3,
+  "n_youth": 60,
+  "country": "US",
+  "setting": "school_based",
+  "format": "unclear",
+  "mentor_type": "adult_volunteer",
+  "targets": [
+   "racial_ethnic_minority"
+  ],
+  "grade_band": "high",
+  "program_name": "Miles Ahead Scholars",
+  "duration_months": 12,
+  "frequency": "not_reported",
+  "bridging": "yes",
+  "outcomes": {
+   "self_efficacy_confidence": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Small first cohort with community male mentors; scholars held positive college readiness beliefs after one year."
+ },
+ {
+  "id": "ED611487",
+  "design": "rct",
+  "rigor": 5,
+  "n_youth": 1462,
+  "country": "US",
+  "setting": "college_campus",
+  "format": "mixed",
+  "mentor_type": "unclear",
+  "targets": [
+   "first_generation",
+   "racial_ethnic_minority",
+   "low_income"
+  ],
+  "grade_band": "college",
+  "program_name": "Research Aligned Mentorship Program",
+  "duration_months": 48,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {
+   "academic_achievement": "positive",
+   "graduation_persistence": "positive"
+  },
+  "effect_sizes": [
+   {
+    "domain": "graduation_persistence",
+    "metric": "other",
+    "value": 29,
+    "note": "49% graduated in 4 years versus 20% baseline rate"
+   }
+  ],
+  "review_details": null,
+  "notes": "Randomized multicomponent college program; engagement linked to higher GPA, credits, persistence and graduation."
+ },
+ {
+  "id": "ED612847",
+  "design": "correlational",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "US",
+  "setting": "workplace_career",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "first_generation"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "yes",
+  "outcomes": {
+   "career_employment": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Alumni survey on arts internships; satisfaction with mentorship linked to being hired at the internship site."
+ },
+ {
+  "id": "ED614914",
+  "design": "review",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "other",
+  "setting": "community_based",
+  "format": "group",
+  "mentor_type": "unclear",
+  "targets": [
+   "low_income",
+   "general"
+  ],
+  "grade_band": "unclear",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {
+   "psychosocial_other": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": {
+   "n_studies": 30,
+   "pooled_metric": null,
+   "pooled_value": null
+  },
+  "notes": "Review of 30 community girl-group programs abroad; attitudes improved most, health behaviors mixed."
+ },
+ {
+  "id": "ED615700",
+  "design": "rct",
+  "rigor": 5,
+  "n_youth": null,
+  "country": "US",
+  "setting": "workplace_career",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "at_risk_behavior",
+   "urban"
+  ],
+  "grade_band": "high",
+  "program_name": "Urban Alliance High School Internship Program",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "yes",
+  "outcomes": {},
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Experimental evaluation of internship, training and mentoring for seniors; findings not detailed in abstract."
+ },
+ {
+  "id": "ED615758",
+  "design": "review",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "US",
+  "setting": "workplace_career",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "low_income",
+   "racial_ethnic_minority",
+   "urban"
+  ],
+  "grade_band": "out_of_school",
+  "program_name": "Year Up",
+  "duration_months": 12,
+  "frequency": "not_reported",
+  "bridging": "yes",
+  "outcomes": {},
+  "effect_sizes": [],
+  "review_details": {
+   "n_studies": 2,
+   "pooled_metric": null,
+   "pooled_value": null
+  },
+  "notes": "Clearinghouse review of two studies of a training plus internship program; effect directions not stated."
+ },
+ {
+  "id": "ED617837",
+  "design": "quasi_experimental",
+  "rigor": 4,
+  "n_youth": null,
+  "country": "US",
+  "setting": "college_campus",
+  "format": "mixed",
+  "mentor_type": "mixed",
+  "targets": [
+   "racial_ethnic_minority",
+   "low_income",
+   "stem_general"
+  ],
+  "grade_band": "college",
+  "program_name": "AIMS2",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {
+   "academic_achievement": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Matched comparison showed participants outperformed controls on academic outcomes, freshmen more than transfers."
+ },
+ {
+  "id": "ED618183",
+  "design": "rct",
+  "rigor": 5,
+  "n_youth": 38,
+  "country": "unclear",
+  "setting": "school_based",
+  "format": "mixed",
+  "mentor_type": "unclear",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "k12_mixed",
+  "program_name": "Resilience Education Program",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "mental_health": "null",
+   "relationships_social": "null"
+  },
+  "effect_sizes": [
+   {
+    "domain": "mental_health",
+    "metric": "other",
+    "value": 0.15,
+    "note": "partial eta-squared low end, self/teacher internalizing, nonsignificant"
+   },
+   {
+    "domain": "mental_health",
+    "metric": "other",
+    "value": 0.19,
+    "note": "partial eta-squared high end, nonsignificant"
+   },
+   {
+    "domain": "relationships_social",
+    "metric": "other",
+    "value": 0.38,
+    "note": "partial eta-squared with mechanisms, nonsignificant"
+   }
+  ],
+  "review_details": null,
+  "notes": "Small underpowered randomized trial of group instruction plus check-in mentoring; large but nonsignificant effects."
+ },
+ {
+  "id": "ED618297",
+  "design": "rct",
+  "rigor": 5,
+  "n_youth": null,
+  "country": "US",
+  "setting": "unclear",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "high",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {
+   "college_access_enrollment": "mixed",
+   "graduation_persistence": "mixed"
+  },
+  "effect_sizes": [
+   {
+    "domain": "college_access_enrollment",
+    "metric": "pct_points",
+    "value": 15,
+    "note": "Women, intention-to-treat; base rate 50%"
+   },
+   {
+    "domain": "college_access_enrollment",
+    "metric": "pct_points",
+    "value": 30,
+    "note": "Women, treatment on treated"
+   }
+  ],
+  "review_details": null,
+  "notes": "Field experiment of coaching plus cash; large gains for women, none for men."
+ },
+ {
+  "id": "ED618302",
+  "design": "rct",
+  "rigor": 5,
+  "n_youth": 31019,
+  "country": "US",
+  "setting": "school_based",
+  "format": "mixed",
+  "mentor_type": "mixed",
+  "targets": [
+   "low_income",
+   "general"
+  ],
+  "grade_band": "high",
+  "program_name": "Youth CareerConnect",
+  "duration_months": 48,
+  "frequency": "not_reported",
+  "bridging": "yes",
+  "outcomes": {
+   "engagement_attendance": "positive",
+   "academic_achievement": "mixed"
+  },
+  "effect_sizes": [
+   {
+    "domain": "engagement_attendance",
+    "metric": "pct_points",
+    "value": 0.7,
+    "note": "Attendance rose from about 90.7 to 91.5 percent"
+   },
+   {
+    "domain": "academic_achievement",
+    "metric": "other",
+    "value": 4,
+    "note": "Credit percentile moved from 50th to about 54th"
+   }
+  ],
+  "review_details": null,
+  "notes": "Career-focused high school program with QED and RCT parts; small gains, larger with mentor or internship."
+ },
+ {
+  "id": "ED618341",
+  "design": "pre_post",
+  "rigor": 2,
+  "n_youth": 32,
+  "country": "other",
+  "setting": "unclear",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "high",
+  "program_name": "Project MATHEMATICS",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {
+   "academic_achievement": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Small mixed-methods Philippine math mentoring project; improved performance, no comparison group described."
+ },
+ {
+  "id": "ED618474",
+  "design": "other",
+  "rigor": 1,
+  "n_youth": null,
+  "country": "US",
+  "setting": "school_based",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "at_risk_behavior",
+   "urban",
+   "racial_ethnic_minority",
+   "low_income"
+  ],
+  "grade_band": "high",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {},
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Dissertation on virtual school-based mentoring for at-risk students; abstract states aims only, no findings."
+ },
+ {
+  "id": "ED621694",
+  "design": "pre_post",
+  "rigor": 2,
+  "n_youth": null,
+  "country": "unclear",
+  "setting": "college_campus",
+  "format": "one_to_one",
+  "mentor_type": "older_peer",
+  "targets": [
+   "first_generation",
+   "low_income"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {
+   "self_efficacy_confidence": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Peer mentoring on financial resources; pre-post questionnaires showed higher self-efficacy and knowledge."
+ },
+ {
+  "id": "ED623497",
+  "design": "quasi_experimental",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "US",
+  "setting": "community_based",
+  "format": "unclear",
+  "mentor_type": "mixed",
+  "targets": [
+   "urban",
+   "at_risk_behavior"
+  ],
+  "grade_band": "middle",
+  "program_name": "Math Corps",
+  "duration_months": null,
+  "frequency": "other",
+  "bridging": "unclear",
+  "outcomes": {
+   "college_access_enrollment": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Retrospective comparison of summer camp attendees; improved college enrollment, degree completion and justice contact reported."
+ },
+ {
+  "id": "ED624950",
+  "design": "other",
+  "rigor": 1,
+  "n_youth": null,
+  "country": "US",
+  "setting": "college_campus",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "racial_ethnic_minority"
+  ],
+  "grade_band": "college",
+  "program_name": "Be Brave Mentoring Program",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {},
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Mixed-methods dissertation on a fraternity and sorority member mentoring program; no results in abstract."
+ },
+ {
+  "id": "ED626457",
+  "design": "other",
+  "rigor": 1,
+  "n_youth": null,
+  "country": "US",
+  "setting": "school_based",
+  "format": "mixed",
+  "mentor_type": "unclear",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "k12_mixed",
+  "program_name": "Austin Partners in Education",
+  "duration_months": 12,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {},
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Annual evaluation of several school support programs including mentoring; no outcomes stated."
+ },
+ {
+  "id": "ED626459",
+  "design": "other",
+  "rigor": 1,
+  "n_youth": null,
+  "country": "US",
+  "setting": "school_based",
+  "format": "mixed",
+  "mentor_type": "unclear",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "k12_mixed",
+  "program_name": "Austin Partners in Education",
+  "duration_months": 12,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {},
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Annual report on school support programs during pandemic shift to remote services; no outcomes stated."
+ },
+ {
+  "id": "ED626846",
+  "design": "correlational",
+  "rigor": 1,
+  "n_youth": null,
+  "country": "US",
+  "setting": "unclear",
+  "format": "mixed",
+  "mentor_type": "mixed",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "unclear",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {},
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "National survey on prevalence and perceived value of program and natural mentoring across decades."
+ },
+ {
+  "id": "ED627102",
+  "design": "review",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "unclear",
+  "setting": "unclear",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "unclear",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {},
+  "effect_sizes": [],
+  "review_details": {
+   "n_studies": null,
+   "pooled_metric": null,
+   "pooled_value": null
+  },
+  "notes": "Narrative summary of critical consciousness and mentoring scholarship; no pooled estimates."
+ },
+ {
+  "id": "ED627131",
+  "design": "rct",
+  "rigor": 5,
+  "n_youth": 358,
+  "country": "unclear",
+  "setting": "school_based",
+  "format": "one_to_one",
+  "mentor_type": "unclear",
+  "targets": [
+   "immigrant_ell"
+  ],
+  "grade_band": "high",
+  "program_name": "Check & Connect",
+  "duration_months": 24,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {
+   "engagement_attendance": "null",
+   "academic_achievement": "null",
+   "relationships_social": "null"
+  },
+  "effect_sizes": [
+   {
+    "domain": "engagement_attendance",
+    "metric": "other",
+    "value": -0.14,
+    "note": "Behavioral disengagement, nonsignificant"
+   },
+   {
+    "domain": "engagement_attendance",
+    "metric": "other",
+    "value": -0.22,
+    "note": "Psychological engagement, nonsignificant"
+   },
+   {
+    "domain": "engagement_attendance",
+    "metric": "other",
+    "value": -0.12,
+    "note": "Academic/cognitive engagement, nonsignificant"
+   },
+   {
+    "domain": "relationships_social",
+    "metric": "other",
+    "value": -0.1,
+    "note": "Student-teacher relationships, nonsignificant"
+   },
+   {
+    "domain": "engagement_attendance",
+    "metric": "other",
+    "value": -0.11,
+    "note": "Goal-setting and problem-solving, nonsignificant"
+   }
+  ],
+  "review_details": null,
+  "notes": "Two-year randomized trial with English learners; no significant engagement effects, though mentor relationships described positively."
+ }
+]

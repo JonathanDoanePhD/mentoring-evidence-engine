@@ -1,0 +1,645 @@
+[
+ {
+  "id": "EJ1141075",
+  "design": "pre_post",
+  "rigor": 2,
+  "n_youth": 100,
+  "country": "US",
+  "setting": "college_campus",
+  "format": "mixed",
+  "mentor_type": "mixed",
+  "targets": [
+   "low_income",
+   "girls_women_stem",
+   "racial_ethnic_minority"
+  ],
+  "grade_band": "high",
+  "program_name": "BASE Camp",
+  "duration_months": 0.5,
+  "frequency": "other",
+  "bridging": "yes",
+  "outcomes": {
+   "self_efficacy_confidence": "positive",
+   "career_employment": "positive",
+   "college_access_enrollment": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Two-week residential STEM camp for local girls; pre/post surveys; n approximate (about 100 over four years)."
+ },
+ {
+  "id": "EJ1141771",
+  "design": "correlational",
+  "rigor": 3,
+  "n_youth": 30000,
+  "country": "unclear",
+  "setting": "college_campus",
+  "format": "natural_mentor",
+  "mentor_type": "teacher_school_staff",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "career_employment": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Gallup-Purdue survey of graduates linking college experiences, including a mentor, to later workplace engagement."
+ },
+ {
+  "id": "EJ1143628",
+  "design": "correlational",
+  "rigor": 4,
+  "n_youth": 6076,
+  "country": "US",
+  "setting": "college_campus",
+  "format": "natural_mentor",
+  "mentor_type": "natural_informal",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "psychosocial_other": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Survey regression on international versus domestic undergraduates; personal-development mentorship narrowed leadership outcome gap."
+ },
+ {
+  "id": "EJ1144295",
+  "design": "correlational",
+  "rigor": 1,
+  "n_youth": 63,
+  "country": "unclear",
+  "setting": "online",
+  "format": "unclear",
+  "mentor_type": "college_student",
+  "targets": [
+   "racial_ethnic_minority"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "academic_achievement": "mixed"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Survey of online peer mentoring among pre-service teachers; descriptive and chi-square comparisons, only marginal associations with performance."
+ },
+ {
+  "id": "EJ1144782",
+  "design": "correlational",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "US",
+  "setting": "school_based",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "urban"
+  ],
+  "grade_band": "high",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "academic_achievement": "positive",
+   "belonging_connectedness": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Long-term evaluation of a district high school mentoring programme using descriptive and multivariate methods; reported success."
+ },
+ {
+  "id": "EJ1145124",
+  "design": "other",
+  "rigor": 1,
+  "n_youth": null,
+  "country": "unclear",
+  "setting": "college_campus",
+  "format": "unclear",
+  "mentor_type": "college_student",
+  "targets": [
+   "stem_general"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "weekly_or_more",
+  "bridging": "no",
+  "outcomes": {
+   "self_efficacy_confidence": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Describes training of near-peer mentors in intro computer science; students rated mentors highly and credited meetings for self-efficacy."
+ },
+ {
+  "id": "EJ1145695",
+  "design": "correlational",
+  "rigor": 4,
+  "n_youth": null,
+  "country": "unclear",
+  "setting": "college_campus",
+  "format": "unclear",
+  "mentor_type": "mixed",
+  "targets": [
+   "racial_ethnic_minority",
+   "girls_women_stem"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "psychosocial_other": "mixed",
+   "career_employment": "mixed"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "National survey linking undergraduate research mentoring structure to outcomes; associations differed by gender and minority status."
+ },
+ {
+  "id": "EJ1145759",
+  "design": "quasi_experimental",
+  "rigor": 3,
+  "n_youth": 347,
+  "country": "other",
+  "setting": "online",
+  "format": "mixed",
+  "mentor_type": "adult_volunteer",
+  "targets": [
+   "girls_women_stem",
+   "gifted"
+  ],
+  "grade_band": "high",
+  "program_name": null,
+  "duration_months": 6,
+  "frequency": "not_reported",
+  "bridging": "yes",
+  "outcomes": {
+   "career_employment": "positive",
+   "relationships_social": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "German online STEM mentoring for talented girls; group format outperformed one-on-one on networking and elective intentions."
+ },
+ {
+  "id": "EJ1146327",
+  "design": "correlational",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "US",
+  "setting": "college_campus",
+  "format": "unclear",
+  "mentor_type": "teacher_school_staff",
+  "targets": [
+   "racial_ethnic_minority"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "academic_achievement": "positive",
+   "engagement_attendance": "positive",
+   "psychosocial_other": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Survey data at a Hispanic-serving institution; undergraduate research participation predicted five outcomes; mentoring is peripheral."
+ },
+ {
+  "id": "EJ1146455",
+  "design": "pre_post",
+  "rigor": 2,
+  "n_youth": 5,
+  "country": "UK",
+  "setting": "school_based",
+  "format": "one_to_one",
+  "mentor_type": "older_peer",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "k12_mixed",
+  "program_name": null,
+  "duration_months": 1.5,
+  "frequency": "other",
+  "bridging": "no",
+  "outcomes": {
+   "psychosocial_other": "mixed"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Small pilot pairing anxious girls with older peer mentors; most reported lower maths anxiety, resilience findings inconsistent."
+ },
+ {
+  "id": "EJ1146494",
+  "design": "other",
+  "rigor": 1,
+  "n_youth": null,
+  "country": "unclear",
+  "setting": "school_based",
+  "format": "unclear",
+  "mentor_type": "college_student",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "elementary",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "yes",
+  "outcomes": {
+   "engagement_attendance": "positive",
+   "behavior_delinquency": "positive",
+   "college_access_enrollment": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Student-athletes mentoring fourth graders; teacher and student reports of motivation, behaviour and college awareness improvements."
+ },
+ {
+  "id": "EJ1146621",
+  "design": "quasi_experimental",
+  "rigor": 3,
+  "n_youth": 20,
+  "country": "UK",
+  "setting": "school_based",
+  "format": "one_to_one",
+  "mentor_type": "college_student",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "high",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "yes",
+  "outcomes": {
+   "self_efficacy_confidence": "null",
+   "college_access_enrollment": "null"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Psychology undergraduates mentored A-level pupils; mentees did not beat non-mentored pupils on measured attitudes or self-efficacy."
+ },
+ {
+  "id": "EJ1146985",
+  "design": "pre_post",
+  "rigor": 2,
+  "n_youth": null,
+  "country": "unclear",
+  "setting": "school_based",
+  "format": "one_to_one",
+  "mentor_type": "college_student",
+  "targets": [
+   "at_risk_behavior"
+  ],
+  "grade_band": "middle",
+  "program_name": null,
+  "duration_months": 2.5,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "psychosocial_other": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Communication students mentored at-risk middle schoolers for ten weeks; self-reported communication apprehension fell significantly."
+ },
+ {
+  "id": "EJ1147170",
+  "design": "quasi_experimental",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "unclear",
+  "setting": "school_based",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "low_income",
+   "urban"
+  ],
+  "grade_band": "elementary",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "academic_achievement": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Faith-based school partnership including mentoring; reading gains exceeded a control school and gaps narrowed."
+ },
+ {
+  "id": "EJ1150765",
+  "design": "correlational",
+  "rigor": 3,
+  "n_youth": 482,
+  "country": "unclear",
+  "setting": "college_campus",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "engagement_attendance": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Regression of social work student organization involvement; student mentorship was one significant predictor."
+ },
+ {
+  "id": "EJ1151186",
+  "design": "quasi_experimental",
+  "rigor": 4,
+  "n_youth": null,
+  "country": "US",
+  "setting": "school_based",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "low_income",
+   "racial_ethnic_minority",
+   "at_risk_behavior"
+  ],
+  "grade_band": "k12_mixed",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "engagement_attendance": "null",
+   "behavior_delinquency": "null",
+   "academic_achievement": "null"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Propensity-matched evaluation across five districts found no significant effects on attendance, behaviour or course passing."
+ },
+ {
+  "id": "EJ1152401",
+  "design": "pre_post",
+  "rigor": 2,
+  "n_youth": 14,
+  "country": "unclear",
+  "setting": "school_based",
+  "format": "one_to_one",
+  "mentor_type": "unclear",
+  "targets": [
+   "disability"
+  ],
+  "grade_band": "high",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "self_efficacy_confidence": "negative",
+   "relationships_social": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Choir peer pairs with and without disabilities; mentees reported slightly lower success perceptions but wanted to stay paired socially."
+ },
+ {
+  "id": "EJ1155256",
+  "design": "other",
+  "rigor": 3,
+  "n_youth": 6,
+  "country": "unclear",
+  "setting": "school_based",
+  "format": "one_to_one",
+  "mentor_type": "unclear",
+  "targets": [
+   "at_risk_behavior"
+  ],
+  "grade_band": "elementary",
+  "program_name": "Courage and Confidence Mentor Program",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "mental_health": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Multiple-baseline single-case pilot; most children showed lower teacher-rated internalizing problems."
+ },
+ {
+  "id": "EJ1155319",
+  "design": "quasi_experimental",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "unclear",
+  "setting": "online",
+  "format": "one_to_one",
+  "mentor_type": "unclear",
+  "targets": [
+   "at_risk_behavior"
+  ],
+  "grade_band": "high",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {
+   "self_efficacy_confidence": "null",
+   "career_employment": "null",
+   "engagement_attendance": "null",
+   "academic_achievement": "null"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "E-mentoring for dropout-prevention students; satisfied users but no differences from controls on any measured outcome."
+ },
+ {
+  "id": "EJ1155678",
+  "design": "quasi_experimental",
+  "rigor": 3,
+  "n_youth": 34,
+  "country": "unclear",
+  "setting": "school_based",
+  "format": "one_to_one",
+  "mentor_type": "older_peer",
+  "targets": [
+   "at_risk_behavior",
+   "urban"
+  ],
+  "grade_band": "high",
+  "program_name": "SMARTS",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "engagement_attendance": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Peer mentoring plus executive function instruction; engaged mentees showed more effort and strategy use."
+ },
+ {
+  "id": "EJ1156917",
+  "design": "other",
+  "rigor": 1,
+  "n_youth": null,
+  "country": "US",
+  "setting": "mixed",
+  "format": "mixed",
+  "mentor_type": "mixed",
+  "targets": [
+   "girls_women_stem",
+   "racial_ethnic_minority",
+   "stem_general"
+  ],
+  "grade_band": "k12_mixed",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "yes",
+  "outcomes": {
+   "self_efficacy_confidence": "positive",
+   "career_employment": "positive"
+  },
+  "effect_sizes": [
+   {
+    "domain": "self_efficacy_confidence",
+    "metric": "other",
+    "value": 55,
+    "note": "percent more likely, interest and confidence in STEM"
+   },
+   {
+    "domain": "career_employment",
+    "metric": "other",
+    "value": 25,
+    "note": "percent more likely, interest in STEM careers"
+   }
+  ],
+  "review_details": null,
+  "notes": "Industry engineers mentoring Hartford-area students; descriptive report claiming higher STEM interest and career intentions."
+ },
+ {
+  "id": "EJ1158187",
+  "design": "pre_post",
+  "rigor": 2,
+  "n_youth": 189,
+  "country": "unclear",
+  "setting": "online",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "disability",
+   "stem_general"
+  ],
+  "grade_band": "k12_mixed",
+  "program_name": null,
+  "duration_months": 48,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "psychosocial_other": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Virtual mentoring survey of STEM students with disabilities; largest gains in self-determination and self-advocacy."
+ },
+ {
+  "id": "EJ1158188",
+  "design": "rct",
+  "rigor": 5,
+  "n_youth": null,
+  "country": "unclear",
+  "setting": "unclear",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "disability",
+   "stem_general"
+  ],
+  "grade_band": "high",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {
+   "career_employment": "positive",
+   "self_efficacy_confidence": "mixed",
+   "engagement_attendance": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Randomized STEM mentoring for disabled students; gains in knowledge, engagement, confidence but not self-efficacy."
+ },
+ {
+  "id": "EJ1161342",
+  "design": "correlational",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "unclear",
+  "setting": "college_campus",
+  "format": "unclear",
+  "mentor_type": "older_peer",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "academic_achievement": "positive",
+   "graduation_persistence": "null"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "First-year peer mentor programme; mentor contact associated with higher grades, retention link unclear."
+ },
+ {
+  "id": "EJ1164613",
+  "design": "pre_post",
+  "rigor": 2,
+  "n_youth": null,
+  "country": "US",
+  "setting": "school_based",
+  "format": "peer_cross_age",
+  "mentor_type": "older_peer",
+  "targets": [
+   "urban"
+  ],
+  "grade_band": "k12_mixed",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {},
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "High schoolers trained to mentor seventh graders on climate science; qualitative description of understandings and mentoring features."
+ }
+]

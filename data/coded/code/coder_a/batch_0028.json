@@ -1,0 +1,692 @@
+[
+ {
+  "id": "EJ1354961",
+  "design": "review",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "unclear",
+  "setting": "online",
+  "format": "peer_cross_age",
+  "mentor_type": "older_peer",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {},
+  "effect_sizes": [],
+  "review_details": {
+   "n_studies": 4,
+   "pooled_metric": null,
+   "pooled_value": null
+  },
+  "notes": "Narrative systematic review of online peer support in distance higher education; four studies, inconclusive."
+ },
+ {
+  "id": "EJ1355617",
+  "design": "pre_post",
+  "rigor": 2,
+  "n_youth": 7,
+  "country": "unclear",
+  "setting": "community_based",
+  "format": "one_to_one",
+  "mentor_type": "unclear",
+  "targets": [
+   "disability"
+  ],
+  "grade_band": "high",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "psychosocial_other": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Small single-group pilot pairing autistic teens with autistic adults after school; favorable pre-post changes."
+ },
+ {
+  "id": "EJ1355941",
+  "design": "rct",
+  "rigor": 5,
+  "n_youth": 623,
+  "country": "unclear",
+  "setting": "school_based",
+  "format": "one_to_one",
+  "mentor_type": "unclear",
+  "targets": [
+   "immigrant_ell",
+   "urban"
+  ],
+  "grade_band": "high",
+  "program_name": null,
+  "duration_months": 12,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "engagement_attendance": "null",
+   "behavior_delinquency": "null",
+   "academic_achievement": "null"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Four-arm randomized trial; mentoring arm showed no effects on engagement, absences, failures or referrals."
+ },
+ {
+  "id": "EJ1357896",
+  "design": "other",
+  "rigor": 1,
+  "n_youth": null,
+  "country": "unclear",
+  "setting": "online",
+  "format": "peer_cross_age",
+  "mentor_type": "older_peer",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {},
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Describes online peer mentoring program at liberal arts college; outcome directions not stated in abstract."
+ },
+ {
+  "id": "EJ1358601",
+  "design": "other",
+  "rigor": 1,
+  "n_youth": 20,
+  "country": "unclear",
+  "setting": "mixed",
+  "format": "mixed",
+  "mentor_type": "mixed",
+  "targets": [
+   "stem_general"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": 12,
+  "frequency": "not_reported",
+  "bridging": "yes",
+  "outcomes": {
+   "college_access_enrollment": "positive"
+  },
+  "effect_sizes": [
+   {
+    "domain": "college_access_enrollment",
+    "metric": "other",
+    "value": 70,
+    "note": "percent transferring to 4-year; no comparison rate"
+   }
+  ],
+  "review_details": null,
+  "notes": "Case study of community college geoscience program with research and internships; high transfer rate."
+ },
+ {
+  "id": "EJ1358624",
+  "design": "pre_post",
+  "rigor": 2,
+  "n_youth": 60,
+  "country": "US",
+  "setting": "mixed",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "rural",
+   "urban",
+   "stem_general"
+  ],
+  "grade_band": "high",
+  "program_name": "Knight Scholars Program",
+  "duration_months": 36,
+  "frequency": "other",
+  "bridging": "yes",
+  "outcomes": {
+   "self_efficacy_confidence": "positive",
+   "career_employment": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Tiered three-year mentored cancer research training for high schoolers; gains in interest and research self-efficacy."
+ },
+ {
+  "id": "EJ1358914",
+  "design": "quasi_experimental",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "other",
+  "setting": "college_campus",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": 1.4,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "self_efficacy_confidence": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Course-based research preparation compared enrollees with non-enrollees; more confidence and earlier mentored research."
+ },
+ {
+  "id": "EJ1360393",
+  "design": "pre_post",
+  "rigor": 2,
+  "n_youth": 113,
+  "country": "US",
+  "setting": "college_campus",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "racial_ethnic_minority",
+   "first_generation",
+   "stem_general"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": 2.3,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {
+   "self_efficacy_confidence": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Summer undergraduate research program; pre-post surveys show self-reported skill growth."
+ },
+ {
+  "id": "EJ1360785",
+  "design": "correlational",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "US",
+  "setting": "school_based",
+  "format": "mixed",
+  "mentor_type": "unclear",
+  "targets": [
+   "first_generation",
+   "low_income",
+   "urban"
+  ],
+  "grade_band": "high",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "yes",
+  "outcomes": {
+   "graduation_persistence": "positive",
+   "college_access_enrollment": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Hybrid school mentoring in New York City; matched months and program elements linked to graduating and enrolling."
+ },
+ {
+  "id": "EJ1361773",
+  "design": "pre_post",
+  "rigor": 2,
+  "n_youth": null,
+  "country": "unclear",
+  "setting": "school_based",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "high",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {
+   "psychosocial_other": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Practitioner study of substance-prevention program; goal clarity and mentor identification rose."
+ },
+ {
+  "id": "EJ1363196",
+  "design": "quasi_experimental",
+  "rigor": 4,
+  "n_youth": null,
+  "country": "US",
+  "setting": "school_based",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "racial_ethnic_minority"
+  ],
+  "grade_band": "middle",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "academic_achievement": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Secondary analysis of national school mentoring evaluation; GPA gains, larger for African American students with same-race mentors."
+ },
+ {
+  "id": "EJ1363527",
+  "design": "quasi_experimental",
+  "rigor": 4,
+  "n_youth": 128,
+  "country": "unclear",
+  "setting": "school_based",
+  "format": "one_to_one",
+  "mentor_type": "unclear",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "elementary",
+  "program_name": "Literacy-Enhanced Mentoring",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "relationships_social": "null"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Propensity-matched comparison of literacy-enhanced versus traditional matches; no difference in relationship strength or match length."
+ },
+ {
+  "id": "EJ1363630",
+  "design": "correlational",
+  "rigor": 3,
+  "n_youth": 6802,
+  "country": "US",
+  "setting": "workplace_career",
+  "format": "natural_mentor",
+  "mentor_type": "natural_informal",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "yes",
+  "outcomes": {
+   "career_employment": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Survey of recent graduates on internship supervisor support and mentor status predicting job offer acceptance."
+ },
+ {
+  "id": "EJ1363722",
+  "design": "quasi_experimental",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "unclear",
+  "setting": "college_campus",
+  "format": "peer_cross_age",
+  "mentor_type": "older_peer",
+  "targets": [
+   "first_generation"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "graduation_persistence": "positive",
+   "academic_achievement": "positive"
+  },
+  "effect_sizes": [
+   {
+    "domain": "graduation_persistence",
+    "metric": "pct_points",
+    "value": 10,
+    "note": "up to 10 points higher persistence with leader"
+   },
+   {
+    "domain": "academic_achievement",
+    "metric": "other",
+    "value": 0.4,
+    "note": "first-term GPA points, up to"
+   }
+  ],
+  "review_details": null,
+  "notes": "Class leader peer mentors versus none; higher persistence and first-term GPA."
+ },
+ {
+  "id": "EJ1364164",
+  "design": "other",
+  "rigor": 2,
+  "n_youth": 3,
+  "country": "unclear",
+  "setting": "school_based",
+  "format": "one_to_one",
+  "mentor_type": "unclear",
+  "targets": [
+   "racial_ethnic_minority",
+   "disability",
+   "at_risk_behavior",
+   "urban"
+  ],
+  "grade_band": "high",
+  "program_name": "Check-In Check-Out",
+  "duration_months": null,
+  "frequency": "weekly_or_more",
+  "bridging": "no",
+  "outcomes": {
+   "behavior_delinquency": "positive",
+   "psychosocial_other": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Single-case multiple baseline with three ninth-grade boys; behavior and academic planning improved."
+ },
+ {
+  "id": "EJ1364631",
+  "design": "pre_post",
+  "rigor": 2,
+  "n_youth": null,
+  "country": "unclear",
+  "setting": "college_campus",
+  "format": "group",
+  "mentor_type": "older_peer",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": 4,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "relationships_social": "positive"
+  },
+  "effect_sizes": [
+   {
+    "domain": "relationships_social",
+    "metric": "other",
+    "value": 20,
+    "note": "factor increase in network-wide friendships; no comparison"
+   }
+  ],
+  "review_details": null,
+  "notes": "Student mentor groups in engineering courses; friendship network connections grew sharply over semester."
+ },
+ {
+  "id": "EJ1366175",
+  "design": "quasi_experimental",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "unclear",
+  "setting": "college_campus",
+  "format": "peer_cross_age",
+  "mentor_type": "older_peer",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": 4,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "academic_achievement": "null"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Two programming sections compared; supplemental instructors present in class gave no extra benefit."
+ },
+ {
+  "id": "EJ1366687",
+  "design": "correlational",
+  "rigor": 3,
+  "n_youth": 92,
+  "country": "unclear",
+  "setting": "college_campus",
+  "format": "group",
+  "mentor_type": "older_peer",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "weekly_or_more",
+  "bridging": "no",
+  "outcomes": {
+   "academic_achievement": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Screened at-risk first-year computing students; workshop attendance correlated with attainment."
+ },
+ {
+  "id": "EJ1369899",
+  "design": "correlational",
+  "rigor": 3,
+  "n_youth": 104,
+  "country": "unclear",
+  "setting": "school_based",
+  "format": "natural_mentor",
+  "mentor_type": "unclear",
+  "targets": [
+   "racial_ethnic_minority"
+  ],
+  "grade_band": "high",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "graduation_persistence": "mixed"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Survey of Latinx high schoolers; mentorship link to persistence decisions weakened by school responsiveness."
+ },
+ {
+  "id": "EJ1374408",
+  "design": "quasi_experimental",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "unclear",
+  "setting": "college_campus",
+  "format": "unclear",
+  "mentor_type": "college_student",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "psychosocial_other": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Graduate writing mentors plus assignments; intervention group lowered writing apprehension pre to post."
+ },
+ {
+  "id": "EJ1375196",
+  "design": "correlational",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "other",
+  "setting": "college_campus",
+  "format": "peer_cross_age",
+  "mentor_type": "older_peer",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "college",
+  "program_name": "BeWell Peer Mentoring",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "psychosocial_other": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Mixed-methods evaluation; first-year adjustment improved with more intense peer mentoring."
+ },
+ {
+  "id": "EJ1375579",
+  "design": "pre_post",
+  "rigor": 2,
+  "n_youth": null,
+  "country": "unclear",
+  "setting": "school_based",
+  "format": "unclear",
+  "mentor_type": "college_student",
+  "targets": [
+   "low_income",
+   "stem_general",
+   "first_generation"
+  ],
+  "grade_band": "k12_mixed",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "other",
+  "bridging": "yes",
+  "outcomes": {
+   "psychosocial_other": "positive"
+  },
+  "effect_sizes": [
+   {
+    "domain": "psychosocial_other",
+    "metric": "other",
+    "value": 25,
+    "note": "up to 25% rise in favorable science perception; pre-post"
+   }
+  ],
+  "review_details": null,
+  "notes": "College student volunteers visited charter school classes; science attitudes rose, most among girls of color."
+ },
+ {
+  "id": "EJ1376646",
+  "design": "correlational",
+  "rigor": 3,
+  "n_youth": 242,
+  "country": "US",
+  "setting": "college_campus",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "first_generation",
+   "stem_general"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "self_efficacy_confidence": "positive",
+   "psychosocial_other": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Structural model linked out-of-class mentored research to research self-efficacy and outcome expectations."
+ },
+ {
+  "id": "EJ1376803",
+  "design": "other",
+  "rigor": 1,
+  "n_youth": null,
+  "country": "other",
+  "setting": "college_campus",
+  "format": "peer_cross_age",
+  "mentor_type": "older_peer",
+  "targets": [
+   "immigrant_ell"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "psychosocial_other": "positive",
+   "relationships_social": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Peer mentoring for Indian medical students in China; perceived adaptation and social support advantages."
+ },
+ {
+  "id": "EJ1378379",
+  "design": "rct",
+  "rigor": 5,
+  "n_youth": 358,
+  "country": "unclear",
+  "setting": "school_based",
+  "format": "one_to_one",
+  "mentor_type": "unclear",
+  "targets": [
+   "immigrant_ell"
+  ],
+  "grade_band": "high",
+  "program_name": "Check & Connect",
+  "duration_months": 24,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "engagement_attendance": "null",
+   "relationships_social": "null",
+   "psychosocial_other": "null",
+   "behavior_delinquency": "null",
+   "academic_achievement": "null"
+  },
+  "effect_sizes": [
+   {
+    "domain": "engagement_attendance",
+    "metric": "d",
+    "value": 0.14,
+    "note": "behavioral disengagement; sign flipped so lower is better"
+   },
+   {
+    "domain": "engagement_attendance",
+    "metric": "d",
+    "value": -0.22,
+    "note": "psychological engagement"
+   },
+   {
+    "domain": "engagement_attendance",
+    "metric": "d",
+    "value": -0.12,
+    "note": "academic and cognitive engagement"
+   },
+   {
+    "domain": "relationships_social",
+    "metric": "d",
+    "value": -0.1,
+    "note": "student-teacher relationships"
+   },
+   {
+    "domain": "psychosocial_other",
+    "metric": "d",
+    "value": -0.11,
+    "note": "goal-setting and problem-solving"
+   }
+  ],
+  "review_details": null,
+  "notes": "Randomized trial of Check and Connect with English learners; no significant engagement effects."
+ }
+]

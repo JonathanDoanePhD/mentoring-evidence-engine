@@ -1,0 +1,1052 @@
+[
+ {
+  "id": "EJ1213335",
+  "decision": "exclude_not_mentoring",
+  "population": "college_undergrad",
+  "confidence": "medium",
+  "reason": "Undergraduate research office; mentoring only incidental"
+ },
+ {
+  "id": "EJ1105379",
+  "decision": "exclude_adult",
+  "population": "adult",
+  "confidence": "high",
+  "reason": "Special education administrators mentored on the job"
+ },
+ {
+  "id": "ED517442",
+  "decision": "exclude_adult",
+  "population": "adult",
+  "confidence": "high",
+  "reason": "Veteran teachers as mentors of novice teachers"
+ },
+ {
+  "id": "ED620189",
+  "decision": "include_other",
+  "population": "college_undergrad",
+  "confidence": "low",
+  "reason": "Book describing mentoring model for minority students and faculty; descriptive"
+ },
+ {
+  "id": "ED584875",
+  "decision": "exclude_adult",
+  "population": "adult",
+  "confidence": "high",
+  "reason": "Teacher self-efficacy survey; mentoring only a suggestion"
+ },
+ {
+  "id": "EJ908984",
+  "decision": "exclude_adult",
+  "population": "adult",
+  "confidence": "high",
+  "reason": "Teachers mentored in action research"
+ },
+ {
+  "id": "EJ552058",
+  "decision": "include_other",
+  "population": "k12_mixed",
+  "confidence": "high",
+  "reason": "Opinion piece on mentoring Black youth; no outcomes data"
+ },
+ {
+  "id": "ED614556",
+  "decision": "exclude_adult",
+  "population": "adult",
+  "confidence": "high",
+  "reason": "Mentor training for teachers of beginning teachers"
+ },
+ {
+  "id": "EJ1006493",
+  "decision": "include_other",
+  "population": "k12_mixed",
+  "confidence": "medium",
+  "reason": "Mixed-method study of school mentoring relationship patterns; no mentee outcomes"
+ },
+ {
+  "id": "ED547212",
+  "decision": "exclude_adult",
+  "population": "adult",
+  "confidence": "high",
+  "reason": "New teachers perceptions of school assimilation"
+ },
+ {
+  "id": "ED429985",
+  "decision": "include_other",
+  "population": "k12_middle",
+  "confidence": "high",
+  "reason": "Qualitative study of college women mentoring sixth-grade girls"
+ },
+ {
+  "id": "EJ1194931",
+  "decision": "include_other",
+  "population": "college_undergrad",
+  "confidence": "medium",
+  "reason": "Outcomes for undergraduate mentors only, not mentees"
+ },
+ {
+  "id": "EJ1067297",
+  "decision": "exclude_adult",
+  "population": "adult",
+  "confidence": "high",
+  "reason": "Teacher-mentees perceptions of mentors as leaders"
+ },
+ {
+  "id": "EJ1359546",
+  "decision": "exclude_adult",
+  "population": "adult",
+  "confidence": "high",
+  "reason": "Student teacher supervision model; teachers"
+ },
+ {
+  "id": "ED371096",
+  "decision": "include_outcome",
+  "population": "k12_middle",
+  "confidence": "low",
+  "reason": "Corporate volunteer tutor-mentors; dropout and completion percentages reported"
+ },
+ {
+  "id": "EJ1320548",
+  "decision": "exclude_adult",
+  "population": "adult",
+  "confidence": "high",
+  "reason": "Doctoral students dissertation mentoring"
+ },
+ {
+  "id": "EJ1203307",
+  "decision": "include_outcome",
+  "population": "k12_middle",
+  "confidence": "low",
+  "reason": "College camp vertical mentoring; self-efficacy scale, exploratory case study"
+ },
+ {
+  "id": "EJ1136213",
+  "decision": "exclude_adult",
+  "population": "adult",
+  "confidence": "high",
+  "reason": "Doctoral social work students and debt"
+ },
+ {
+  "id": "EJ1049941",
+  "decision": "exclude_adult",
+  "population": "adult",
+  "confidence": "high",
+  "reason": "Preservice teachers with mentor teachers"
+ },
+ {
+  "id": "EJ973279",
+  "decision": "exclude_other",
+  "population": "adult",
+  "confidence": "high",
+  "reason": "Older adults generativity and oral history; not youth mentoring"
+ },
+ {
+  "id": "ED546602",
+  "decision": "exclude_not_mentoring",
+  "population": "youth_other",
+  "confidence": "medium",
+  "reason": "Play therapy trial; reading mentoring only an active control"
+ },
+ {
+  "id": "EJ634912",
+  "decision": "exclude_adult",
+  "population": "adult",
+  "confidence": "high",
+  "reason": "First-year teacher internship program"
+ },
+ {
+  "id": "EJ1309082",
+  "decision": "include_other",
+  "population": "college_undergrad",
+  "confidence": "medium",
+  "reason": "Interviews on undergraduate research mentoring during COVID"
+ },
+ {
+  "id": "EJ680335",
+  "decision": "exclude_not_mentoring",
+  "population": "college_undergrad",
+  "confidence": "medium",
+  "reason": "Preservice teacher service-learning tutoring; no mentoring relationship"
+ },
+ {
+  "id": "EJ863460",
+  "decision": "exclude_adult",
+  "population": "adult",
+  "confidence": "high",
+  "reason": "Teacher professional development demonstration classroom"
+ },
+ {
+  "id": "EJ1372224",
+  "decision": "exclude_other",
+  "population": "adult",
+  "confidence": "high",
+  "reason": "Descriptive profile of TESOL faculty"
+ },
+ {
+  "id": "EJ1235325",
+  "decision": "exclude_adult",
+  "population": "adult",
+  "confidence": "high",
+  "reason": "Math teachers online community"
+ },
+ {
+  "id": "EJ1069604",
+  "decision": "exclude_adult",
+  "population": "adult",
+  "confidence": "high",
+  "reason": "Preservice teacher program evaluation"
+ },
+ {
+  "id": "EJ1268126",
+  "decision": "include_other",
+  "population": "k12_elementary",
+  "confidence": "medium",
+  "reason": "Graduate student mentors reflections teaching fifth graders; qualitative, mentor-side"
+ },
+ {
+  "id": "ED514972",
+  "decision": "include_other",
+  "population": "k12_high",
+  "confidence": "medium",
+  "reason": "Qualitative case study of mentoring program for Black males"
+ },
+ {
+  "id": "EJ753615",
+  "decision": "exclude_adult",
+  "population": "adult",
+  "confidence": "high",
+  "reason": "Student teachers mentored in literacy tasks"
+ },
+ {
+  "id": "EJ1215421",
+  "decision": "exclude_not_mentoring",
+  "population": "college_undergrad",
+  "confidence": "medium",
+  "reason": "Liberal arts career readiness overview; mentorship passing mention"
+ },
+ {
+  "id": "ED550710",
+  "decision": "exclude_adult",
+  "population": "adult",
+  "confidence": "high",
+  "reason": "Preservice teacher discussion group"
+ },
+ {
+  "id": "ED567792",
+  "decision": "include_other",
+  "population": "youth_other",
+  "confidence": "medium",
+  "reason": "Case studies of social support and mentoring for young apprentices"
+ },
+ {
+  "id": "EJ879540",
+  "decision": "exclude_adult",
+  "population": "adult",
+  "confidence": "high",
+  "reason": "Design guide for teacher mentor programs"
+ },
+ {
+  "id": "EJ1005515",
+  "decision": "exclude_adult",
+  "population": "adult",
+  "confidence": "high",
+  "reason": "Faculty and professional staff mentoring interviews"
+ },
+ {
+  "id": "EJ1394786",
+  "decision": "include_other",
+  "population": "college_undergrad",
+  "confidence": "low",
+  "reason": "STEM program with mentorships for college students; mentoring effects unclear"
+ },
+ {
+  "id": "ED609443",
+  "decision": "exclude_other",
+  "population": "adult",
+  "confidence": "high",
+  "reason": "Adult education technology market report"
+ },
+ {
+  "id": "ED570404",
+  "decision": "exclude_adult",
+  "population": "adult",
+  "confidence": "high",
+  "reason": "Black women administrators career barriers"
+ },
+ {
+  "id": "EJ1310487",
+  "decision": "exclude_adult",
+  "population": "adult",
+  "confidence": "high",
+  "reason": "Graduate student peer mentors in social work"
+ },
+ {
+  "id": "EJ1213621",
+  "decision": "exclude_adult",
+  "population": "adult",
+  "confidence": "high",
+  "reason": "Black computing faculty microaggressions"
+ },
+ {
+  "id": "EJ1245337",
+  "decision": "exclude_adult",
+  "population": "adult",
+  "confidence": "high",
+  "reason": "Teacher classroom environment differences"
+ },
+ {
+  "id": "EJ1013850",
+  "decision": "exclude_adult",
+  "population": "adult",
+  "confidence": "high",
+  "reason": "Latina faculty support group"
+ },
+ {
+  "id": "ED442457",
+  "decision": "include_other",
+  "population": "k12_mixed",
+  "confidence": "medium",
+  "reason": "Teens and online mentors in project learning; qualitative with some associations"
+ },
+ {
+  "id": "EJ1197952",
+  "decision": "exclude_adult",
+  "population": "adult",
+  "confidence": "high",
+  "reason": "Preservice teachers and school mentors"
+ },
+ {
+  "id": "EJ1318151",
+  "decision": "include_other",
+  "population": "youth_other",
+  "confidence": "high",
+  "reason": "Qualitative study of Romani natural mentors in Spain"
+ },
+ {
+  "id": "EJ1166861",
+  "decision": "include_review",
+  "population": "college_undergrad",
+  "confidence": "medium",
+  "reason": "Research synthesis of undergraduate mentoring literature"
+ },
+ {
+  "id": "EJ1308569",
+  "decision": "exclude_adult",
+  "population": "adult",
+  "confidence": "high",
+  "reason": "Review of preservice teacher supervision"
+ },
+ {
+  "id": "EJ1355694",
+  "decision": "exclude_adult",
+  "population": "adult",
+  "confidence": "high",
+  "reason": "Master teacher trainees views on tutoring role"
+ },
+ {
+  "id": "EJ795294",
+  "decision": "exclude_adult",
+  "population": "adult",
+  "confidence": "high",
+  "reason": "Beginning teacher mentoring advice"
+ },
+ {
+  "id": "ED567040",
+  "decision": "exclude_other",
+  "population": "unclear",
+  "confidence": "high",
+  "reason": "Conference proceedings volume, not mentoring"
+ },
+ {
+  "id": "EJ1257972",
+  "decision": "exclude_other",
+  "population": "college_undergrad",
+  "confidence": "high",
+  "reason": "Interdisciplinary studio course; no mentoring"
+ },
+ {
+  "id": "ED575751",
+  "decision": "exclude_not_mentoring",
+  "population": "college_undergrad",
+  "confidence": "medium",
+  "reason": "First-generation student resilience narratives; mentors incidental"
+ },
+ {
+  "id": "ED620445",
+  "decision": "exclude_adult",
+  "population": "adult",
+  "confidence": "high",
+  "reason": "New bilingual teacher survey"
+ },
+ {
+  "id": "EJ1038100",
+  "decision": "exclude_adult",
+  "population": "adult",
+  "confidence": "high",
+  "reason": "Preservice teacher science efficacy partnerships"
+ },
+ {
+  "id": "EJ1112858",
+  "decision": "include_other",
+  "population": "college_undergrad",
+  "confidence": "medium",
+  "reason": "First-year student mentoring by case managers; descriptive case study"
+ },
+ {
+  "id": "EJ1146327",
+  "decision": "include_outcome",
+  "population": "college_undergrad",
+  "confidence": "low",
+  "reason": "Undergraduate research participation linked to GPA; mentoring relationship unclear"
+ },
+ {
+  "id": "EJ1346253",
+  "decision": "exclude_adult",
+  "population": "adult",
+  "confidence": "high",
+  "reason": "Co-teaching music teachers"
+ },
+ {
+  "id": "EJ1284753",
+  "decision": "include_other",
+  "population": "college_undergrad",
+  "confidence": "low",
+  "reason": "Executive women mentoring interviews applied to undergraduate teaching"
+ },
+ {
+  "id": "EJ1272460",
+  "decision": "include_other",
+  "population": "k12_mixed",
+  "confidence": "medium",
+  "reason": "Focus groups on arts outreach mentors and role models; qualitative"
+ },
+ {
+  "id": "ED624802",
+  "decision": "include_other",
+  "population": "k12_mixed",
+  "confidence": "low",
+  "reason": "Teacher survey including views on student mentoring; descriptive"
+ },
+ {
+  "id": "ED521093",
+  "decision": "exclude_adult",
+  "population": "adult",
+  "confidence": "high",
+  "reason": "Principals work-life balance"
+ },
+ {
+  "id": "ED603415",
+  "decision": "exclude_adult",
+  "population": "adult",
+  "confidence": "high",
+  "reason": "Early childhood educator preparation programs"
+ },
+ {
+  "id": "EJ996063",
+  "decision": "exclude_adult",
+  "population": "adult",
+  "confidence": "high",
+  "reason": "Teacher trainee wellbeing"
+ },
+ {
+  "id": "EJ759935",
+  "decision": "exclude_adult",
+  "population": "adult",
+  "confidence": "high",
+  "reason": "Instrument for preservice teacher mentoring"
+ },
+ {
+  "id": "EJ1371240",
+  "decision": "exclude_adult",
+  "population": "adult",
+  "confidence": "high",
+  "reason": "Malaysian PhD returnees as faculty"
+ },
+ {
+  "id": "ED326876",
+  "decision": "exclude_other",
+  "population": "unclear",
+  "confidence": "high",
+  "reason": "District language learning philosophy statement"
+ },
+ {
+  "id": "ED303078",
+  "decision": "include_other",
+  "population": "k12_high",
+  "confidence": "low",
+  "reason": "High school peer teaching career program; descriptive survey, no mentoring outcomes"
+ },
+ {
+  "id": "EJ881508",
+  "decision": "exclude_adult",
+  "population": "adult",
+  "confidence": "high",
+  "reason": "Mentor teachers reflective moments"
+ },
+ {
+  "id": "EJ1278721",
+  "decision": "exclude_adult",
+  "population": "adult",
+  "confidence": "high",
+  "reason": "Academic mentoring systematic review in faculty"
+ },
+ {
+  "id": "ED503234",
+  "decision": "include_outcome",
+  "population": "youth_other",
+  "confidence": "high",
+  "reason": "Faith-based mentoring and depression in high-risk youth compared"
+ },
+ {
+  "id": "EJ1403130",
+  "decision": "exclude_other",
+  "population": "k12_middle",
+  "confidence": "high",
+  "reason": "Analysis of young adult fiction"
+ },
+ {
+  "id": "EJ1297274",
+  "decision": "include_outcome",
+  "population": "k12_high",
+  "confidence": "high",
+  "reason": "Survey of natural mentors and teen outcomes via SEM"
+ },
+ {
+  "id": "EJ1237383",
+  "decision": "exclude_adult",
+  "population": "adult",
+  "confidence": "high",
+  "reason": "Preservice teachers and edTPA"
+ },
+ {
+  "id": "EJ1069636",
+  "decision": "exclude_adult",
+  "population": "adult",
+  "confidence": "high",
+  "reason": "Mentors of preservice English teachers"
+ },
+ {
+  "id": "EJ1016132",
+  "decision": "exclude_adult",
+  "population": "adult",
+  "confidence": "high",
+  "reason": "Teacher mentoring on ELL strategies"
+ },
+ {
+  "id": "EJ1257908",
+  "decision": "exclude_not_mentoring",
+  "population": "college_undergrad",
+  "confidence": "medium",
+  "reason": "Student spiritual development; mentoring only a minor theme"
+ },
+ {
+  "id": "EJ788861",
+  "decision": "exclude_other",
+  "population": "college_undergrad",
+  "confidence": "high",
+  "reason": "Essay on food memoirs"
+ },
+ {
+  "id": "EJ855887",
+  "decision": "exclude_not_mentoring",
+  "population": "youth_other",
+  "confidence": "medium",
+  "reason": "Church youth religious commitment; mentors incidental"
+ },
+ {
+  "id": "EJ1041579",
+  "decision": "exclude_adult",
+  "population": "adult",
+  "confidence": "high",
+  "reason": "Novice teacher working conditions and mentor support"
+ },
+ {
+  "id": "EJ1317803",
+  "decision": "exclude_adult",
+  "population": "adult",
+  "confidence": "high",
+  "reason": "Doctoral students during pandemic"
+ },
+ {
+  "id": "ED570472",
+  "decision": "exclude_adult",
+  "population": "adult",
+  "confidence": "high",
+  "reason": "Principal pipeline implementation"
+ },
+ {
+  "id": "ED363686",
+  "decision": "include_outcome",
+  "population": "k12_high",
+  "confidence": "medium",
+  "reason": "Peer tutoring and mentoring evaluation with student achievement outcomes"
+ },
+ {
+  "id": "EJ463913",
+  "decision": "exclude_not_mentoring",
+  "population": "k12_high",
+  "confidence": "low",
+  "reason": "Pregnant student services program; mentoring not described"
+ },
+ {
+  "id": "EJ549123",
+  "decision": "exclude_not_mentoring",
+  "population": "k12_elementary",
+  "confidence": "high",
+  "reason": "Classwide peer tutoring teacher adoption"
+ },
+ {
+  "id": "EJ1255443",
+  "decision": "include_other",
+  "population": "college_undergrad",
+  "confidence": "medium",
+  "reason": "Qualitative study of first-generation men and campus mentors"
+ },
+ {
+  "id": "ED602986",
+  "decision": "include_other",
+  "population": "k12_high",
+  "confidence": "low",
+  "reason": "Conference proceedings including paper on online mentoring of ninth-grade girls"
+ },
+ {
+  "id": "EJ926175",
+  "decision": "exclude_adult",
+  "population": "adult",
+  "confidence": "high",
+  "reason": "Teacher and assistant training with mentoring sessions"
+ },
+ {
+  "id": "EJ1360852",
+  "decision": "exclude_not_mentoring",
+  "population": "college_undergrad",
+  "confidence": "medium",
+  "reason": "Accounting student career perceptions; mentorship only recommended"
+ },
+ {
+  "id": "ED341089",
+  "decision": "exclude_adult",
+  "population": "adult",
+  "confidence": "high",
+  "reason": "Forensics directors as mentors of coaches"
+ },
+ {
+  "id": "EJ1360396",
+  "decision": "exclude_adult",
+  "population": "adult",
+  "confidence": "high",
+  "reason": "Doctoral mentorship and faculty productivity"
+ },
+ {
+  "id": "EJ1346093",
+  "decision": "exclude_adult",
+  "population": "adult",
+  "confidence": "high",
+  "reason": "Early-career academic mentorship"
+ },
+ {
+  "id": "EJ1006518",
+  "decision": "exclude_adult",
+  "population": "adult",
+  "confidence": "high",
+  "reason": "Catholic school teacher hiring"
+ },
+ {
+  "id": "ED531087",
+  "decision": "exclude_other",
+  "population": "unclear",
+  "confidence": "high",
+  "reason": "State teacher policy ratings"
+ },
+ {
+  "id": "EJ539793",
+  "decision": "include_other",
+  "population": "k12_elementary",
+  "confidence": "low",
+  "reason": "School-university partnership descriptive; mentoring one strategy"
+ },
+ {
+  "id": "EJ1358382",
+  "decision": "exclude_adult",
+  "population": "adult",
+  "confidence": "high",
+  "reason": "Preservice teacher practicum mentors"
+ },
+ {
+  "id": "EJ1141671",
+  "decision": "exclude_adult",
+  "population": "adult",
+  "confidence": "high",
+  "reason": "New teacher coping and mentoring"
+ },
+ {
+  "id": "ED607096",
+  "decision": "include_other",
+  "population": "k12_high",
+  "confidence": "medium",
+  "reason": "Graduate student mentors in youth outreach; qualitative, mentor-side"
+ },
+ {
+  "id": "EJ1159450",
+  "decision": "exclude_other",
+  "population": "adult",
+  "confidence": "medium",
+  "reason": "Science outreach for adult equivalency learners; not youth mentoring"
+ },
+ {
+  "id": "ED558065",
+  "decision": "include_outcome",
+  "population": "youth_other",
+  "confidence": "medium",
+  "reason": "National youth survey linking mentoring to aspirations and outcomes"
+ },
+ {
+  "id": "ED337333",
+  "decision": "include_other",
+  "population": "k12_high",
+  "confidence": "low",
+  "reason": "School-college partnership with mentoring component; descriptive"
+ },
+ {
+  "id": "EJ379172",
+  "decision": "exclude_not_mentoring",
+  "population": "k12_mixed",
+  "confidence": "low",
+  "reason": "Dropout prevention conference; mentoring merely recommended"
+ },
+ {
+  "id": "ED504233",
+  "decision": "include_other",
+  "population": "youth_other",
+  "confidence": "medium",
+  "reason": "Meeting report on life coaches for Black boys; no outcomes"
+ },
+ {
+  "id": "EJ912604",
+  "decision": "include_other",
+  "population": "k12_middle",
+  "confidence": "high",
+  "reason": "College mentors reflections in service learning; qualitative mentor-side"
+ },
+ {
+  "id": "EJ857658",
+  "decision": "exclude_adult",
+  "population": "adult",
+  "confidence": "high",
+  "reason": "Teach for America residency vision"
+ },
+ {
+  "id": "EJ1282703",
+  "decision": "exclude_adult",
+  "population": "adult",
+  "confidence": "high",
+  "reason": "Preservice teacher immersive learning"
+ },
+ {
+  "id": "EJ1248412",
+  "decision": "exclude_adult",
+  "population": "adult",
+  "confidence": "high",
+  "reason": "Adjunct faculty mentoring review"
+ },
+ {
+  "id": "EJ923167",
+  "decision": "exclude_adult",
+  "population": "adult",
+  "confidence": "high",
+  "reason": "Employee e-learning training barriers"
+ },
+ {
+  "id": "ED576267",
+  "decision": "exclude_adult",
+  "population": "adult",
+  "confidence": "high",
+  "reason": "Special education teacher mentoring policy"
+ },
+ {
+  "id": "EJ1362168",
+  "decision": "exclude_not_mentoring",
+  "population": "k12_elementary",
+  "confidence": "medium",
+  "reason": "Counselor school-family partnership; no mentoring relationship"
+ },
+ {
+  "id": "EJ1317848",
+  "decision": "exclude_adult",
+  "population": "adult",
+  "confidence": "high",
+  "reason": "Retired academics mentoring benefits"
+ },
+ {
+  "id": "ED565893",
+  "decision": "exclude_adult",
+  "population": "adult",
+  "confidence": "high",
+  "reason": "Teacher shortage policy brief"
+ },
+ {
+  "id": "EJ1285221",
+  "decision": "include_other",
+  "population": "k12_middle",
+  "confidence": "high",
+  "reason": "Middle schoolers reflect on peer mentoring younger students; mentor-side qualitative"
+ },
+ {
+  "id": "EJ441117",
+  "decision": "exclude_not_mentoring",
+  "population": "k12_high",
+  "confidence": "low",
+  "reason": "High school career academies; mentoring not described"
+ },
+ {
+  "id": "EJ964246",
+  "decision": "exclude_not_mentoring",
+  "population": "college_undergrad",
+  "confidence": "medium",
+  "reason": "College retention initiatives overview; mentors passing mention"
+ },
+ {
+  "id": "EJ978101",
+  "decision": "exclude_adult",
+  "population": "adult",
+  "confidence": "high",
+  "reason": "Doctoral student mentored for faculty job"
+ },
+ {
+  "id": "ED603695",
+  "decision": "include_other",
+  "population": "k12_high",
+  "confidence": "high",
+  "reason": "White paper on employee mentoring of at-risk students; qualitative"
+ },
+ {
+  "id": "EJ1198488",
+  "decision": "exclude_adult",
+  "population": "adult",
+  "confidence": "high",
+  "reason": "Indigenous preservice teacher mentoring project"
+ },
+ {
+  "id": "ED514536",
+  "decision": "exclude_adult",
+  "population": "adult",
+  "confidence": "high",
+  "reason": "Executive mentors of graduate program students"
+ },
+ {
+  "id": "ED562067",
+  "decision": "exclude_adult",
+  "population": "adult",
+  "confidence": "high",
+  "reason": "Clinical preparation of new teachers"
+ },
+ {
+  "id": "ED593041",
+  "decision": "exclude_adult",
+  "population": "adult",
+  "confidence": "high",
+  "reason": "Graduate student perceptions of mentors"
+ },
+ {
+  "id": "ED568309",
+  "decision": "exclude_not_mentoring",
+  "population": "k12_elementary",
+  "confidence": "high",
+  "reason": "Fifth grade classroom blogging"
+ },
+ {
+  "id": "ED462660",
+  "decision": "include_review",
+  "population": "k12_mixed",
+  "confidence": "medium",
+  "reason": "Brief summarizing randomized evaluations of youth mentoring programs"
+ },
+ {
+  "id": "EJ948669",
+  "decision": "exclude_adult",
+  "population": "adult",
+  "confidence": "high",
+  "reason": "Student teaching and first-year teachers"
+ },
+ {
+  "id": "EJ407346",
+  "decision": "exclude_adult",
+  "population": "adult",
+  "confidence": "high",
+  "reason": "Black community college presidents survey"
+ },
+ {
+  "id": "EJ1382804",
+  "decision": "exclude_adult",
+  "population": "adult",
+  "confidence": "high",
+  "reason": "Teacher mentoring and stress"
+ },
+ {
+  "id": "EJ1298554",
+  "decision": "include_other",
+  "population": "youth_other",
+  "confidence": "medium",
+  "reason": "Instrumental mentoring for young adults; closeness clusters, no mentee outcomes"
+ },
+ {
+  "id": "ED544179",
+  "decision": "exclude_adult",
+  "population": "adult",
+  "confidence": "high",
+  "reason": "Beginning teacher career paths"
+ },
+ {
+  "id": "EJ1378402",
+  "decision": "exclude_not_mentoring",
+  "population": "college_undergrad",
+  "confidence": "medium",
+  "reason": "Residential math transition course; mentoring not central"
+ },
+ {
+  "id": "ED596389",
+  "decision": "include_other",
+  "population": "college_undergrad",
+  "confidence": "medium",
+  "reason": "Muslim students mentoring attitudes and attachment; no mentee outcomes"
+ },
+ {
+  "id": "EJ906246",
+  "decision": "exclude_adult",
+  "population": "adult",
+  "confidence": "high",
+  "reason": "Teacher candidates empathy"
+ },
+ {
+  "id": "EJ928408",
+  "decision": "exclude_not_mentoring",
+  "population": "k12_mixed",
+  "confidence": "medium",
+  "reason": "Inclusive education for autism; mentoring incidental"
+ },
+ {
+  "id": "ED531023",
+  "decision": "exclude_other",
+  "population": "unclear",
+  "confidence": "high",
+  "reason": "State teacher policy ratings"
+ },
+ {
+  "id": "ED436822",
+  "decision": "exclude_other",
+  "population": "k12_mixed",
+  "confidence": "high",
+  "reason": "Legal guide on schools and religious groups"
+ },
+ {
+  "id": "ED480002",
+  "decision": "exclude_other",
+  "population": "adult",
+  "confidence": "high",
+  "reason": "Employer views on frontline workforce"
+ },
+ {
+  "id": "EJ1220187",
+  "decision": "exclude_adult",
+  "population": "adult",
+  "confidence": "high",
+  "reason": "Preservice teacher mentoring model quasi-experiment"
+ },
+ {
+  "id": "ED633502",
+  "decision": "exclude_adult",
+  "population": "adult",
+  "confidence": "medium",
+  "reason": "Seminary students prayer; mentor incidental"
+ },
+ {
+  "id": "ED549294",
+  "decision": "exclude_adult",
+  "population": "adult",
+  "confidence": "high",
+  "reason": "Superintendent succession"
+ },
+ {
+  "id": "EJ1194929",
+  "decision": "exclude_other",
+  "population": "adult",
+  "confidence": "high",
+  "reason": "Extension staff data analysis curriculum"
+ },
+ {
+  "id": "EJ960829",
+  "decision": "exclude_not_mentoring",
+  "population": "k12_high",
+  "confidence": "medium",
+  "reason": "Silent reading program; teacher guidance not mentoring relationship"
+ },
+ {
+  "id": "ED427664",
+  "decision": "include_other",
+  "population": "k12_elementary",
+  "confidence": "medium",
+  "reason": "Case study of child writer helped by mentor; qualitative"
+ },
+ {
+  "id": "EJ760199",
+  "decision": "exclude_adult",
+  "population": "adult",
+  "confidence": "high",
+  "reason": "Prospective science teachers and mentors"
+ },
+ {
+  "id": "ED391138",
+  "decision": "include_review",
+  "population": "k12_high",
+  "confidence": "medium",
+  "reason": "Information analysis of at-risk student mentoring programs"
+ },
+ {
+  "id": "EJ876919",
+  "decision": "exclude_adult",
+  "population": "adult",
+  "confidence": "high",
+  "reason": "Student teacher induction network"
+ },
+ {
+  "id": "EJ1152773",
+  "decision": "exclude_adult",
+  "population": "adult",
+  "confidence": "high",
+  "reason": "Teacher evaluation systems"
+ },
+ {
+  "id": "EJ1277025",
+  "decision": "exclude_adult",
+  "population": "adult",
+  "confidence": "high",
+  "reason": "PhD completion and mentor experience"
+ },
+ {
+  "id": "EJ1306217",
+  "decision": "exclude_adult",
+  "population": "adult",
+  "confidence": "medium",
+  "reason": "Teacher virtual mentoring and coaching intervention"
+ },
+ {
+  "id": "EJ1063188",
+  "decision": "exclude_adult",
+  "population": "adult",
+  "confidence": "high",
+  "reason": "Veterans transitioning to teaching"
+ },
+ {
+  "id": "EJ1124121",
+  "decision": "include_other",
+  "population": "youth_other",
+  "confidence": "low",
+  "reason": "Peer mentors for students with intellectual disability; descriptive"
+ },
+ {
+  "id": "EJ1144214",
+  "decision": "exclude_not_mentoring",
+  "population": "college_undergrad",
+  "confidence": "medium",
+  "reason": "Civic engagement profiles; mentoring not examined"
+ }
+]

@@ -1,0 +1,698 @@
+[
+ {
+  "design": "quasi_experimental",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "US",
+  "setting": "school_based",
+  "format": "one_to_one",
+  "mentor_type": "unclear",
+  "targets": [
+   "at_risk_behavior"
+  ],
+  "grade_band": "k12_mixed",
+  "program_name": "Student Mentoring Program",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "academic_achievement": "null",
+   "behavior_delinquency": "null",
+   "relationships_social": "null"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Federal grant-funded school programs showed no significant student-level impacts after one school year; brief summary.",
+  "id": "ED511780"
+ },
+ {
+  "design": "quasi_experimental",
+  "rigor": 3,
+  "n_youth": 44,
+  "country": "US",
+  "setting": "school_based",
+  "format": "peer_cross_age",
+  "mentor_type": "older_peer",
+  "targets": [
+   "disability"
+  ],
+  "grade_band": "high",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "psychosocial_other": "null"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Self-determination lessons helped students; adding a school peer mentoring program gave no extra benefit.",
+  "id": "ED513771"
+ },
+ {
+  "design": "quasi_experimental",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "US",
+  "setting": "school_based",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "at_risk_behavior"
+  ],
+  "grade_band": "middle",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "academic_achievement": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Tutoring-plus-mentoring participants passed state reading test more often than similar non-participating at-risk peers.",
+  "id": "ED514398"
+ },
+ {
+  "design": "rct",
+  "rigor": 5,
+  "n_youth": 3000,
+  "country": "US",
+  "setting": "unclear",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "at_risk_behavior"
+  ],
+  "grade_band": "out_of_school",
+  "program_name": "National Guard Youth ChalleNGe",
+  "duration_months": 17,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "graduation_persistence": "positive",
+   "college_access_enrollment": "positive",
+   "career_employment": "positive",
+   "behavior_delinquency": "mixed",
+   "mental_health": "null"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Lottery-based trial of residential dropout program with year-long mentoring phase; interim survey gains in credentials.",
+  "id": "ED514652"
+ },
+ {
+  "design": "rct",
+  "rigor": 5,
+  "n_youth": 3000,
+  "country": "US",
+  "setting": "unclear",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "at_risk_behavior"
+  ],
+  "grade_band": "out_of_school",
+  "program_name": "National Guard Youth ChalleNGe",
+  "duration_months": 17,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "graduation_persistence": "positive",
+   "college_access_enrollment": "positive",
+   "career_employment": "positive",
+   "behavior_delinquency": "mixed",
+   "mental_health": "null"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Executive summary of the interim randomized evaluation; mentoring is one postresidential component.",
+  "id": "ED514661"
+ },
+ {
+  "design": "correlational",
+  "rigor": 4,
+  "n_youth": null,
+  "country": "US",
+  "setting": "unclear",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "unclear",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "academic_achievement": "positive",
+   "graduation_persistence": "null"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Secondary analysis of national longitudinal data; mentoring linked to higher GPA but not graduation, with risk moderators.",
+  "id": "ED517656"
+ },
+ {
+  "design": "quasi_experimental",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "US",
+  "setting": "college_campus",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "college",
+  "program_name": "Beacon Mentoring Program",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "academic_achievement": "mixed",
+   "engagement_attendance": "positive",
+   "graduation_persistence": "mixed"
+  },
+  "effect_sizes": [
+   {
+    "domain": "academic_achievement",
+    "metric": "pct_points",
+    "value": 6.6,
+    "note": "math pass rate, part-time students, program over controls"
+   }
+  ],
+  "review_details": null,
+  "notes": "Low-cost campus mentoring raised tutoring use and cut withdrawals; overall pass rates unchanged, subgroups gained.",
+  "id": "ED517927"
+ },
+ {
+  "design": "other",
+  "rigor": 1,
+  "n_youth": null,
+  "country": "unclear",
+  "setting": "college_campus",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {},
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Leadership development program with mentoring among community college undergraduates; abstract states aims, not results.",
+  "id": "ED519092"
+ },
+ {
+  "design": "rct",
+  "rigor": 5,
+  "n_youth": null,
+  "country": "UK",
+  "setting": "school_based",
+  "format": "one_to_one",
+  "mentor_type": "adult_volunteer",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "elementary",
+  "program_name": "Time to Read",
+  "duration_months": null,
+  "frequency": "weekly_or_more",
+  "bridging": "unclear",
+  "outcomes": {
+   "academic_achievement": "positive",
+   "self_efficacy_confidence": "null",
+   "psychosocial_other": "mixed"
+  },
+  "effect_sizes": [
+   {
+    "domain": "psychosocial_other",
+    "metric": "other",
+    "value": 0.17,
+    "note": "aspirations, first trial; metric unspecified"
+   }
+  ],
+  "review_details": null,
+  "notes": "Follow-up trial in Northern Ireland found reading gains, esp. decoding, rate, fluency; aspirations effect not replicated significantly.",
+  "id": "ED519114"
+ },
+ {
+  "design": "review",
+  "rigor": 4,
+  "n_youth": null,
+  "country": "unclear",
+  "setting": "mixed",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "at_risk_behavior"
+  ],
+  "grade_band": "k12_mixed",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "graduation_persistence": "mixed"
+  },
+  "effect_sizes": [],
+  "review_details": {
+   "n_studies": null,
+   "pooled_metric": null,
+   "pooled_value": null
+  },
+  "notes": "Meta-analysis of dropout programs; mentoring effects positive but short of significance.",
+  "id": "ED519121"
+ },
+ {
+  "design": "review",
+  "rigor": 4,
+  "n_youth": null,
+  "country": "US",
+  "setting": "school_based",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "k12_mixed",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "relationships_social": "positive",
+   "self_efficacy_confidence": "positive",
+   "behavior_delinquency": "positive",
+   "engagement_attendance": "positive",
+   "academic_achievement": "null"
+  },
+  "effect_sizes": [],
+  "review_details": {
+   "n_studies": 3,
+   "pooled_metric": null,
+   "pooled_value": null
+  },
+  "notes": "Pooled three large randomized school-based mentoring trials; modest gains on selected outcomes, none for achievement.",
+  "id": "ED519242"
+ },
+ {
+  "design": "correlational",
+  "rigor": 2,
+  "n_youth": null,
+  "country": "US",
+  "setting": "school_based",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "urban"
+  ],
+  "grade_band": "middle",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "self_efficacy_confidence": "mixed"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Cross-sectional survey of eighth graders by academic track; mentorship was one predictor, literacy instruction dominated.",
+  "id": "ED519394"
+ },
+ {
+  "design": "review",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "US",
+  "setting": "unclear",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "low_income",
+   "racial_ethnic_minority"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "yes",
+  "outcomes": {
+   "college_access_enrollment": "positive",
+   "graduation_persistence": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": {
+   "n_studies": null,
+   "pooled_metric": null,
+   "pooled_value": null
+  },
+  "notes": "Practitioner brief synthesizing research on mentoring for college access and completion among underrepresented students.",
+  "id": "ED520415"
+ },
+ {
+  "design": "correlational",
+  "rigor": 3,
+  "n_youth": 276,
+  "country": "other",
+  "setting": "unclear",
+  "format": "natural_mentor",
+  "mentor_type": "natural_informal",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "academic_achievement": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Ghanaian first-year college students; having a school mentor predicted higher grades among several risk and protective factors.",
+  "id": "ED520747"
+ },
+ {
+  "design": "review",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "US",
+  "setting": "unclear",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "unclear",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {},
+  "effect_sizes": [],
+  "review_details": {
+   "n_studies": null,
+   "pooled_metric": null,
+   "pooled_value": null
+  },
+  "notes": "Narrative review: close, enduring relationships work best; programs show modest, inconsistent effects; policy recommendations.",
+  "id": "ED521751"
+ },
+ {
+  "design": "quasi_experimental",
+  "rigor": 3,
+  "n_youth": 1180,
+  "country": "US",
+  "setting": "school_based",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "elementary",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "academic_achievement": "mixed",
+   "psychosocial_other": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Mediators versus non-mediators in mentored peer mediation; gains strongest in grade five, higher empathy among mediators.",
+  "id": "ED522656"
+ },
+ {
+  "design": "correlational",
+  "rigor": 1,
+  "n_youth": 295,
+  "country": "unclear",
+  "setting": "college_campus",
+  "format": "one_to_one",
+  "mentor_type": "teacher_school_staff",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "relationships_social": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Survey of music majors; teacher mentoring behaviors correlated with perceiving teachers as good and lessons positive.",
+  "id": "ED523126"
+ },
+ {
+  "design": "pre_post",
+  "rigor": 2,
+  "n_youth": 68,
+  "country": "US",
+  "setting": "school_based",
+  "format": "one_to_one",
+  "mentor_type": "unclear",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "k12_mixed",
+  "program_name": "One-to-One Mentoring Initiative",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "academic_achievement": "mixed",
+   "engagement_attendance": "mixed",
+   "behavior_delinquency": "mixed"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Small three-year school evaluation with unexpected results; longer matches linked to fewer unexcused absences.",
+  "id": "ED523166"
+ },
+ {
+  "design": "pre_post",
+  "rigor": 2,
+  "n_youth": 36,
+  "country": "US",
+  "setting": "school_based",
+  "format": "unclear",
+  "mentor_type": "teacher_school_staff",
+  "targets": [
+   "rural",
+   "low_income"
+  ],
+  "grade_band": "middle",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "academic_achievement": "positive",
+   "engagement_attendance": "null",
+   "behavior_delinquency": "null"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Advisor-advisee program in rural eighth grade; achievement rose over time, no engagement or behavior changes.",
+  "id": "ED523915"
+ },
+ {
+  "design": "other",
+  "rigor": 1,
+  "n_youth": 32,
+  "country": "US",
+  "setting": "mixed",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "at_risk_behavior"
+  ],
+  "grade_band": "elementary",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "graduation_persistence": "mixed"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Descriptive case study following one elementary cohort a decade later; about half persisted in school.",
+  "id": "ED524388"
+ },
+ {
+  "design": "quasi_experimental",
+  "rigor": 3,
+  "n_youth": 317,
+  "country": "other",
+  "setting": "workplace_career",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "out_of_school",
+  "program_name": null,
+  "duration_months": 12,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {
+   "career_employment": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Coached young entrepreneurs outscored information-only group on employability skills in survey comparison.",
+  "id": "ED529061"
+ },
+ {
+  "design": "correlational",
+  "rigor": 2,
+  "n_youth": 657,
+  "country": "unclear",
+  "setting": "unclear",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "out_of_school",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "psychosocial_other": "mixed"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Adults recalled adolescent mentors; perceived mentor impact related to resilience, but length, type, presence did not.",
+  "id": "ED529093"
+ },
+ {
+  "design": "correlational",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "US",
+  "setting": "college_campus",
+  "format": "unclear",
+  "mentor_type": "teacher_school_staff",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "college",
+  "program_name": "McNair Postbaccalaureate Achievement Program",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "college_access_enrollment": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Faculty mentor competency scores predicted doctoral intent and graduate school awareness after controlling GPA and parental education.",
+  "id": "ED529438"
+ },
+ {
+  "design": "rct",
+  "rigor": 5,
+  "n_youth": 13500,
+  "country": "unclear",
+  "setting": "unclear",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "college",
+  "program_name": "InsideTrack",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "graduation_persistence": "mixed"
+  },
+  "effect_sizes": [
+   {
+    "domain": "graduation_persistence",
+    "metric": "pct_points",
+    "value": 4,
+    "note": "7 lotteries, 6 months: 81% vs 77%"
+   },
+   {
+    "domain": "graduation_persistence",
+    "metric": "pct_points",
+    "value": 15,
+    "note": "7 lotteries, 12 months: 66% vs 51%"
+   },
+   {
+    "domain": "graduation_persistence",
+    "metric": "pct_points",
+    "value": 7,
+    "note": "7 lotteries, 18 months: 44% vs 37%"
+   },
+   {
+    "domain": "graduation_persistence",
+    "metric": "pct_points",
+    "value": 5,
+    "note": "all 17 lotteries, 6 months: 63% vs 58%"
+   },
+   {
+    "domain": "graduation_persistence",
+    "metric": "pct_points",
+    "value": 5,
+    "note": "all 17 lotteries, 12 months: 49% vs 44%"
+   },
+   {
+    "domain": "graduation_persistence",
+    "metric": "pct_points",
+    "value": 4,
+    "note": "all 17 lotteries, 18 months: 33% vs 29%"
+   },
+   {
+    "domain": "graduation_persistence",
+    "metric": "pct_points",
+    "value": 4,
+    "note": "all 17 lotteries, 24 months: 28% vs 24%"
+   }
+  ],
+  "review_details": null,
+  "notes": "Randomized college coaching trial; retention gains early, fading by 24 months in strict subset; no completion effect.",
+  "id": "ED534208"
+ },
+ {
+  "design": "correlational",
+  "rigor": 2,
+  "n_youth": null,
+  "country": "US",
+  "setting": "college_campus",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "at_risk_behavior"
+  ],
+  "grade_band": "college",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "graduation_persistence": "mixed"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Action research on freshman retention; mentoring helped retain some students at specific non-cognitive risk levels.",
+  "id": "ED534670"
+ }
+]

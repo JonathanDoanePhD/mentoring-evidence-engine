@@ -1,0 +1,648 @@
+[
+ {
+  "id": "ED346418",
+  "design": "pre_post",
+  "rigor": 2,
+  "n_youth": 55,
+  "country": "unclear",
+  "setting": "school_based",
+  "format": "group",
+  "mentor_type": "teacher_school_staff",
+  "targets": [
+   "at_risk_behavior"
+  ],
+  "grade_band": "middle",
+  "program_name": null,
+  "duration_months": 3,
+  "frequency": "weekly_or_more",
+  "bridging": "no",
+  "outcomes": {
+   "behavior_delinquency": "positive",
+   "psychosocial_other": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Practicum with guidance groups and teacher mentors; misbehavior referrals fell; uncontrolled before-after data."
+ },
+ {
+  "id": "ED352569",
+  "design": "other",
+  "rigor": 1,
+  "n_youth": null,
+  "country": "US",
+  "setting": "school_based",
+  "format": "mixed",
+  "mentor_type": "unclear",
+  "targets": [
+   "at_risk_behavior"
+  ],
+  "grade_band": "middle",
+  "program_name": "JHSICSIP",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {},
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Multi-component dropout prevention evaluation with a Congressional mentorship part; results not described in the summary."
+ },
+ {
+  "id": "ED353141",
+  "design": "pre_post",
+  "rigor": 2,
+  "n_youth": 41,
+  "country": "unclear",
+  "setting": "school_based",
+  "format": "mixed",
+  "mentor_type": "college_student",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "elementary",
+  "program_name": null,
+  "duration_months": 4,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "academic_achievement": "positive"
+  },
+  "effect_sizes": [
+   {
+    "domain": "academic_achievement",
+    "metric": "other",
+    "value": 13,
+    "note": "response rate rose from 65% to 78%"
+   }
+  ],
+  "review_details": null,
+  "notes": "Preservice teachers mentored first graders in math pairs; assessment rates improved; no comparison group."
+ },
+ {
+  "id": "ED354285",
+  "design": "other",
+  "rigor": 1,
+  "n_youth": null,
+  "country": "US",
+  "setting": "mixed",
+  "format": "one_to_one",
+  "mentor_type": "college_student",
+  "targets": [
+   "at_risk_behavior",
+   "racial_ethnic_minority"
+  ],
+  "grade_band": "k12_mixed",
+  "program_name": "Campus Partners in Learning",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {
+   "relationships_social": "mixed",
+   "self_efficacy_confidence": "positive"
+  },
+  "effect_sizes": [
+   {
+    "domain": "relationships_social",
+    "metric": "other",
+    "value": 45,
+    "note": "percent forming successful relationships"
+   }
+  ],
+  "review_details": null,
+  "notes": "Interview-based study of six college-youth programs; under half of pairs bonded; youth sense of control improved."
+ },
+ {
+  "id": "ED354295",
+  "design": "review",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "US",
+  "setting": "unclear",
+  "format": "unclear",
+  "mentor_type": "natural_informal",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "unclear",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {},
+  "effect_sizes": [],
+  "review_details": {
+   "n_studies": null,
+   "pooled_metric": null,
+   "pooled_value": null
+  },
+  "notes": "Narrative literature review on non-related adults as help sources for teens, informing mentoring program planning."
+ },
+ {
+  "id": "ED354437",
+  "design": "other",
+  "rigor": 1,
+  "n_youth": null,
+  "country": "unclear",
+  "setting": "mixed",
+  "format": "group",
+  "mentor_type": "adult_volunteer",
+  "targets": [
+   "at_risk_behavior",
+   "racial_ethnic_minority"
+  ],
+  "grade_band": "k12_mixed",
+  "program_name": "Positive Impact Program",
+  "duration_months": null,
+  "frequency": "weekly_or_more",
+  "bridging": "no",
+  "outcomes": {
+   "psychosocial_other": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Black adult advisors meet weekly with boys groups; a questionnaire reported nearly all improved; thin evidence."
+ },
+ {
+  "id": "ED354448",
+  "design": "quasi_experimental",
+  "rigor": 3,
+  "n_youth": 18,
+  "country": "unclear",
+  "setting": "mixed",
+  "format": "group",
+  "mentor_type": "adult_volunteer",
+  "targets": [
+   "at_risk_behavior",
+   "racial_ethnic_minority"
+  ],
+  "grade_band": "middle",
+  "program_name": "Positive Impact Program",
+  "duration_months": 24,
+  "frequency": "weekly_or_more",
+  "bridging": "no",
+  "outcomes": {
+   "academic_achievement": "mixed",
+   "psychosocial_other": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Compared at-risk and not-at-risk boys across two years; test standing rose, grades fell, teacher ratings improved."
+ },
+ {
+  "id": "ED356285",
+  "design": "review",
+  "rigor": 3,
+  "n_youth": null,
+  "country": "US",
+  "setting": "unclear",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "at_risk_behavior",
+   "urban"
+  ],
+  "grade_band": "k12_mixed",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {
+   "college_access_enrollment": "positive",
+   "engagement_attendance": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": {
+   "n_studies": null,
+   "pooled_metric": null,
+   "pooled_value": null
+  },
+  "notes": "Discussion of how to evaluate mentoring, citing two program evaluations with attendance and college benefits."
+ },
+ {
+  "id": "ED356701",
+  "design": "other",
+  "rigor": 1,
+  "n_youth": null,
+  "country": "US",
+  "setting": "unclear",
+  "format": "one_to_one",
+  "mentor_type": "college_student",
+  "targets": [
+   "at_risk_behavior"
+  ],
+  "grade_band": "middle",
+  "program_name": "Student Mentoring Program",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {},
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Evaluation report on college mentors and eighth graders; mostly describes instruments; findings not stated."
+ },
+ {
+  "id": "ED361043",
+  "design": "other",
+  "rigor": 1,
+  "n_youth": null,
+  "country": "US",
+  "setting": "college_campus",
+  "format": "group",
+  "mentor_type": "older_peer",
+  "targets": [
+   "racial_ethnic_minority"
+  ],
+  "grade_band": "college",
+  "program_name": "ALANA Mentoring Program",
+  "duration_months": null,
+  "frequency": "biweekly",
+  "bridging": "no",
+  "outcomes": {},
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Descriptive account of peer mentoring for minority freshmen at a community college; retention data mentioned without results."
+ },
+ {
+  "id": "ED363686",
+  "design": "pre_post",
+  "rigor": 2,
+  "n_youth": null,
+  "country": "US",
+  "setting": "school_based",
+  "format": "mixed",
+  "mentor_type": "older_peer",
+  "targets": [
+   "low_income",
+   "urban",
+   "rural"
+  ],
+  "grade_band": "high",
+  "program_name": null,
+  "duration_months": 12,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "academic_achievement": "mixed"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Federal peer tutoring and mentoring demonstration; achievement gains limited; no comparison group described."
+ },
+ {
+  "id": "ED364784",
+  "design": "other",
+  "rigor": 1,
+  "n_youth": 119,
+  "country": "US",
+  "setting": "mixed",
+  "format": "unclear",
+  "mentor_type": "adult_volunteer",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "k12_mixed",
+  "program_name": "Florida Compact",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "yes",
+  "outcomes": {},
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Survey and focus groups comparing mentors and mentees in a business-school partnership; no outcome direction given."
+ },
+ {
+  "id": "ED364798",
+  "design": "quasi_experimental",
+  "rigor": 3,
+  "n_youth": 41,
+  "country": "unclear",
+  "setting": "school_based",
+  "format": "unclear",
+  "mentor_type": "unclear",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "middle",
+  "program_name": "Enabling Visions",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {},
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Pilot self-esteem course for girls with treatment and control groups; only baseline findings so far."
+ },
+ {
+  "id": "ED365698",
+  "design": "quasi_experimental",
+  "rigor": 3,
+  "n_youth": 32,
+  "country": "US",
+  "setting": "mixed",
+  "format": "peer_cross_age",
+  "mentor_type": "older_peer",
+  "targets": [
+   "at_risk_behavior",
+   "racial_ethnic_minority"
+  ],
+  "grade_band": "high",
+  "program_name": "Austin Youth River Watch",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "graduation_persistence": "positive",
+   "academic_achievement": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Student mentors tutored peers while testing river water; dropouts fewer than district prediction; small sample."
+ },
+ {
+  "id": "ED366858",
+  "design": "pre_post",
+  "rigor": 2,
+  "n_youth": null,
+  "country": "unclear",
+  "setting": "school_based",
+  "format": "one_to_one",
+  "mentor_type": "college_student",
+  "targets": [
+   "at_risk_behavior"
+  ],
+  "grade_band": "high",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "weekly_or_more",
+  "bridging": "no",
+  "outcomes": {
+   "behavior_delinquency": "positive",
+   "academic_achievement": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Community college mentors paired with disruptive students; fewer transfers to alternative placement; no comparison group."
+ },
+ {
+  "id": "ED368122",
+  "design": "pre_post",
+  "rigor": 2,
+  "n_youth": 18,
+  "country": "unclear",
+  "setting": "school_based",
+  "format": "mixed",
+  "mentor_type": "older_peer",
+  "targets": [
+   "disability",
+   "at_risk_behavior"
+  ],
+  "grade_band": "middle",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "unclear",
+  "outcomes": {
+   "academic_achievement": "positive",
+   "engagement_attendance": "positive",
+   "self_efficacy_confidence": "positive",
+   "behavior_delinquency": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Multi-component practicum for learning-disabled students with peer tutors; goals met; mentoring one minor element."
+ },
+ {
+  "id": "ED368527",
+  "design": "pre_post",
+  "rigor": 2,
+  "n_youth": 45,
+  "country": "US",
+  "setting": "school_based",
+  "format": "mixed",
+  "mentor_type": "adult_volunteer",
+  "targets": [
+   "at_risk_behavior",
+   "rural"
+  ],
+  "grade_band": "high",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "yes",
+  "outcomes": {
+   "graduation_persistence": "positive",
+   "academic_achievement": "positive",
+   "self_efficacy_confidence": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Rural dropout program with business mentors among many components; dropout fell; no comparison group."
+ },
+ {
+  "id": "ED369857",
+  "design": "other",
+  "rigor": 1,
+  "n_youth": 36,
+  "country": "US",
+  "setting": "school_based",
+  "format": "one_to_one",
+  "mentor_type": "mixed",
+  "targets": [
+   "low_income",
+   "racial_ethnic_minority"
+  ],
+  "grade_band": "elementary",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "academic_achievement": "positive",
+   "self_efficacy_confidence": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Student tutors and mentors for disadvantaged children; perception surveys favorable; no outcome comparison."
+ },
+ {
+  "id": "ED371096",
+  "design": "other",
+  "rigor": 1,
+  "n_youth": 118,
+  "country": "US",
+  "setting": "workplace_career",
+  "format": "one_to_one",
+  "mentor_type": "adult_volunteer",
+  "targets": [
+   "at_risk_behavior",
+   "urban"
+  ],
+  "grade_band": "middle",
+  "program_name": "Project LIVE",
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "yes",
+  "outcomes": {
+   "graduation_persistence": "positive",
+   "college_access_enrollment": "positive",
+   "career_employment": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Corporate volunteers tutor below-grade students at workplaces; self-reported completion and further education; survey-based."
+ },
+ {
+  "id": "ED372548",
+  "design": "pre_post",
+  "rigor": 2,
+  "n_youth": 7,
+  "country": "unclear",
+  "setting": "school_based",
+  "format": "one_to_one",
+  "mentor_type": "unclear",
+  "targets": [
+   "disability"
+  ],
+  "grade_band": "elementary",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "weekly_or_more",
+  "bridging": "no",
+  "outcomes": {
+   "relationships_social": "mixed"
+  },
+  "effect_sizes": [
+   {
+    "domain": "relationships_social",
+    "metric": "other",
+    "value": 14,
+    "note": "percent increase in social interactions"
+   }
+  ],
+  "review_details": null,
+  "notes": "Practicum with hearing buddies and training for deaf students; goals unmet but interactions rose somewhat."
+ },
+ {
+  "id": "ED378090",
+  "design": "pre_post",
+  "rigor": 2,
+  "n_youth": 292,
+  "country": "unclear",
+  "setting": "school_based",
+  "format": "mixed",
+  "mentor_type": "unclear",
+  "targets": [
+   "at_risk_behavior"
+  ],
+  "grade_band": "high",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "behavior_delinquency": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Peace curriculum with mentors lessened suspensions; mentoring a minor element; no comparison group."
+ },
+ {
+  "id": "ED383958",
+  "design": "other",
+  "rigor": 1,
+  "n_youth": null,
+  "country": "US",
+  "setting": "mixed",
+  "format": "one_to_one",
+  "mentor_type": "college_student",
+  "targets": [
+   "racial_ethnic_minority",
+   "disability",
+   "at_risk_behavior"
+  ],
+  "grade_band": "elementary",
+  "program_name": "Big Brothers Big Sisters",
+  "duration_months": 9,
+  "frequency": "weekly_or_more",
+  "bridging": "no",
+  "outcomes": {},
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Descriptive account of Hispanic college mentors paired with special education children; evaluation findings not given."
+ },
+ {
+  "id": "ED385811",
+  "design": "quasi_experimental",
+  "rigor": 3,
+  "n_youth": 426,
+  "country": "US",
+  "setting": "school_based",
+  "format": "group",
+  "mentor_type": "teacher_school_staff",
+  "targets": [
+   "at_risk_behavior"
+  ],
+  "grade_band": "middle",
+  "program_name": null,
+  "duration_months": null,
+  "frequency": "weekly_or_more",
+  "bridging": "no",
+  "outcomes": {
+   "behavior_delinquency": "positive",
+   "self_efficacy_confidence": "positive",
+   "academic_achievement": "positive",
+   "relationships_social": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Teacher-mentor substance prevention program with pre-post comparison group; positive results reported generally."
+ },
+ {
+  "id": "ED387413",
+  "design": "pre_post",
+  "rigor": 2,
+  "n_youth": 150,
+  "country": "unclear",
+  "setting": "community_based",
+  "format": "mixed",
+  "mentor_type": "unclear",
+  "targets": [
+   "general"
+  ],
+  "grade_band": "k12_mixed",
+  "program_name": null,
+  "duration_months": 7,
+  "frequency": "not_reported",
+  "bridging": "no",
+  "outcomes": {
+   "engagement_attendance": "mixed"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Church youth group tried small groups and mentoring; attendance rose but target missed; mentoring minor."
+ },
+ {
+  "id": "ED387602",
+  "design": "pre_post",
+  "rigor": 2,
+  "n_youth": 13,
+  "country": "unclear",
+  "setting": "workplace_career",
+  "format": "one_to_one",
+  "mentor_type": "unclear",
+  "targets": [
+   "racial_ethnic_minority"
+  ],
+  "grade_band": "college",
+  "program_name": "Building Bridges",
+  "duration_months": 2,
+  "frequency": "not_reported",
+  "bridging": "yes",
+  "outcomes": {
+   "psychosocial_other": "mixed",
+   "career_employment": "positive"
+  },
+  "effect_sizes": [],
+  "review_details": null,
+  "notes": "Minority interns paired with mentors in agriculture careers; life skills gains varied by year; interns valued career awareness."
+ }
+]
